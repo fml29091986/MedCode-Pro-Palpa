@@ -1,0 +1,3089 @@
+
+=== Página/Imagen image1.jpg ===
+
+A Y
+ha ] ' o + 1
+4 h yu”
+| hb AA 6 >
+” N ' <=
+<P >.
+e e : 3 á
+e y 3 y E
+58 A ] ;
+. E ' bs 44]
+7 ] 7
+| » E
+h o | di en >» A
+j 2 : J . pi HE? - _ Te
+EN pa f . >. y par De
+>”. b d PS ¿E P La
+A VII
+Les
+NISE
+€
+
+
+=== Página/Imagen image2.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa
+Etapa de vida niño - Sistema de Información HIS a [6] (5) Ss
+Catalogación hecha por la Biblioteca del Ministerio de Salud
+Manual de registro y codificación de la atención en la consulta externa: Etapa de vida niño. Sistema de información HIS / Ministerio
+de Salud. Dirección General de Intervenciones Estratégicas en Salud Pública. Dirección Ejecutiva de Intervenciones por Curso de Vida
+y Cuidado Integral. Etapa de Vida Niño. Oficina General de Tecnologías de la Información - Lima: Ministerio de Salud; 2021.
+66 p.; ilus.
+SALUD DEL NIÑO / ATENCIÓN INTEGRAL DE SALUD / SISTEMAS DE INFORMACIÓN / CLASIFICACIÓN INTERNACIONAL DE
+ENFERMEDADES / CODIFICACIÓN CLÍNICA / SISTEMA DE REGISTROS / SISTEMAS DE REGISTROS MÉDICOS COMPUTARIZADOS
+Manual de Registro y Codificación de la Atención en la Consulta Externa: Etapa de Vida Niño. Sistema de
+Información HIS
+Ministerio de Salud. Dirección General de Intervenciones Estratégicas en Salud Pública. Dirección Ejecutiva de
+Intervenciones por Curso de Vida y Cuidado Integral. Etapa de Vida Niño. Oficina General de Tecnologías de la
+Información (MINSA/DGIESP/DVICI/Etapa Vida Niño -OGTI)
+Equipo de Trabajo:
+Coordinadores de la Etapa de Vida Niño y Componente Neonatal de las DIRESAs/GERESAs/DIRIS
+Ing. Albertico Quispe Cruzatti, Director Ejecutivo de la Oficina de Gestión de la Información.
+Lic, Luis Pedro Valeriano Arteaga, Jefe de Equipo de la Oficina de Gestión de la Información.
+Ing. Wilson Fredy Urviola Zapata, Equipo Técnico de la Oficina de Gestión de la Información.
+Dr. José Eliseo Bernable Villasante, Director Ejecutivo de la Dirección de Intervenciones por Curso de Vida y
+Cuidado Integral.
+M.C. Mario Izquierdo Hernández, Coordinador de la Etapa de Vida Niño.
+Lic. Liz Milagros Albornoz Ureta, Equipo técnico del componente Neonatal.
+Lic. Blanca Távara Campos, Equipo técnico de la Etapa de Vida Niño.
+Lic. Domitila Huamán Baltazar, Equipo técnico Etapa de Vida Niño
+Lic, Marisol Borda Belizario, Equipo Técnico Etapa de Vida Niño
+Diseño y Diagramación:
+Julie Guillen Ramos, Equipo Técnico de la Oficina Gestión de la Información
+OMINSA, febrero, 2021
+Ministerio de Salud
+Av. Salaverry N? 801, Lima 11, Perú
+Telf: (51-1) 315-6600
+https://www.gob.pe/minsa
+webmasterOminsa.gob.pe
+1ra Edición, febrero 2021
+Versión Digital: https://bvs.minsa.gob.pe/local/MINSA/5792.pdf
+2 a Sistema de Información HIS
+
+
+=== Página/Imagen image3.jpeg ===
+
+0800 o ea de dd
+Sos " Amd 5
+$
+ÓSCAR RAÚL UGARTE UBILLUZ
+Ministro de Salud
+PERCY LUIS MINAYA LEÓN
+Viceministro de Salud Pública
+BERNARDO ELVIS OSTOS JARA
+Viceministro de Prestaciones y
+Aseguramiento en Salud
+SILVIANA GABRIELA YANCOURT RUIZ
+Secretaria General
+KARIM JAQUELINE PARDO RUÍZ
+Directora General de la Dirección
+General de Intervenciones
+Estratégicas en Salud Pública
+MIGUEL ÁNGEL GUTIERREZ REYES
+Director General de la Oficina General
+de Tecnologías de la Información
+Sistema de Información HIS a 3
+
+
+=== Página/Imagen image4.jpeg ===
+
+(6, A (5) O Manual de Registro y Codificación de la Atención en la Consulta Externa
+5d Etapa de vida niño - Sistema de Información HIS
+CONTENIDO
+PAG.
+Instrucciones generales para el registro y codificación de las actividades......oononncinnnmammmm. 07
+Organizacion de la Hoja HiS.cncnincnnnnnincrinnrannr ancora arar raro OZ
+Algunas recomendaciones para el llenado de la hoja HlS...ooonconnniononononenononacaricncarnaa OZ
+Lista de codigos para las actividades más frecuentes. ..mmmmninniininrnaerrrerarnrrerenrrrranra LO
+Instrucciones para el registro del plan de atención integral.......oonnnnnininnnnnnanianonanoniananianianian. 12
+Instrucciones para el registro durante la atención inmediata del recien nacido........oommmmmmmomamsm. 13
+Consideraciones en la valoración inicial del recién Nacido... 13
+Otras actividades codificadas que se realizan en la atención inmediata.coonnnnnnnnmenmaoso 14
+Instrucciones para el registro durante el alojamiento CONjUNtO...oooonncinnnmnmannse 16
+Tamizaje neonatal aocnnncnnnnnnnnnnnrcnnnnrnrcr rro rra 6
+Instrucciones para el registro durante la visita domiciliaria al recien nacido.......ommmmmmams+m”. 18
+Instrucciones especificas para el registro de los controles de crecimiento y desarrallo(CRED).... 20
+Consideraciones generales para el cred en el recién naci. ..ninnninnnnsme 20
+Consideraciones generales para el control del CRED en la niña y el niño mayor de 29 días........... 23
+Consideraciones generales para niñas y niños con riesgo en el crecimiento y desarrollo.............. 36
+Consideraciones generales para el seguimiento intramuro a niñas y niños con riesgo en
+eltcrecimiento y/o desarro lO rior rr rr rr rr 8
+Evaluación visual en niños menores de 3 años en Establecimientos de Salud.....oncninnncnannrarnnenannras. 39
+Sesiones de atención temprana del desarrollO....omnnninnoninnoncarnnrreerrrrrrrr 0)
+Instrucciones para el registro de las actividades en niñas y niños de establecimientos salud que
+no cuenten con profesionales de enfermeria/Mmédico....oomniminnirrriercrrcrrerrerrrrrrrercrn. AL
+Instrucciones para el registro de la visita domiciliaria....oonniionnnnnnocacracr AZ
+Instrucciones para el registro de la profilaxis antiparasitaria y suplementación de vitamina “A”.... 43
+Administración de antiparasitaTiOS...ooninnnnnnnnnrrrs cerrar 48
+Supl MENO CON VMINAA as EE
+Instrucciones para el registro de los servicios de latelemedicina durante el control del crecimiento
+RR
+Telecons ula coca AA
+Teleorientació casas ÁS
+¡EEN AAA
+Sistema de Información HIS a 5
+
+
+=== Página/Imagen image5.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa
+Etapa de vda nio Sistema de nformación 45 0800
+PÁG.
+
+Instrucciones para el registro de la atención de las Infecciones Respiratorias Aguda... 48
+Registro de la atencion de las Infecciones Respiratoras Agudas (IBAS) ...occcconinnnmenmansar. 49
+Registro del monitoreo del trataMientO. once rro rra rro DO
+Registro de la referencia a un establecimiento de mayor complejidad...ooononnnnnnmnmsm.. DÍ
+
+Instrucciones para el registro de la atención del Sindrome de Obstrucción Bronquial(SOB)- 53
+
+ASMIA..
+Registro de la atencion del Sindrome Obstructivo Bronquial(SOB) -ASMA..ciuciinininmicionaso. 53
+Registro de las conse aii 153
+
+Instrucciones para el registro de la atención de la Enfermedade Diarreica Aguda para la atención
+
+de las Enfermedades Diarreicas Agudas, sin deshidratación....omomonsninaserarrecra 58
+Atención de las Enfermedades Diarreicas Agudas, con complicacioneS.....ocnmononasionarisa GO
+SAS EAN
+Monitoreo del trataMientO...oninnnnnnnnnnninnaninnnconanraooronoo oran oo nro oo nooo oros ancora raras oras canoso. OL,
+ESPA AAA
+
+Instrucciones para el registro de la atención de Parasitosis Intestinal......omonnonninasnasmmasm. 63
+SN SN
+[AAA
+Registro de la profilaxis antiparasitaria en niños Y Nia.onnncnnnnnnncnrrnccrnaa 6D
+Visitadomicilldidussosansansansansansansan ns 0)
+Ree: 106
+
+6 al Sisterna de Información HIS
+
+
+=== Página/Imagen image6.jpeg ===
+
+a A (e) e Manual de Registro y Codificación de la Atención en la Consulta Externa
+> Etapa de vida niño - Sistema de Información HIS
+l. INSTRUCCIONES GENERALES PARA EL REGISTRO Y CODIFICACIÓN DE LAS ACTIVIDADES DE LA ETAPA DE
+VIDA NIÑO
+El sistema de información en consulta ambulatoria (HIS), es un conjunto de elementos que interactúan
+entre sí desarrollando procesos manuales y automáticos orientados al tratamiento y administración de
+datos e información generados en los servicios de consulta externa de los establecimientos de salud,
+los datos generados se almacenan, se procesan y se interpretan.
+1.1 ORGANIZACIÓN DE LA HOJA HIS
+Datos Generales
+Son los datos que constituyen la información básica similar para cada una de las atenciones y/o
+actividades de salud realizadas.
+se [y
+MINISTERIO DE SALUD
+|
+OFICINA GENERAL DE TECNOLOGIAS DE LA INFORMACION
+rsonamnoces [| OFICINA DE GESTION DE LA INFORMACION
+o O | Registro Diario de Atención y Otras Actividades de Salud
+EA TEENS AN NTE TESTA
+Datos Específicos Manual de Registro y Codificación de la Atención en la Consulta Externa
+. Etapapa de Vida de Niño - Sistema de Información HIS o
+Son datos particulareS a vaue aroma yy o arar sur ay yu variar e acuerdo alas características
+individuales de cada uno de los pacientes en el caso de las atenciones; o de los grupos de pacientes en
+las actividades de salud.
+LL PEA A AA
+DIA PROCEDENCIA EDAD [sexo | ceraLico y |antropomerRIc | elec [vicio] 'Y/DACTIVIDAD DE SALUD DIAGNÓSTICO] Lab CIEJCAr
+[socwina] aemotosINa To T+fe=T+ Jo]
+[NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACIMIENTO: LS FECHA ULTIMO RESULTADO DE Hb: y FECHA DE ULTIMA REGLA: / 4
+OOO A CE AI
+» s CIO O A LL O ARA
++
+pes LEO IO co 10 20 o 1 1 eee E EC E EE
+2.2 ALGUNAS RECOMENDACIONES PARA EL LLENADO DE LA HOJA HIS
+2.2.1 Edad:
+
+En la hoja HIS registre en valoresnuméricos y enteros, seguido del identificador del tipo de e dad
+
+(días, meses o años de la persona atendida).En una Atención: Registre en la edad cumplida del
+
+paciente,colocando en números si ésta es referida a días(D), meses(M) o años(A), es decir:
+
+*D = desde 01 día hasta los 29 días de edad.
+
+*M = desde 01 mes hasta los 11 meses de edad.
+
+*A = a partir de 01 año
+
+*En el caso del recién nacido de horas registre 01 día.
+
+2.2.2 Evaluación Antropomét rica y/o de Hemoglobina:
+
+a) Peso: Es la medición a ntropométrica de la fuerza de atracción a la tierra del cuerpo de una
+persona, que es utilizado para la valoración delestado nutricional. Normalm ente se expresa
+en kilogram os (kg).Se debe leer y registrar el valor de la medida con una aproximación de
+0.1kg8. (XX).
+
+Sistema de Información HIS a 7
+
+
+=== Página/Imagen image7.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (A
+Etapa de vida niño - Sistema de Información HIS o == 0) e
+
+b) Talla: Es la medición antropométrica de la longitud o estatura de una persona ,que es utilizado
+para la evaluación del crecimiento y valoración delestado nutricional. Normalmente se expresa
+en centimetros (cm).
+
+Se debe leer y registrar el valor de la medida con una aproximación de 0.1 cm. (XXX).
+
+Respecto al financiador, para la etapa de vida niño solo se deben consignar 1=Usuario, 2=Seguro Integral (SIS),
+
+ON 10=0tros y 11=Exonerados (niños y niñas que no son SiS y no pagan, exonerados por servicio social); eventualmente
+
+v 3=ESSALUD en el ámbito donde se realice el proceso de intercambio prestacional y 9=Privados si el establecimiento de
+
+Salud cuenta con algún convenio de carácter privado con alguna institución de la jurisdicción.
+
+c) Hemoglobina: Es una proteínacompleja ,constituida por el grupo hem (que contiene hierro y le
+da el color rojo aleritrocito) y una porción proteínica (la globina, compuesta por cuatro cadenas
+polipeptídicas: dos cadenas alfa y dos cadenas beta ). Es la principal proteína de transporte de
+oxígeno en el organismo.Normalmente se expresa en gramos por decilitros (g/dL ). Se debe leer
+y registrar el valor de la medida conuna aproximación de 0.18/dL.(XX.X)
+
+d) Fecha de Hemoglobina: Es la fecha de entrega de resultado de laboratorio de hemoglobina, su
+utilidad radica en que permite identificar en el tiempo el resultado y evita la duplicidad si es
+registrado en más de una ocasión por diferente personal de salud.
+
+2.2.3 Diagnóstico, Motivo de la Consulta y/o Actividad de Salud
+En el caso de enfermedad o Procedimiento, en el primer casillero debe registrarse el motivo de
+consulta o atención por el que acude el usuario, teniendo especial cuidado en hacerlo con letra
+clara y legible. No se deben utilizar abreviaturas ni siglas.
+
+En una Atención: Anote el o los diagnósticos de morbilidad o estado de salud de la persona, la
+condición de riesgo, daños externos y causas de daños, siendo posible anotar “n” diagnósticos,
+
+Actividades y procedimientos Tomando en cuenta el CIE y CPMS
+
+a) La clasificación internacional de enfermedades-ClE10:
+
+Ofrece una manera de poder registra una amplia variedad de signos, síntomas, hallazgos
+anormales, quejas y circunstancias de tipo social que están ocupando el lugar de los
+diagnósticos en los registros de salud.
+
+b) El Catálogo de Procedimientos Médicos y Sanitarios del Sector Salud - CPMS aprobado
+según R.M.902-2017/MINSA: Contiene la relación ordenada de los Procedimientos
+médicos con lafinalidad de estandarizar la identificación (clasificación, denominación,
+codificación y descripción) de los procedimientos médicos y sanitarios del sector salud
+para los diferentes usos. Está basado en la codificación y clasificación. Current Procedural
+Terminología(CPT ) internacional.
+
+2.2.4 Pertenencia Étnica: Es el reconocimiento que a una persona hace de un conjunto de características
+socioeconómicas y culturales , que considera como propiasta les como el idioma, la cosmovisión ,
+formas de producción, relaciones de parentesco, etc. , frente a grupos con particularidades
+diferentes.
+
+La R.M. N2975-2017/MINSA Aprueba la Directiva Administrativa N2240 -MINSA/2017/1NS:
+8 un Sistema de Información HIS
+
+
+=== Página/Imagen image8.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (4) [6.] 6 e
+Etapa de vida niño - Sistema de Información HIS
+Directiva Administrativa para el Registro de la Pertenencia Étnica en el Sistema de Información de
+Salud.
+En caso de menores de edad se considera el dato proporcionado por el responsable del niño o
+niña. El proveedor no debe suponer la respuesta.
+á Para mayor información sobre generalidades del registro HIS, siga las instrucciones que se dan en: Guía de Uso y
+eN Registro Diario de Atención y Otras Actividades de Salud en la Hoja HIS Minsa.
+Sistema de Información HIS a 9
+
+
+=== Página/Imagen image9.jpeg ===
+
+a o800
+11. LISTA DE CODIGOS PARA LAS ACTIVIDADES MÁS FRECUENTES
+99436 Atención del recién nacido metabólico: toma de muestra.
+inmediatamente después del parto/ 87177.01 Estudio parasitológico por 3
+Atención inmediata del Recién Nacido 87178 Test de Graham.
+99436.02 Contacto piel a piel del RN con su madre 96110 Tamizaje de desarrollo, con
+99460 Atención inicial del recién nacido dada interpretación y reporte, por formato
+en el hospital o centro materno, para la de instrumento estandarizado.
+evaluación y manejo del recién nacido 85018 Dosaje de Hemoglobina
+normal/Alojamiento Conjunto. coo11 Visita familiar integral
+99381.01 Atención Integral de Salud del niño - 99252 Consejería nutricional de niños en
+CRED Neonato riesgo.
+99381 Atención Integral de Salud del Niño- 39401 Consejería en medicina preventiva
+CRED menor de 1 año y/o provisión de intervenciones de
+99382 Atención Integral de Salud del Niño- reducción de factores de riesgo,
+CRED de 1a4 años proporcionados a individuo, durante
+99383 Atención Integral de Salud del Niño- aproximadamente 15 minutos (p. ej.
+CRED de 5 a 11 años. consejería integral).
+99411.01 Atención Temprana del Desarrollo. 99401.01 Consejería en el apego y
+Áreas:Lenguaje, motora, de coordinación comunicación.
+y social) /Sesión. En menor de 1 año 99401.03 Consejería en Lactancia Materna
+99411.02 Atención Temprana del Desarrollo. Exclusiva.
+Áreas:Lenguaje, motora, de 99401.04 Consejería en corte y cuidado del
+coordinación y social)/Sesión. 1 a 4 ños cordón umbilical.
+99205 Atención de enfermería en | nivel de 99401.05 Consejería en atención temprana del
+atención*seguimiento desarrollo
+99242 Interconsulta ambulatoria para la 99401.06 Consejería en importancia del control
+evaluación y manejo de un paciente de crecimiento y desarrollo
+nuevo o continuador. (4 controles)
+99431 Anamnesis y el examen físico del 99401.07 Consejería en inmunizaciones
+recién nacido normal 99401.08 Consejería de identificación de signos
+99431.01 Identificación de Hipoacusia/Tamizaje de alarma.
+de hipoacusia. 99401.09 Consejería para la prevención de
+99431.02 Identificación de Catara Congénita muerte súbita del lactante.
+Tamizaje de cataratas congénita. 99401.10 Consejería en higiene del recién
+99433 Evaluación y manejo diario de un nacido, niño o niña y cuidado en el
+recién nacido normal hospitalizado/ hogar.
+Evaluación médica del recién nacido. 99401.12 Consejería para la prevención de
+94760 Oximetría no invasiva de la oreja o enfermedades prevalentes (EDA, IRA,
+de pulso para determinar saturación entre otras)
+de oxígeno; una sola determinación/ 99401.24 Consejería en higiene de manos
+Tamizaje de cardiopatía congénita 99401.17 Consejería y acompañamiento en
+99502 Visita domiciliaria para cuidado y alimentación con sucedáneos de
+evaluación neonatal leche materna a neonatos expuestos
+99403.01 Consejería nutricional: Alimentación al VIH
+saludable 99401.25 Consejería en pautas de crianza,
+36416 Colección de sangre capilar (p. ej. buen trato, comunicación y cuidados
+dedo, talón uoreja) /Tamizaje neonatal adecuados.
+10 un Sistema de Información HIS
+
+
+=== Página/Imagen image10.jpeg ===
+
+a o800
+99403 Consejería en medicina preventiva aproximadamente 45 minutos (p. ej.
+y/o provisión de intervenciones de consejería nutricional).
+
+reducción de factores de riesgo, 99403.01 Consejería nutricional: Alimentación
+proporcionados a individuo, durante saludable.
+DO120 Examen estomatológico no especificada.
+PO70 Peso extremadamente bajo al nacer, E45X Retardo del desarrollo debido a
+Recién nacido cuyo peso al nacer es desnutrición proteicocalórica.
+de 999 gramos o menos. /RN peso E669 Obesidad, no especificada.
+extremadamente bajo al nacer. R628 Otras faltas del desarrollo fisiológico
+PO71 Otro peso bajo al nacer, Recién nacido normal esperado (Inadecuado Peso/
+cuyo peso al nacer va de 1000 a 2499 Talla).
+gramos/RN bajo peso al nacer. E441 Desnutrición proteico calórica leve
+PO072 Inmaturidad extrema, recién nacido (ausencia de ganancia de peso en
+con una gestación de menos de 28 niños con un peso observado de 1 a
+semanas completas (menos de 196 menos de 2 desviaciones).
+días completos) /RN prematuro R620 Retardo del desarrollo.
+extremo. E6690 Aumento anormal de peso
+PO73 Otros recién nacidos pretérminos, (Sobrepeso)
+recién nacido con una gestación D509 Anemia por deficiencia de Hierro sin
+entre 28 semanas completas y menos Especificación.
+de 37 semanas completas (196 días Z001 Control de salud de rutina del niño
+completas, pero menos de 259 días Z002 Examen durante el período de
+completos) /RN prematuro. crecimiento rápido en la infancia
+0Q02X Microcefalia 2724 Problemas relacionados con la dieta
+PO8o Recién nacido excepcionalmente y hábitos alimentarios inapropiados.
+grande, Generalmente implica un (Alimentación complementaria
+recién nacido de peso al nacer de inadecuada)
+4500 gramos o más. Qq120 Catarata congénita
+PO81 Otro recién nacido con sobre peso H902 Hipoacusia conductiva, sin otra
+para la edad gestacional, sin especificación
+importar el periodo gestacional. ES9 Fibrosis quística, sin otra especificación.
+PO82 Recién nacido postérmino sin E700 Fenilcetonuria clásica
+sobrepeso para su edad gestacional, E250 Hiperplasia suprarrenal congénita
+con periodo gestacional de 42 E031 Hipotiroidismo congénito sin bocio
+semana completas o más (294 días  P929 Problema no especificado de la
+o más), sin sobrepeso o grande para alimentación del recién nacido/
+la edad/recién nacido postérmino. Suspensión de la LME en el neonato y
+E344 Estatura Alta Constitucional niño
+E440 Desnutrición Proteicocalorica
+Moderada
+E43X Desnutrición Proteicocalorica Severa,
+“Los ejemplos del presente manual son modelos que establecen el criterio descrito para el registro de actividades de
+y atención”
+Sistema de Información HIS a 11
+
+
+=== Página/Imagen image11.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS e
+1Il. INSTRUCCIONES PARA EL REGISTRO DEL PLAN DE ATENCIÓN INTEGRAL
+El Plan de Atención Integral lo registra el profesional de la salud que inicia la atención al neonato (luego
+del alta en caso de nacimiento en EESS y en caso de nacimiento atendido en domicilio en la primera
+atención), el niño y la niña (enfermera/médico) en el formulario HIS al momento de su elaboración
+y cuando se concluye con la entrega de todas las prestaciones previstas en el plan de acuerdo con las
+normas técnicas vigentes.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
++ En el 1? casillero: Plan de Atención Integral
+EN En los casilleros restantes registrar los “diagnósticos, motivo y/o actividades” correspondientes a la atención.
+v
+En el ítem: Tipo de diagnóstico marque:
+e SIEMPRE “D”
+En el ítem Lab anote:
+*eSI se esta iniciando el Plan de Atención Integral corresponde registrar en el LAB: “1”
+Ejemplo: Inicio del Plan de Atención Integral ( Elaborado)
+MAA cenmerso | evatacon  JEsta] ser] DIAGNÓSTICO MOTIVO DE CONSULTA Po DE cS0160
+DIA A] 040 io] cericor | sorroromeraca | gr | yoyo Y/O ACTIVIDAD DE SALUD. sucnóco | PORRES QEfcer
+o e | o | pl PeToTe]* [+*T>*]
+NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACIMIENTO: ff FECHA ULTIMO RESULTADO DE Hb:____/_ FECHA DE ULTIMA REGLA: ff
+ONGEJEENO O ATC 0108 0 IN
+pegan NTZ
+== : A
++
+y] [>] [e] fefsk>  Jelejs| [il] - ]
+eSí el Plan de Atención Integral a culminado , corresponde registrar en el LAB : “TA”
+Ejemplo: Termino del Plan de Atención Integral (Ejecutado)
+Dieron ca | PERIMETRO EVALUACION Buec [vicio Y/O ACTIVIDAD DE SALUD oiasnbsTico | VALOR DELAB CE Jcer
+OA | musroma cuca sexo] cesmucor | anraorouerna
+E — 5 | erro soso ascomnaL | emociona
+Bebo
+[NOMBRES Y APELUDOS PACIENTE: (*)FECHA DE NACIMIENTO: 23 FECHA ULTIMO RESULTADO DE Hb: /__FECHA DE ULTIMA REGLA: / 4
+E E CA EC O TE 1 CA II
+ME rus | o > p>2>2»>2-- feels] [Y - |
++
+css 0 AO 1 ES pc o O e A E A
+A El profesional de salud deberá verificar que el neonato, niña o niño ha cumplido con todas las intervenciones del paquete
+de atención integral según documento normativo vigente antes de colocar “TA” el formulario HIS.
+12 un Sistema de Información HIS
+
+
+=== Página/Imagen image12.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS e
+IV. INSTRUCCIONES PARA EL REGISTRO DURANTE LA ATENCIÓN INMEDIATA DEL RECIEN NACIDO
+La Atención Inmediata del Recién Nacido es el conjunto sistematizado de procedimientos,
+intervenciones y actividades, que se realiza a todo recién nacido, inmediatamente al nacimiento,
+hasta las 2 primeras horas de vida. Las intervenciones que forman parte de la atención inmediata
+deben ser posteriores al contacto piel a piel y de haberse iniciado la lactancia materna en la primera
+hora del nacimiento.
+Esta atención incluye:
++ Preparación y verificación del material, equipo y ambiente para la atención del recién nacido.
++ Evaluación del riesgo de la niña o niño durante y después del nacimiento; elaboración de la Historia
+Clínica Perinatal.
+Primeros 60 minutos
++ Recepción del RN y valoración de su condición + Monitorizar y garantizar el oportuno contacto
+de salud. piel a piel con la madre e inicio de la lactancia
++ Evaluación del APGAR al minuto y a los 5 materna (60 minutos).
+minutos. + Procedimientos para identificación del RN
++ Procedimientos para prevenir pérdida de calor. (Colocación del brazalete con datos
+completos)
+Posterior a los 60 minutos hasta las 2 horas de nacido
++ Evaluación fisica y neurológica. + Identificación de signos de alarma del recién
++ Evaluación de la edad gestacional utilizando el nacido y referencia oportuna, si corresponde.
+Test de Capurro. + Exámenes de laboratorio (grupo sanguínea y
++ Clampaje definitivo y Cuidados del cordón factor Rh, hemoglobina, glucosa, etc.)
+umbilical. + Consejería a la madre sobre lactancia materna
++ Somatometría precoz y educación sobre signos de alarma
++ Administración de vitamina K. neonatal.
++ Profilaxis ocular de la oftalmia neonatal. + Registro de datos en la historia clínica y/o base
+de datos.
+4.1 CONSIDERACIONES EN LA VALORACIÓN INICIAL DEL RECIÉN NACIDO
+| Edad Gestacional | Clasificación | CIELO
+| Recién nacido con edad gestacional menor a 28 | Inmaturidad extrema, /RN prematuro | 0x5
+semanas (menos de 196 días). extremo
+[Recién nacido con edad gestacional mayor a 28 o o o |
+semanas y menor de 37 semanas (mayor a 196 o OO RA P07.3
+| dias hasta, 259 dias). prematuro |
+Edad gestacional mayor o igual a 42 semana (294 Recién nacido pos dérmino sin sobrepeso
+desomásl para su edad gestacional, sin sobrepeso o | P08.2
+grande para la edad/RN pos término.
+Sistema de Información HIS a 13
+
+
+=== Página/Imagen image13.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS >
+PESO DEL RECIÉN NACIDO
+| Punto de Corte | Clasificación ClE1O |
+Menor de 1000 gramos Extremadamente bajo P070 |
+| De 1000 a 1499 gramos | Muy bajo peso al nacer T PO711 Í
+| De 1500 a 2499 gramos | Bajo peso al nacer PO712 |
+A... Qu € vqQRr 22
+| Mayor a 4000 gramos | Macrosómico | POSO |
++ El RESULTADO de la valoración de la condición del recién nacido se registrará SOLO en caso
+de alguna alteración (bajo peso, prematuridad, etc.)
+4.2 OTRAS ACTIVIDADES CODIFICADAS QUE SE REALIZAN EN LA ATENCIÓN INMEDIATA
+ACTIVIDAD | CODIGO
+Atención inmediata del Recién Nacido 99436
+Contacto piel a piel | 99436.02
+Examen físico del recién nacido normal 99431
+EJEMPLO 1:
+Registro de un recién nacido normal con edad gestacional mayor a 37 semanas
+En el ítem: Diagnóstico motivo de consulta y/o Actividad de salud registrar:
++ Enel 1? casillero: considerar la atención prestacional del Recién Nacido.
++ Enel 22 casillero: registrar el procedimiento que se realiza en la primera hora del nacimiento
+(SOLO si esta actividad se realizó).
++ Enel 3? casillero: registrar el examen físico realizado al RN (SOLO si esta actividad se realizó).
+En el ítem: Tipo de diagnóstico marque siempre “D”, por ser actividades que se realizan por única
+vez en el recién nacido:
+O O DIASNÓSIEO MOTIVO DECONSUTA TÓDIGO
+aDoMINA | HemoLoBIna TT 11
+[NOMBRES Y APELLIDOS PACIENTE: (FECHA DE NACIMIENTO: Js FECHA ULTIMO RESULTADO DE Hb: E FECHADE ULTIMA REGLA: /  /
+2D ]> Pes PQ rrsnemesaan Pope] | poe]
+IA A 1 E O EE TEE 1 E IEA
+A 1 0 Mc o CC O AN
+*CNV*: En este casillero registrar el número correlativo del CNV
+EJEMPLO 2:
+Registro de un recién nacido prematuro (menor a 37 semanas de gestación)
+En el ítem: Diagnóstico motivo de consulta y/o Actividad de salud registrar:
++ Enel 1? casillero: considerar la atención prestacional de salud del Recién Nacido
++ Enel 22 y 32 casillero: considerar el RESULTADO de la valoración de la condición del recién
+nacido (SOLO en caso de alguna alteración)
++ En el 4? casillero: registrar el examen físico realizado al RN (solo si esta actividad se realizó).
+14 un Sistema de Información HIS
+
+
+=== Página/Imagen image14.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS >.
+
+En el ítem: Tipo de diagnóstico marque siempre “D”, por ser actividades que se realizan por única vez.
+O O E DIAGNESTTO MONVO DECONSUDA. CÓDIGO
+aoorana] nevostoaia [A E EE
+
+NOMBRES Y APELUDOS PACIENTE: (*)FECHA DE NACIMIENTO: y] FECHA ULTIMIO RESULTADO DE Hb: Jl FECHA DE ULTIMA REGLA: / 4
+OI e O E EA
+po | 0 o O E E E TC 1 E IC
+o o o cree 00 AA
+
+INOMBRES Y APELLIDOS PACIENTE: (ó)FECHA DE NACIMIENTO: pS FECHA ULTIMO RESULTADO DE Hb: JN] FECHA DE ULTIMA REGLA: / /
+IS O 1 1 E O BEI O
+
+E e a
+E AA] E]
+|]
+CNV *: En este casillero registrar el número correlativo del CNY:
+**si el RN prematuro presenta buen tono muscular, buen esfuerzo respiratorio y APGAR mayor a 7pts y la madre no presente condiciones desfavorables, se realizará el contacto piel a
+piel y en consecuencia a ello, la lactancia a primera hora.
+“En caso de que el neonato nació deprimido y/o con alguna complicación, llegando finalmente
+a fallecer, se registrará en el primer casillero la atención inmediata y en el segundo casillero
+v el diagnostico CIE X que haya producido la muerte”
+Sistema de Información HIS a 15
+
+
+=== Página/Imagen image15.jpeg ===
+
+a o806
+V. INSTRUCCIONES PARA EL REGISTRO DURANTE EL ALOJAMIENTO CONJUNTO
+Es la permanencia del recién nacido y su madre en la misma habitación desde el nacimiento hasta el
+momento que sean dados de alta. Durante este periodo se facilita y fortalece el apego y la lactancia
+materna; donde se brinda los cuidados integrales básicos al neonato dentro del ambiente hospitalario
+(Puerperio) como: evaluación clínica permanente del neonato, inmunizaciones, orientación y consejería en
+temas relacionados al cuidado integral del neonato dentro del entorno familiar, consejería, demostración
+y supervisión de lactancia materna, etc.
++ Registro de datos del recién nacido/a en + Garantizar la evaluación clínica permanente del
+registros virtuales y/o registros físicos según a la neonato.
+complejidad del EE.SS. + Cumplimiento de exámenes de laboratorio según
++ Previa información a la madre; el recién nacido corresponda.
+es colocado en alojamiento conjunto (junto ala + Administrar vacunas según corresponda.
+madre). + Orientar sobre los trámites para la obtención
++ Monitorizar la estabilidad térmica, frecuencia del CUI/DNI, afiliación al sistema de
+cardiaca; frecuencia respiratoria neonatal y el aseguramiento que corresponda.
+riesgo de desaturación. + Entrega del carné neonatal al alta, indicando
++ Garantizar condiciones adecuadas de abrigo. las fechas de controles CRED de acuerdo con la
++ Promover la práctica de la lactancia materna norma vigente. Entrega a la madre de hoja de
+exclusiva. contrarreferencia y/o informe médico de ser el
++ Supervisar y registrar el tiempo y número de caso e informar al EESS de origen.
+tomas de la lactancia materna, evacuaciones + Aplicar protocolos de manejo en casos
+y micciones, así como la ganancia o pérdida especiales según normas vigentes.
+fisiológica del peso.
+Las actividades que se realizan en la atención inmediata y el alojamiento conjunto, no
+dá son actividades que se realicen en los consultorias o de manera ambulatoria, pero por su
+AS importancia como indicador, hace necesario su registro en el presente manual.
+5.1 TAMIZAJE NEONATAL:
++ Tamizaje Neonatal Metabólico: Hipotiroidismo congénito, Hiperplasia Suprarrenal Congénita,
+Fenilcetonuria y Fibrosis Quística.
++ Tamizaje Neonatal de hipoacusia congénita.
++ Tamizaje Neonatal de catarata congénita.
++ Tamizaje de cardiopatía congénita
+Algunas Actividades Codificadas que se realizan en Alojamiento Conjunto:
+Atención del recién nacido en Alojamiento conjunto 99460
+Anamnesis y el examen físico del recién nacido normal 99431
+_Tamizaje de hipoacusia. 99431.01
+Tamizaje de catarata congénita 99431.02
+Tamizaje neonatal: toma de muestra 36416
+_ Evaluación médica del recién nacido _ 99433
+Tamizaje de cardiopatía congénita 94760
+Hemoglobina 85018
+Glicemia por tira reactiva | 82948 J
+| Glucosa cuantitativa | 82947
+16 un Sistema de Información HIS
+
+
+=== Página/Imagen image16.jpeg ===
+
+a o800
+Para el registro de los tamizajes de hipoacusia congénita y de las cuatro (O4)Jenfermedades
+ON metabólicas (toma de muestra) deberán considerarse:
+6 e LAB “1” cuando es la primera muestra o el primer examen.
+e LAB “2” solo en el caso que la primera muestra o al primer examen sea de un resultado
+indeterminado, sospechoso, entre otros.
+Para el registro del tamizaje de Cardiopatía Congénita considerar siempre los siguientes LAB, según
+corresponda:
+» LAB 1: Cuando el Tamizaje de cardiopatía congénita resultó positivo.
+» LAB 2: Cuando el tamizaje de cardiopatía congénita resultó negativo.
+Respecto a la evaluación médica, esto deberá ser registrado por el médico que realizó la citada actividad.
+Consejería en corte y cuidado del cordón umbilical 99401.04
+Consejería en Lactancia Materna Exclusiva [ 99401.03 |
+Consejería en importancia del control de crecimiento y 99401.06
+| desarrollo (4 controles) '
+Consejería de identificación de signos de alarma. Ñ 99401.08 |
+Consejería en higiene del recién nacido, niño o niña y 99401.10
+cuidado en el hogar JE Jl
+Consejería y acompañamiento en alimentación con 99401.17
+sucedáneos de leche materna a neonatos expuestos al
+| VIH | ]
+EJEMPLO 1:
+Recién Nacido con tiempo de permanencia en Alojamiento Conjunto menor a 48 horas.
+En el ítem: Diagnóstico motivo de consulta y/o Actividad de salud anote:
++ En el 1? casillero registre la prestación: Alojamiento Conjunto SOLO SI se realizaron las actividades
+antes descritas.
++ Enel 2” casillero registre la evaluación médica al recién nacido en alojamiento conjunto, SOLO SI
+el médico realizó la actividad.
++ Elregistro de las VACUNAS que se administró será según manual de codificación de
+inmunizaciones
++ Enel3” y 4” casillero registre los exámenes de laboratorio
++ Enel5”, €? y 7” casillero registre los tamizajes realizados
++ Enel 8” y %casillero registre las consejerías realizadas, según prioridad. (SOLO SI SE REALIZÓ)
+En el ítem: Tipo de diagnóstico marque siempre “D”
+on de Información HIS o a ye 17
+-—_— yO E
+
+
+=== Página/Imagen image17.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (6) Q (9) (3)
+Etapa de vida niño - Sistema de Información HIS a
+A] PERIMERO] EVALUACIÓN [ESTA] SE DIAGNOSTICO MOTIVO DECONSUDTA CODIGO
+
+ola srocemencia | coa |sexo| cerauicoy | anrrocomertica | auge [cio WO ACTÍMDADDE SALUD pussnósnco| as UEJcOr
+ABDOMINA| HEMOGLOBINA PploTe [+ T>=T]+*]
+NOMBRES Y APELUDOS PACIENTE: (*)FECHA DE NACI MIENTO: 4 FECHA ULTIMO RESULTADO DE Hb: IS, FECHADE ULTIMAREGLA: JJ
+z 7
+A OOO A
+E] e pepa cms [e] e] |] o. 7]
+se +
+o A A co o rc 1
+NOMBRES Y APELLIDOS PACIENTE: (%)FECHA DE NACIMIENTO: 1 FECHA ULTIMO RESULTADO DE Hb: ES FECHADE ULTIMAREGLA: /  /
+A OI O e DO
+r A E NA
+O y O O O ETA
+IA ATA mecanasas Tel |] [a
+[No mares Y APELIDOS PAgEMTE DE MaMEnTO 7 FECHALLIMO RESULADO DEM JJ FECMADE ATVAREGA
+TH el] ETA centenas —Tepda]] Y Yoo]
+AA pre] tell a ee] [| | esteros |
+[7 | 1 | Dx] | sssoos |
+A o o co oo ERP ss
+EJEMPLO 2:
+Recién Nacido con tiempo de permanencia en Alojamiento Conjunto igual o mayor a 48 horas.
+En el ítem: Diagnóstico motivo de consulta y/o Actividad de salud anote:
++ En el 12 casillero registre: Alojamiento Conjunto SOLO SI se realizaron las actividades antes
+descritas.
++ En el 2” casillero registre la evaluación médica al recién nacido en alojamiento conjunto, SOLO SI
+esta actividad lo registra el médico.
+e El registro de las VACUNAS que se administró será según manual de codificación de
+inmunizaciones.
++ Enel 3” y 4? casillero registre los exámenes de laboratorio.
++ Enel5”, 6”, 7” y 8” casillero registre los tamizajes realizados
++ Enel 9 casillero registre las consejerías realizadas, según prioridad. (SOLO SI SE REALIZÓ)
+En el ítem: Tipo de diagnóstico marque siempre “D” por ser código de actividades
+TE] PERIMERO | EVALUACION JETA] 57 DIAGNÓSTICO MOTIVO DECONSULTA. TÓDIGO
+EA A
+ABDOMINA | AHEMOGLORINA| PrToTriTe+T>]
+NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACIMIENTO: JE FECHA ULTIMO RESULTADO DE Hb: JS, FECHA DE ULTIMA REGLA: /  /,
+O a O O OOO
+EY A e E EA ECETIA E
+po ]* px] * Ju] [elsfcmsomo > [o[xfe] | [ ] ss |
+NOMBRES Y APELLIDOS PACIENTE: (FECHA DE NACIMIENTO: ya FECHA ULTIMO RESULTADO DE Hb: pS FECHA DE ULTIMA REGLA: /  /,
+INS O IO O ES OC E DCI E IN
+E] AA e cra cs rap] 7]
+7] A TE merca Tree]
+[NOMBRES Y APELUIDOS PACIENTE TECH DE NACIMIENTO: JJ PECAR UTIMO RESULTADO DEM JJ FEROE MARES Y
+A O O O O O O
+EA CO O AO 0 E ET
+|.— $ Consejería en Lactancia Materna y
+AA |] B CIO ARA EA
+“La toma de muestra para el tamizaje Neonatal (detección de 04 enfermedades metabólicas) se realizará en
+Alojamiento Conjunto, cuando la permanencia de la madre sea mayor o igual a 48 horas en el EESS, en caso de
+que la permanencia sea menor, se realizará la toma de muestra en el Control del Crecimiento y Desarrollo del
+Recién Nacido”. Según lo indica la NTS N“154-MINSA/2019DGIESP.
+18 al Sistema de Información HIS
+
+
+=== Página/Imagen image18.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 13)
+Etapa de vida niño - Sistema de Información HIS == a
+VI. INSTRUCCIONES PARA EL REGISTRO DURANTE LA VISITA DOMICILIARIA AL RECIEN NACIDO
+Se considera visita domiciliaria al desplazamiento del personal de salud a la vivienda de la familia del
+neonato con el objetivo de desarrollar acciones de captación, acompañamiento y seguimiento dirigida al
+neonato y sufamilia, donde se considera la evaluación del entorno en el hogar, verificación y fortalecimiento
+de prácticas claves en el cuidado del neonato, identificación de signos de alarma y acciones a tomar,
+incluye:
++ Evaluación del cuidado esencial neonatal.
++ Evaluación del entorno en el hogar.
++ Verificación y fortalecimiento de las prácticas clave en el cuidado del RN (lactancia materna,
+lavado de manos, higiene, cuidado del cordón, vacunas, abrigo, afecto, estimulación temprana del
+desarrollo); identificación de signos de alarma y acciones a tomar.
+Visita domiciliaria para el cuidado y evaluación 99502
+neonatal
+Anamnesis y el examen físico del recién nacido normal | 99431
+Consejería en higiene del recién nacido, niño o niña y 99401.10
+cuidado en el hogar |
+Consejería en el cuidado del cordón umbilical | 99401.04
+Consejería en importancia del control de crecimiento y 99401.06
+desarrollo (4 controles) |
+Consejería en Lactancia Materna Exclusiva 99401.03 |
+Consejería de identificación de signos de alarma | 99401.08
+Consejería en higiene del recién nacido, niño o niña y 99401.10
+cuidado en el hogar
+Consejería en higiene de manos 99401.24
+EJEMPLO 1:
+Visita domiciliaria a un recién nacido en su 7mo día de vida.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
++ Enel 12 casillero registrar la PRESTACIÓN: Visita domiciliaria
++ Enel 22 casillero registrar la actividad: Examen Físico al Recién Nacido
++ Enel 32 y 4? casillero consignar siempre las consejerías respecto a la evaluación realizada en la visita
+domiciliaria (registrar máximo dos consejerías por visita según orden de prioridad).
+En el ítem: Tipo de diagnóstico marque SIEMPRE “D”
+TT | DSTATODE O ES DAENSTCO MOTIVO DECONSUTA ODE] VAR 5
+JABDOMINA | A HEMOGLOBINA] PpTofr*[=T=T=>]
+[=== IA IEA
+IN dro A E
+o O coo +++ 0 NET
+A A ZA
+E pp 1 Er pe] fefepo PHP] |] |
+e 0 A 10 CO CAC O LS A A
+se le ha realizado el Tamizaje neonatal completo y aplicado las Vacunas para la edad
+Sistema de Información HIS a 19
+
+
+=== Página/Imagen image19.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS >
+VII. INSTRUCCIONES ESPECIFICAS PARA EL REGISTRO DE LOS CONTROLES DE CRECIMIENTO Y DESARRALLO
+(CRED)
+7.1 CONSIDERACIONES GENERALES PARA EL CRED EN EL RECIÉN NACIDO
+
+El control de Crecimiento del Recién Nacido es una de las principales actividades realizada desde las
+
+48 horas del alta hasta 28 días de vida, donde se evaluará periódicamente el crecimiento, ganancia
+
+de peso y desarrollo (físico y neurológico) e identificar precozmente los signos de peligro en el niño
+
+o niña durante el periodo neonatal y se brinda consejería respecto al cuidado integral del recién
+
+nacido, incluye:
+
++ Identificación y registro de factores de + Verificación y administración de vacunas que
+riesgo individual, familiar y del entorno. faltan en el recién nacido de acuerdo con el
+
++ Evaluación física y neurológica. esquema vigente.
+
++ Evaluación del crecimiento y ganancia de + Identificación de signos de alarma Consejería
+peso. en lactancia materna, enfatizando la técnica de
+
++ Evaluación de la Técnica de lactancia lactancia en posición, agarre y succión efectiva,
+materna y promover su exclusividad frecuencia, duración, extracción manual y
+hasta los 6 meses. conservación de leche materna.
+
++ Toma y envío de muestra para el Tamizaje + Consejería sobre el cuidado integral del RN
+neonatal de acuerdo con la normatividad (higiene, cuidado del cordón, vacunas, abrigo,
+vigente (TSH, Fenilcetonuria, Fibrosis afecto, identificación de signos de alarma y
+quística e Hiperplasia Suprarrenal). acciones a seguir, y otros según necesidad.)
+
++ Verificación del tamizaje neonatal. + Identificación de factores de riesgo de violencia
+(Hipoacusia y catarata congénita). familiar y maltrato infantil.
+
++ Verificación del registro del RN (Código + Elaboración de plan de atención integral del RN.
+único de identidad y DNI).
+
+Edad Concentración Periodicidad
+Recién 2 28 horas (2 días) del alta de Parto Institucional e inmediato
+Nacido cuando sea parto domiciliario y luego al 72, 142 y 212 dias de
+vida.
+ACTIVIDADES Y CODIGOS MÁS FRECUENTES
+Control de salud de rutina del niño 200.1
+Atención Integral de Salud del niño -CRED Neonato | 99381.01 |
+Tamizaje de Hipoacusia | 9431.01
+Tamizaje de catarata congénita | 99431.02 |
+Tamizaje neonatal: toma de muestra | 36416
+Examen estomatológico | Dolo |
+Desnutrición proteico calórica moderada (ausencia de ganancia de peso en niños con un E44.O
+peso observado de 2 a menos de 3 desviaciones)
+Desnutrición proteico calórica leve (ausencia de ganancia de peso en niños con un peso E44.1
+observado de 1 a menos de 2 desviaciones). |
+Retardo del desarrollo R62.0
+Catarata congénita | alo
+Hipoacusia conductiva, sin otra especificación H90.2
+Fibrosis quística, sin otra especificación | E84.9
+Fenilcetonuria clásica E70.0
+Hiperplasia suprarrenal congénita | E25.0
+Hipotiroidismo congénito sin bocio EO3.1
+¡Consejertaten:culdado del'cordón umbilical: PHR0T04
+20 un Sistema de Información HIS
+
+
+=== Página/Imagen image20.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS e
+EJEMPLO 1:
+Primer control de un recién nacido de 3 días de vida, producto de un parto domiciliario.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
++ Enel 12 y 22 casillero: considerar la atención prestacional de salud del Recién Nacido, con la
+respectiva codificación.
++ Enel 3%, 4y 5” casillero registre el Tamizaje Neonatal a realizar
++ En el €? casillero se registra el examen estomatológico (solo si se realizó)
++ Enel 72 y 82 casillero se registra la consejería que se brinda (no mayor a dos consejerías por control,
+según prioridad)
+En el ítem: Tipo de diagnóstico marque SIEMPRE “D”
+En el ítem Lab anote:
++ En el 2? casillero el número de control de CRED del recién nacido
++ Enel 3” y 4” casillero de que corresponde al Tamizaje, colocar el número 1.
+o A A PERIMETRO] EVALUACION JESTA-] SER- DIAGNÓSTICO MOTIVO DE CONSULTA. CÓDIGO.
+ABDOMINA | AHEMOGLOBINA] [eToTe[=T=[»]1
+[NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACI MIENTO: JN] FECHA ULTIMO RESULTADO DE Hb: JN] FECHA DE ULTIMA REGLA: / 4
+O a O O AE
+po] a pue] 52 De en lr lafe]o] | | coso: |
+Edel] rel Tocar YT se 7]
+NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACIMIENTO: y] FECHA ULTIMO RESULTADO DE Hb: py FECHA DE ULTIMA REGLA: JJ
+QT Te AA ereencncass Te Pqe] T Yee]
+IA ART o rmencnacno —]>P] Y PY vo]
+E aa TO a $4 re]
+[NOMBRES Y PEL DOS PAGE PERO MENTO: JJ FECHA LAMO RESULTADO DEMO JJ FECMADE AMA REGIA Y
+[EA TI lule] elo [el casseroattos opel [ | [ osos |
+== Y A A
+[=> +
+>>] [>] pe] Jefe tre I] |]
+El examen clínico estomatológico del recién nacido debe realizarse en el primer control a fin de evidenciar
+alteraciones o patologías que puedan dificultar el proceso de succión y garantizar un tratamiento oportuno o su
+derivación según el caso lo amerite.
+Este examen debe ser realizado por el cirujano dentista o un Odontopediatra, según el nivel de atención del EESS.
+Sistema de Información HIS a 21
+
+
+=== Página/Imagen image21.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 13)
+Etapa de vida niño - Sistema de Información HIS > »
+
+EJEMPLO 2:
+
+Segundo Control de un Recién Nacido de 7 días a más, producto de un Parto Institucional (con permanencia
+
+igual o mayor a 48 horas).
+
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
+
++ Enel 12 y 22 casillero: considerar la atención prestacional de salud del Recién Nacido, con la respectiva
+codificación.
+
++ En el 3? casillero el RESULTADO del tamizaje neonatal [SOLO si se cuenta con resultados positivos]
+
++ Enel 4? casillero se registra el segundo tamizaje neonatal para confirmación de diagnóstico, LAB 2.
+
++ Enel 5? y €? casillero registre la consejería que se brinda (no mayor a dos consejerías por control,
+según prioridad)
+
+En el ítem: Tipo de diagnóstico marque:
+
++ Enel 12, 22, 42, 52 y 8? casillero se colocará SIEMPRE “D” (por ser una actividad y no un diagnóstico)
+
++ Enel 32 casillero se colocará SIEMPRE “P” (por no contar con resultado confirmatorio)
+
+En el ítem Lab anote:
+
++ Enel 2? casillero coloque el número de control de CRED.
+
++ El Tamizaje neonatal: toma de muestra y Tamizaje de Hipoacusia Congénita, considera el número 1 por
+ser el primer tamizaje, SOLO en caso de obtener un resultado positivo o sospechoso se realizará un
+segundo tamizaje y se considerará Lab 2.
+
+Le o e o jale] ree e
+DIA PROCEDENCIA, eoaD [sexo | cesauicor | anrroromera | sec | vico] Y/O ACTIMDADDE SALUD biscuósmco] tas QE/cr
+ABDOMINA | HEMOGLOBINA PpToT+lT= 121
+NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACIMIENTO: pS FECHA ULTIMO RESULTADO DE Hb: 4 FECHADE ULTIMAREGLA:_f /
+
+OT fecncr IX[P E Jo] conser Je] TT Ta]
+
+po | 7 paa] 530 DD e ero lola] | | seuros |
+
+Edel le o Ta amame Doll TT ee 7]
+
+NOMBRES Y APELUDOS PACIENTE: (*)FECHA DE NACIMIENTO: y] FECHA ULTIMO RESULTADO DE Hb: y] FECHADE ULTIMAREGLA: /  /
+
+O OP e
+
+HTA > HAHAHA es | a] | 0. ]
+
+EA ele canes] | Emme]
+
+En el caso que, dentro de la evaluación realizada al recién nacido en cada uno de los controles, se identifica
+ganancia inadecuada de peso, se registrara de la siguiente manera:
+R62.8 Otras faltas del desarrollo fisiológico normal esperado (Inadecuado Peso/ Talla).
+EJEMPLO 3:
+Tercer control de un recién nacido.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
++ Enel 1? y 2? casillero: considerar la atención prestacional de salud del Recién Nacido, con la respectiva
+codificación.
++ Enel 32 y 4? casillero se registra la consejería que se brinda (no mayor a dos consejerías por control,
+según prioridad)
+22 un Sistema de Información HIS
+
+
+=== Página/Imagen image22.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS e
+En el ítem: Tipo de diagnóstico marque: SIEMPRE “D” (por ser una actividad que se realizara por única
+vez)
+En el ítem Lab anote:
++ Enel 22 casillero coloque el número de control de CRED.
+Equ] Pm | PERIMETRO ] Evaluación Jesra] sEr- DIAGNÓSTICO MOTIVO DECONSULTA CÓDIGO
+
+DIA PROCEDENCIA. sexo| cerauicoy |anteoromerasc| eee | uciol Y/O ACTIMDADDE SALUD piacnósrico| Las E/cer
+
+LABDOMINA | HEMOGLOBINA PeTo Tk fu To T>]
+NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACIMIENTO: y) FECHA ULTIIMIO RESULTADO DE Hb: y] FECHA DE ULTIMA REGLA: JJ,
+Y Je] [e [el al cemersctenecas T+Pq e] T [To]
+IS ss [o o PR ea] | | soma: ]
+oo
+NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACIMIENTO: E FECHA ULTIMO RESULTADO DE Hbr y] FECHA DE ULTIMA REGLA: / 4,
+A A rn 0D ETT
+a o E E O
+| * [|
+AAA] [>] e] fefep________ Prof | II] 7]
+EJEMPLO 4:
+Tamizaje neonatal en el caso de que este se realice en un espacio exclusivo, independientemente del
+control de recién nacido y/o alojamiento conjunto.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
++ Enel 12 casillero registre el tamizaje neonatal metabólico — Toma de muestra
++ Enel 2” casillero registre el tamizaje de Hipoacusia congénita
++ Enel 3” casillero registre el tamizaje de Catarata congénita
+En el ítem: Tipo de diagnóstico marque SIEMPRE “D”
+DISTRO DE PERIMETRO] EVALUACIÓN [ESTA] SER DIAGNOSTICO MOTIVO DECONSUNA TPODE VALOR CÓDIGO
+AROOMINA| a nemoGLoBINa] PeToTe TT]
+[NOMBRES Y APELUDOS PACIENTE: (*)FECHA DE NACIMIENTO: y] FECHA ULTIMO RESULTADO DE Hb: Ly FECHA DE ULTIMAREGLA: JJ,
+A py o O OO A CI
+AAA e O ATTE 00 ICON
+El] rel fer Te merce — TL] reso]
+NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACI MIENTO: 4 FECHA ULTIMO RESULTADO DE Hb: y] FECHA DE ULTIMA REGLA: JJ,
+IS OS 1 0 E EC CT O A CC
+Ft]
+HA TT RH HS
+E
+0 A [>] pu] Jefe pet [[ 7]
+*Todo tamizaje debe ir acompañado de una consejería.
+
+y 'amizaje de ipoacusia congéni a idealmente se debe realizar de las 24 a 48 horas de nacido, de no haberse realizado en
+El t de H ta idealmente: debi li de las 24 a 48 $ dl do, de hab: lizad:
+estas edades, deben realizarlo hasta antes que cumpla los 30 € fas de nacía 0; si el resultado no pasa la eva! tuación, la prueba
+
+tas edades, deb lizarlo hasta ante la tos 30 días di el 1 tad li ll h bi
+debe repetirse, en caso de que el resultado se mantenga, se derivará a un especialista.
+
+a ne amizaje de catarata congéni a, debe realizarse antes de dar el alta a su normalidad cons tuye requisi e para elalta
+Enelt de cat ta, deb: ll de dar el alta al RN, tidad ti t alte
+hospitalaria, según lo indica la norma técnica.
+
+NOTA: En caso la niña o niño presentará riesgo en 2, 3 o todas las áreas se registrarán las áreas afectadas con sus
+espectivas siglas en el LAB.
+Sistema de Información HIS a 23
+
+
+=== Página/Imagen image23.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS >
+7.2 CONSIDERACIONES GENERALES PARA EL CONTROL DEL CRED EN LA NIÑA Y EL NIÑO MAYOR DE
+29 DÍAS
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
++ Enel 1? casillero Control de Salud de Rutina del niño.
++ Enel 22 casillero la Atención Integral de Salud del Niño-CRED, según corresponda al grupo de edad
+(menor de un año, de 1a 4 años ó de 5 a 11 años).
++ Enel 32 casillero el RESULTADO del Estado Nutricional, SÓLO si la niño o niño presentan algunos de
+los siguientes diagnósticos:
+Estado Nutricional Códigos
+Desnutrición Proteicocalorica Severa, no especificada? (ausencia Ea3
+de ganancia de peso de por lo menos de 3 desviaciones)
+Desnutrición Proteicocalorica Moderada? (ausencia de ganancia
+de peso de 2 a menos de 3 desviaciones)
+Desnutrición proteicocalórica leve? (ausencia de ganancia de E4a.1
+peso de 1 a menos de 2 desviaciones) ó
+Retardo del desarrollo debido a desnutrición proteicocalórica
+(DCI)
+| Obesidad, no especificada | 669 |
+Otras faltas del desarrollo fisiológico normal esperado
+R62.8
+(Inadecuado peso y/o talla)
++ Enel 4” casillero el Tamizaje de desarrollo (interpretación y reporte).
++ Enel5” casillero el RESULTADO de la Evaluación del Desarrollo, SÓLO si la niña o niño muestra riesgo
+en el desarrollo (Lenguaje, Motor, Social o Cognitivo)
+Descripción de los Procedimientos CPMS e ]
+Tamizaje de desarrollo, con interpretación y reporte,
+por formato de instrumento estandarizado
+Descripción de los Diagnósticos CIE OPS 15 Código CIE OPS
+e
+Retro delle Áreas: Lengua JaLEN Matora (MOT) Social
+(SOC) Coorneción (000) Cognitiva OS)
+NOTA: En caso la niña o niño presentará riesgo en 2, 3 otodas las áreas se registrarán las áreas afectadas con sus
+espectivas siglas en el LAB.
++ Enel 6? casillero en relación a la Lactancia Materna SÓLO se registrará si la madre manifiesta haber
+suspendido la Lactancia Materna o brinda lactancia mixta.
+Sí durante uno de los controles de CRED en la Niña y Niño menor de € meses la mamá, papa o cuidador manifiesta
+que se le suspendió la Lactancia Materna o recibe Lactancia Mixta se registra y por única vez con el código P929
+ú Problema no especificado de la alimentación del recién nacido/Suspensión de la LME en el neonato y niño
++ Enel 72 casillero la Consejería correspondiente a los hallazgos durante la atención:
+“Pérdida severa de peso en niños o adultos, o ausencia de ganancia de peso en niños con un peso observado de por lo menos 3 desviaciones tipicas por debajo del
+peso promedio de la población de referencia.
+"Pérdida de peso en niños o adultos, o ausencia de ganancia de peso en niños con un peso observado de 2 a menos de 3 desviaciones típicas debajo del peso
+promedio de la población de referencia.
+"Pérdida de peso en niños o adultos, o ausencia de ganancia de peso en niños con un peso observado de 1 a menos de 2 desviaciones tipicas por debajo del peso
+promedio de la población de referencia.
+24 un Sistema de Información HIS
+
+
+=== Página/Imagen image24.jpeg ===
+
+A A
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS =
+Consejería nutricional de niños en riesgo. 1 99252
+| Consejería en Lactancia Materna Exclusiva hasta los 06 meses. | 9940103
+Consejería para la prevención de enfermedades prevalentes (EDA, IRA, entre | ¿ogg 19
+otras). S
+| Consejería nutricional: Alimentación saludable. | 9940301
+Consejería en medicina preventiva y/o provisión de intervenciones de |
+reducción de factores de riesgo, proporcionados a individuo, durante | 99401
+| aproximadamente 15 minutos (p. ej. consejería integral). al il
+Consejería en medicina preventiva y/o provisión de intervenciones de |
+reducción de factores de riesgo, proporcionados a individuo, durante | 99403
+aproximadamente 45 minutos (p. ej. consejería nutricional]*. a
+Consejería en pautas de crianza, buen trato, comunicación y cuidados | SEDA
+L adecuados | Él
+En el ítem: Tipo de diagnóstico: marque “D” para todos los casos.
+En el ítem LAB anote:
++ En el 22 casillero el número de Atención Integral de Salud del Niño-CRED correspondiente
+(123..9,10,11)
++ Enel 32 casillero de Evaluación Nutricional la sigla de acuerdo con el diagnóstico nutricional:
+PE = Peso para la Edad
+TP = Peso para la Talla
+TE = Talla para la Edad
++ Enel 5” casillero las siglas del área afectada en el Desarrollo (Lenguaje (LEN), Motor(MOT), Social
+SOC), Cognitivo(COG) o Coordinación (COO))
++ Enel 7” casillero en número de consejería correspondiente (1, 2, 3,4...).
+En cada Control de Crecimiento y Desarrollo según la etapa de la niña o niño, se deberá iniciar el registro
+de la siguiente manera:
+En el Ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
+ll 7 « Control de salud de rutina del niño; con el código Z00.1 (para niños de O días hasta 4 años 11 meses 29 días) ó
+« Examen durante el período de crecimiento rápido en la infancia; con el código 200.2 (para niños de 5 años a 11 años 11
+meses 29 días).
+Si durante el Control de Crecimiento y Desarrollo el profesional de la salud encargado de la atención detecta algún
+riesgo en la salud de la niña y niño que necesita ser evaluado por otro profesional deberá realizar la interconsulta
+con el profesional correspondiente y registrar de la siguiente manera:
+nte el contro ED y fi ente anote: Interconsulta ambulatoria para la evaluación y manejo de un paciente nuevo o
+continuador; con el código 99242.
+AS ETT ES E TS TETAS Ea
+cs [eso cama NE] pmocenencia eoaD > [sexo] aa |anrnoromerat | ec [cio Y/DACTIVIDAD DESALUD. [branosnco| Lea ClE/eT
+Aeon] PeToTs [o Po Te:]
+SL FECHA ULTIMO RESULTADO DE Hb: FECHA DE ULTIMA REGLA: 2
+A
+EV Pc IAE
+terconsulta ambulatoria para la N
+'Al eos MAL]
+SPara los profesionales de salud capacitados en Consejería Nutricional (duración 45 minutos).
+Sistema de Información HIS is
+e 25
+-_— ho A q
+
+
+=== Página/Imagen image25.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa
+Etapa de vida niño - Sistema de Información HIS o [6] 0) e
+q 1
+> ' SI durante la atención de la niña o niño corresponde un inicio o término del Plan
+12 de Atención Integral incorporar al registro el Diagnostico, Lab y Codificación
+correspondiente; el mismo que se describe en la página 12 del presente manual.
+7.2.1. REGISTRO EN NIÑA Y NIÑO MENOR DE UN AÑO
+El Control del Crecimiento y Desarrollo es una intervención de salud que tiene como propósito vigilar
+el adecuado crecimiento y desarrollo de la niña y el niño. El control incluye en su proceso la valoración,
+diagnóstico, intervención y seguimiento:
++ Identificación de factores de riesgo individual, familiar y del entorno para el crecimiento y desarrollo
+del niño.
++ Examen Físico
++ Descarte de anemia a través de medición de hemoglobina
++ Tamizaje de violencia familiar y maltrato infantil.
++ Evaluación del crecimiento y estado nutricional
++ Evaluación del desarrollo
++ Suplementación con micronutrientes de acuerdo con el esquema vigente.
++ Consejería de acuerdo conlos hallazgos: nutrición, crecimiento, (Kit de buen crecimiento) desarrollo,
+cuidado y crianza de la niña y el niño.
++ Elaboración y monitoreo del plan de atención de salud individualizado.
+e La visita domiciliaria para realizar el seguimiento integral del niño.
+Periodicidad del CONTROL DE CRECIMIENTO Y DESARROLLO de la Niña y Niño Menor de un año
+Edad Concentración Periodicidad
+De 01 a 11 meses | 11 1m, 2m, 3m, 4m, 5m, 6m, 7m, 8m, 9m, 10m y 11m
+A. EJEMPLOS PARA EL REGISTRO DEL CRED EN NIÑOS Y NIÑAS DE 1 MES A 3 MESES
+EJEMPLO 1:
+Niño de 01 mes continuador; con ganancia de peso inadecuado, riesgo en el desarrollo en lo que
+corresponde al área motora y lenguaje; además madre manifiesta que su bebe recibe Lactancia
+Materna Mixta.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
++ Enel 1? casillero Control de Salud de Rutina del niño
++ Enel 22 casillero Atención Integral de Salud del Niño-CRED menor de 1 año
++ En el 32 casillero el Resulta de la Evaluación Nutricional: Otras faltas del desarrollo fisiológico normal
+esperado (Inadecuado peso)
++ Enel 4? casillero Tamizaje de desarrollo, con interpretación y reporte, por formato de instrumento
+estandarizado
+. Enel 5? casillero el RESULTADO de la Evaluación del Desarrollo: Retardo del desarrollo
++ En el €? casillero en relación a la Lactancia Materna, se registrará Problema no especificado de la
+alimentación del recién nacido/Suspensión de la LME en el neonato y niño.
+26 un Sistema de Información HIS
+
+
+=== Página/Imagen image26.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (A 6 e
+Etapa de vida niño - Sistema de Información HIS >
++ Enel 7? casillero la Consejería correspondiente
+En el ítem: Tipo de diagnóstico marque “D” para todos los casos.
+En el ítem LAB anote:
+
++ Enel2? casillero el número de control CRED correspondiente “1”
+
++ Enel 3? casillero la sigla del indicador PE
+
++ Enel5? casillero las siglas del área afectada motor (MOT) y lenguaje (LEN)
+
++ Enel 7? casillero el número de la Consejería correspondiente “1”
+
+a E UT ES DIASNÓSTICOMOTIVO DECONSULTA CÓDIGO
+ola ne] coso |sexo| cerauicoy |anrroromern sec [uo] Y/O ACTMDAD DESALUD prasnósco] Las dE/ceT
+AEDOMINA | A HEMOGLOBINA] Pe Po Te fas fos Tf]
+
+INOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACIMIENTO: A] _ FECHA ULTIMO RESULTADO DEHb:___/  / FECHADEULTIMAREGIA:  / f
+ONE LND Arrrrrccoa 0401 0 MEA
+PH R rr  PRA]k]
+
+F E |, Otras faltas del desarmilo fisiológico N/ ve NENE
+normal esperado VAN]
+
+INOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACIMIENTO: ¡0 FECHA ULTIMO RESULTADO DEHb: JJ, FECHA DE ULTIMA REGLA: JJ
+O SO 00 CS
+
+A ns q Y]
+[A F Problema no especificado de la alimentación N/
+Hb 3. del recién nacido/Suspensión de la LME en el h p929
+
+[7] neonato y ito A
+
+[NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACIMIENTO: Ly FECHA ULTIMO RESULTADO DE Hb: y] FECHA DE ULTIMA REGLA: JJ
+
+LH FT, consejería en Lactancia Materna Exclusiva NX]
+TT TA ct OBMNNCZ
+pel pepep |]
+—ATI AE | [efep lle |] >|]
++
+a [»] [+] f=fsp>_______ [fell TIT] 1]
+B. EJEMPLOS PARA EL REGISTRO DEL CONTROL DEL CRED PARA NIÑOS Y NIÑAS DE 4 Y 5 MESES
+
+Manejo Preventivo de Anemia?
+
+a. En niños con bajo peso al nacer y/o prematuros, la suplementación con gotas de Hierro Polimaltosado
+o Sulfato Ferroso seinicia a los 30 días de nacidohastaantes de cumplir los 6 meses de edad.
+
+b. En niños nacidos a término con adecuado peso al nacer, la suplementación con gotas de Hierro
+
+Polimaltosado o Sulfato Ferroso se inicia a los 4 meses hasta antes de cumplir los 6 meses de edad.
+
+c. Desdelos 6 meses hastalos 23 meses de edad, seadministrará Sulfato Ferrosoo Complejo Polimaltosado
+Férrico o Multivitamínico en solución de forma diaria durante 6 meses; o Micronutrientes en polvo
+hasta que complete los 180 sobres.
+
+d. Los niños de 24 meses hasta 35 meses de edad, se administrarán suplementación con Micronutrientes
+en polvo hasta que complete los 180 sobres o Sulfato Ferroso o Complejo Polimaltosado Férrico jarabe
+en forma diaria durante 6 meses.
+
+e. El niño que no recibió Sulfato Ferroso o complejo Polimaltosado Férrico o Multivitamínico en solución
+o Micronutrientes en polvo a los 6 meses de edad, lo podrá iniciar cualquier edad, hasta los 35 meses
+inclusive a los 3 años de edad cumplidos.
+
+'Manual de Registro de Información de Anemia
+
+Sistema de Información HIS a 27
+
+
+=== Página/Imagen image27.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS ==
+*En el caso de suspensión del consumo de Micronutrientes en polvo o Multivitamínico en
+solución, se deberá reanudar según indicación del personal de salu hasta completar el
+% esquema.
+
+*Todos los niños, suplementados con hierro deben de recibir, Consejería Nutricional para reforzar
+la importancia de la suplementación y asegurar la adherencia, advertirles de los posibles efectos
+colaterales y la forma de evitarlos.
+
+*Cuando se haya comprobado el consumo de la última entrega se registrará “TA” en el campo LAB
+para indicar NIÑO SUPLEMENTADO.
+
+EJEMPLO 1:
+
+Niño prematuro de 1 mes recibe 1era dosis de polimaltosado.
+
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
+
+» En el 12 casillero Control de Salud de Rutina del Niño.
+
+e En el 22 ca sillero Atención Integral de Salud del Niño-CRED menor de 1 año.
+
+e En el 32 casillero Tamizaje de desarrollo (interpretación y reporte).
+
++ En el 42 casillero RN prematuro. (En caso sea un RN Bajo Peso reempalzar y colocar Codigo CIE
+
+correspondiente).
+
++ En el 5? casillero Suplementaciónconhierro.
+
++ En el 6? casillero Consejería Nutricional correspondiente.
+
+En el ítem: Tipo de diagnósticco marque “D” para todos los casos.
+En el ítem LAB anote:
++ En el 22 casillero el número de contro CRED correspondiente “1”.
++ Enel 4? casillero el número de Suplementación de hierro correspondiente “P01” ó “SF1”
++ En el 6? casillero el número de consejería brindada “1”.
+— PERIMETRO | EVALUACION Jesta] ser DIAGNÓSTICO MOTIVO DE CONSULTA. CÓDIGO.
+ola Sl oe | coso ceraLicoy | anrropomernic | aLec [ucio] X/OACTÍVIDAD DESALUD pisGnósmcO| Las EJCer
+
+GESTANTE/PUERRE] Ema JrRO POBLA] ABDOMINA | A HEMOGLOBINA PeToTs] a T==[3]
+
+NOMBRES Y APELUDOS PACIENTE: (*)FECHA DE NACIMIENTO: ¡y FECHA ULTIMO RESULTADO DE Hb: | FECHA DE ULTIMA REGLA: JJ /
+e] ET eeneseres Rp] Y PY]
+¡A Na RI OEA 00 5110 INN
+es IO M0 (CC TT E 1 E IC
+
+NOMBRES Y APELUDOS PACIENTE: (*)FECHA DE NACIMIENTO: ¡y FECHA ULTIMO RESULTADO DE Hb: 1 FECHA DE ULTIMA REGLA: ff
+QT] ele] EA cmo PT TFT e
+A O E EE 000100
+
+AAA le Are
+
+EJEMPLO 2:
+
+Niño de 4 meses con Crecimiento y Desarrollo adecuado para su edad, suplementación con hierro y
+
+Lactancia Materna Exclusiva
+
+28 un Sistema de Información HIS
+
+
+=== Página/Imagen image28.jpeg ===
+
+| y Y A ——
+1 - ES L
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS ==
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
+» Enel 12 casillero Control de Salud de Rutina del niño
++ Enel 22 casillero Atención Integral de Salud del Niño-CRED menor de 1 año.
++ Enel 3” casillero Tamizaje de desarrollo, con interpretación y reporte, por formato de instrumento
+estandarizado
++ En el 4? casillero Suplementación con Hierro:
++ En el 5? casillero la Consejería correspondiente
+En el ítem: Tipo de diagnóstico marque “D”para todos los casos.
+En el ítem LAB anote:
++ Enel 22 casillero el número de control CRED correspondiente “4”
++ En el 4? casillero el número de DOSIS administrada según tipo de insumo, en el caso de Hierro
+Polimaltosado: “P01”.
+e En el 5? casillero el número de la consejería correspondiente “1”
+past Tanane DISTRITO DE PERIMETRO | EVALUACION — [ESTA-| SER- DIAGNÓSTICO MOTIVO DE CONSULTA. TIPODE VALOR: CÓDIGO.
+DIA. á PROCEDENCIA: EDAD |sexo| ceraLicor | anrropomerrica | sec Jracio! Y/O ACTIVIDAD DE SALUD. DIAGNÓSTICO LAB ClE/COr
+[A seo | mocos Far]
+Ej Tol camenios ]>) +] Po]
+ROA PR]
+o A A DO o NE
+3. Tamizaje de desarrollo Y] 96110
++=
+A e Te]
+A elo cancer [o eli] | [sos]
+y E DADO:
+7] E E
+En el ítem CÓDIGO CIE/CPT: En el ítem LAB se registra la administración según
+*99199.17 Suplementación con Hierro. corresponda:
+*99199.19Suplementacióncon Micronutrientes| *Administración de Hierro Polimaltosado:
+POL P02, PO3, PO4, POS, PO6.
+“Administración de Sulfato Ferroso:
+zzz SFL, SF2, SF3, SF4, SES, SF6.
+1 ya Y
+La suplementación durante los 4 y 5 meses es solo con gotas”.
+ON NOTA: Si la niña o niño viene recibiendo Lactancia Materna Exclusiva NO se
+a realizará el registro; SÓLO se registrará si la Lactancia fue interrumpida.
+C. EJEMPLOS PARA NIÑOS Y NIÑAS DE 6 A 11 MESES
+En esta edad a las niñas y niños se les realiza el Dosaje de Hemoglobina, el mismo que también puede
+ser realizado por diferentes profesionales de la salud responsables de la Atención de la Niña y Niño;
+cuando disponen del equipo (hemoglobinometro) y han participado de la capacitación respectiva; esta
+estrategia permite tener el resultado inmediatamente.
+Los momentos en los que se establece la medición de la hemoglobina, se detallan a continuación:
+Sistema de Información HIS 29
+O A
+Ss SEN SS Ss O
+
+
+=== Página/Imagen image29.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (A 13)
+Etapa de vida niño - Sistema de Información HIS e” >
+Grupo Etario Prevención Tratamiento
+Recién Nacido Prermaturo y/o con A los 3 y 6 meses
+Bajo Peso al Nacer (<6 meses) 6 meses de iniciado tratamiento
+Niños a Término con Adecuado Peso 12 meses Al mes, a los 3 y 6 meses
+al Nacer (Hasta 11 años de edad) 18 meses de iniciado el tratamiento
+> 24 meses es 1 vez al año
+Mujeres Adolescentes Al mes, y alos 3 y 6 meses
+de iniciado el tratamiento
+Gestantes y Puérperas . 1” Medición: Primer Control Prenatal (inicio de
+suplementación preventiva)
+. 2” Medición: Sem 25 a 28 de Gestación En Anemia Leve y Moderada:
+. 3” Medición: Sem 37 a 40 de Gestación Cada 4 semanas hasta que la hemoglobina
++ 4” Medición: a los 30 días post parto (Fin de la alcance niveles de 11 gr/dl a más
+Suplementación)
+FUENTE: En base a la NTS N*134-2017/MINSA/NORMA TECNICA PARA EL MANEJO PREVENTIVO Y TERAPEUTICO DE LA ANEMIA EN NIÑOS, ADOLESCENTES,
+MUJERES GESTANTES Y PUERPERAS — R.M. N*250-2017/MINSA y la NTS N*137-2017/MINSA/NORMA TECNICA DE SALUD PARA El CONTROL DEL CRECIMIENTO
+Y DESARROLLO DE LA NIÑA Y EL NIÑO MENOR DE CINCO AÑOS—R.M. N*537-2017/MINSA.RM 643-2018-MINSA.
+a. Registro de la medición de la hemoglobina durante la atención:
+PERmerRo | EvaLuacion [ESA] SER] DIAGNÓSTICO MOTIVO DECONSULTA PODE VALOR cónico
+eno |sexo| ceraucoy | anmoromersica | suec[uao| Y/OACTIWDAD DESALUD piasnóstICO | 108 ClE/ceT
+ABDOMINAL | — HEMOGLOBINA [+To[r [=T=*[>]
+A NY an | PESO 85 N | m1. Control de Salud de Rutina del Niño Dx] z00.1
+X | rc] 330 A
+NAO ATT DEZA
+B p [re | 200 [e [o plmescinacirenscno — [PpXPe[] [ | e |
+En el campo CÓDIGO CIE/CPT
+85018 = Medición de Hemoglobina.
+En el campo Tipo de Diagnóstico
+marcar “D” cuando se emita la orden.
+En el campo LAB colocar el número secuencial de respuesta (1,2,3,4,5,6...) cuando se disponga del
+resultado.
+b, Registro de la solicitud de la medición de la hemoglobina:
+Penmerño | evscusion — [est] se DIAGNÓSTICO MOTVODE CONSULTA PODE VALOR CÓDIGO
+eoao |sexo| cerauicoy | antroromersica | sLec[ucio| V/OACTIMIDAD DESALUD pissnósticO | Los QlE/CPT
+ABDOMINAL | — HEMOGLOBINA Pro Tk [To T>]
+FECHA DE NACIMIENTO: ] FECHA ULTIMO RESULTADO DE Hb: JJ FECHADEULTIMAREGLA: / /
+A N/ < PESO 85 N | ni |1. Control de Salud de Rutina del Niño NX z00.1
+JW | ec | 33.0 UN
+ROA] ore E] po
+el dir To]
+En el campo CÓDIGO CIE/CPT
+85018 = Medición de Hemoglobina.
+En el campo Tipo de Diagnóstico marcar “P” cuando se emita la orden.
+Como sólo se emite la orden en el LAB jra como “vacio”
+30 Sistema de Información HIS
+
+
+=== Página/Imagen image30.jpeg ===
+
+| y E —_ rea A ——
+| as —YS
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS e
+En caso de iniciar la suplementación posterior a los 4 meses ya no aplica registrar el “TA”.
+INICIO DE SUPLEMENTACION CON HIERRO POR 6 MESES.
+En el campo CÓDIGO CIE/CPT:
+== —=* 99199.17 Suplementación con Hierro.
+99199.19 Suplementación con Micronutrientes.
+En el ftem LAB se registra la administración según corresponda:
+* Administración de Hierro Polimaltosado : PO1, PO2, PO3, PO4, POS, POS.
++ Administración de Sulfato Ferroso : SEI, SF2, SES, SFA, SES, SF6.
+« Administración de Micronutrientes : 1, 2, 3, 4, 5, 6.
+EJEMPLO 1:
+Niño de 6 meses con crecimiento y desarrollo de acuerdo para la edad, termino su suplementación de
+hierro, recibió Lactancia Materna Exclusiva durante los 6 primeros meses, iniciara con alimentación
+complementaria y con Sulfato Ferroso.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
++ Enel 12 casillero Control de Salud de Rutina del Niño.
++ Enel 22 casillero Atención Integral de Salud del Niño-CRED menor de 1 año.
++ Enel 3? casillero Tamizaje de desarrollo (interpretación y reporte).
++ Enel 4? casillero Suplementación con Hierro, termino.
++ Enel 5? casillero el Dosaje de Hemoglobina (resultado el mismo día).
++ Enel 6? casillero Suplementación con hierro, inicio.
++ Enel 7? casillero Consejería correspondiente
+En el ítem: Tipo de diagnóstico marque “D” para todos los casos.
+En el ítem LAB anote:
++ Enel 22 casillero el número de control CRED correspondiente “6”.
++ Enel 4? casillero Colocar“TA” que corresponde al cierre de la suplementación de 4 a 5 meses.
++ Enel 5? casillero el número de Medición de Hemoglobina “1”
++ Enel 62 casillero el tipo de suplementación y número de entrega en este caso “SF1”.
++ Enel 7? casillero el número de consejería brindada “1”
+==] Z 3E z SE an
+E A A AA)
+asnorna la evostostva [O AO CO CA EC EI
+SL FECHAULTIMO RESULTADO DEM: JJ FECHA DE ULTIMA REGLA
+DI E E IC 0 IE
+pa Pomar ppp]
+ps 0 O 1 E cerro 10010 010 0 ITA
+¡AS NS O ES ES TI 1 2 E IA
+o A 0 7 1 O CC 1 E E IT
+e 100 OA 1 1 A CS rr 1 E CI CT
+LL FECHAULTIMO RESULTADO DEM: JJ FEOHADE ULTIMAREGIA
+¡eS O O A 2 5 EEC E E
+RT RR [ofefs| | |] |]
+A] [| Bo]
+L— [7 [>] =]  [s[rk [efes [JT]
+Sistema de Información HIS
+“UI h 31
+Ss SEN SS Ss O
+
+
+=== Página/Imagen image31.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (A 6 e
+Etapa de vida niño - Sistema de Información HIS >
+EJEMPLO 2:
+Niña de 10 meses con ganancia inadecuada de peso, retardo en el desarrollo en lo que corresponde al
+área motora, con alimentación complementaria inadecuada y con quinto mes de suplementación con
+hierro polimaltosado.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
++. Enel 12 casillero Control de Salud de Rutina del Niño.
++ Enel 22 casillero Atención Integral de Salud del Niño-CRED menor de 1 año
++  Enel3? casillero el RESULTADO del Estado Nutricional, Otras faltas del desarrollo fisiológico normal
+esperado (Inadecuado de Peso/Talla)
++ Enel 4? casillero el Tamizaje de desarrollo (interpretación y reporte).
++ Enel5? casillero el RESULTADO de la Evaluación del Desarrollo, SOLO si la niña o niño muestra retraso
+o retardo en el desarrollo.
++ Enel €? casillero la Suplementación con hierro.
++ Enel 7? casillero Problemas relacionados con la dieta y hábitos alimentarios.
++ Enel 8? casillero Consejería correspondiente.
+| Consejería nutricional de niños en riesgo. 0 99252 |
+Consejería para la prevención de enfermedades prevalentes (EDA, IRA, | ¿07 1)
+Lentes otras) | a |
+| Consejería nutricional: Alimentación saludable. | 99a03.01 |
+Consejería en medicina preventiva y/o provisión de intervenciones de
+reducción de factores de riesgo, proporcionados a individuo, durante 99401
+aproximadamente 15 minutos (p. ej. consejería integral).
+En el ítem: Tipo de diagnóstico marque “D” para todos los casos.
+En el ítem LAB anote:
++ Enel 22 casillero el número de control CRED correspondiente “10”
++  Enel3? casillero de Evaluación Nutricional la sigla de acuerdo con el diagnóstico nutricional:
+PE = Peso para la Edad
++  Enel5? casillero de Retardo del desarrollo colocar la sigla del área afectada “Motor (MOT)”
++ Enel 8? casillero el número de Suplementación co n hierro, en este caso polimaltosado “PO5”
++ Enel7? casillero el número de consejería correspondiente “1”
+II A NES PERIMETRO] EVALUACIÓN [ESTA] SER DIABNOSTIEO MOTIVO DECONSUNTA. TOD VALOR CÓDIGO
+ESE EA A AA]
+ABDOMINA | AHEMOGLOBINA] PeTo Te fi fos Ta]
+[NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACIMIENTO: pS FECHA ULTIMO RESULTADO DE Hb: LJ FECHA DE ULTIMA REGLA: /
+E 7
+ED] PE Jo econo ppp] PPP]
+A dl EA DETECTA 0 E INC
+po ooo a 0 O
+[NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACIMIENTO: 7 FECHA ULTIMO RESULTADO DE Hb: y] FECHA DE ULTIMA REGLA: ff
+E O ll AA tico PL TT
+a A e 00 00 [E CTC 1 1902 0 ATA
+0 o [>] e] A ceo] .]
+[NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACIMIENTO: py FECHA ULTIMO RESULTADO DE Hb: y] FECHA DE ULTIMA REGLA: ff
+CD AAA 1 E [_ tiren |
+cn O A 00 EZ
+O O O OO O ES
+O a E [»] [ef [efe jelefl | II] |
+32 un Sistema de Información HIS
+
+
+=== Página/Imagen image32.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS >
+7.2.2 REGISTRO EN NIÑAS Y NIÑOS DE UN AÑO A CUATRO AÑOS
+El Control de Crecimiento y Desarrollo en este grupo de edad incluye:
++ Identificación de factores de riesgo individual, familiar y del entorno para el crecimiento y
+desarrollo del niño.
++ Examen Físico
++  Descarte de anemia a través de medición de hemoglobina
++  Descarte de parasitosis
++  Tamizaje de violencia familiar y maltrato infantil.
++ Evaluación del crecimiento y estado nutricional
++ Evaluación del desarrollo
++  Suplementación con micronutrientes de acuerdo con el esquema vigente.
+. Prescripción de profilaxis antiparasitaria, de acuerdo con el esquema vigente.
++ Consejería de acuerdo con los hallazgos: nutrición, crecimiento, (Kit de buen crecimiento)
+desarrollo, cuidado y crianza de la niña y el niño.
++ Elaboración y monitoreo del plan de atención de salud individualizado.
++ Lavisita domiciliaria para realizar el seguimiento integral del niño.
+Periodicidad del control de Crecimiento y Desarrollo de la Niña y Niño de menor de 5 años
+De 12 a 23 meses 6 12m, 14m, 16m, 18m, 20m y 22meses
+24m, 27m, 30m, 33m,
+De 24 a 59 meses 4 por año 36m, 39m, 42m, 45m,
+48m, 51m, 54m, y 57 meses.
+EJEMPLO 1:
+Niña de 12 meses con crecimiento y desarrollo adecuado para su edad, recibe alimentación
+complementaria, sulfato ferroso según esquema. Además de acuerdo con su edad se le solicita
+medición de Hemoglobina.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
++.  Enel1? casillero Control de Salud de Rutina del Niño.
++  Enel2? casillero Atención Integral de Salud del Niño-CRED de 1 a 4 años
++  Enel3” casillero el Tamizaje de desarrollo (interpretación y reporte).
++  Enel4? casillero la Suplementación con Hierro
++  Enel5? casillero Consejería correspondiente:
++ Enel 8? casillero Medición de Hemoglobina
+En el ítem: Tipo de diagnóstico marque “D” para todos los casos.
+En el ítem LAB anote:
++ Enel 22 casillero el número de control CRED correspondiente “1”
++ Enel 4? casillero el número de Suplementación con Micronutrientes ”TA”
++ Enel 5? casillero el número de consejería correspondiente “1”
++ Enel 6? casillero el número de Medición de Hemoglobina “2”
+Sistema de Información HIS a 33
+
+
+=== Página/Imagen image33.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (A 6 e
+Etapa de vida niño - Sistema de Información HIS >
+E rl anos | Penmerño | evaluación [STA] SR] DIASNóSTICO MOTIVO DECONSULA TODIGO
+Dia proceoencia | coño |sexo| ceraicoy | anreopomereica | auec [ucio| Y/0 ACTIVIDAD DESALUD DIAGNÓSTICO Las clEJcer
+sport | uemostosia EE EE
+PQu]e] o polo io arensems* |+ps] Y] ] wm]
+0070 PEINE E IEEE ECETIA
+pe A AO 1 DO E E EC A ICI
+A A A O 00 A
+O ma es 8 es ps CO O E O A CE E IT
+== TI el ferias js es 7]
+EJEMPLO 2:
+Niño de 18 meses con crecimiento y desarrollo adecuado para su edad, termina suplementación con
+micronutrientes. Además, se solicita medición de hemoglobina y descarte de Parasitosis (test de Graham
+y examen seriado).
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
+. Enel 12 casillero Control de Salud de Rutina del Niño
++ Enel 22 casillero Atención Integral de Salud del Niño-CRED de 1 a 4 años
++ Enel 3” casillero el Tamizaje de desarrollo (interpretación y reporte).
++. Enel 4? casillero la Administración de Micronutriente
++ Enel 5? casillero Consejería correspondiente:
++  Enel6? casillero Medici ón de Hemoglobina
++  Enel?7? casillero Estudio parasitológico en heces por 3
+.  Enel82? casillero Test de Graham
+En el ítem: Tipo de diagnóstico marque “D” para todos los casos.
+En el ítem LAB anote:
++ Enel 22 casillero el número de control CRED correspondiente “4”
++ Enel 4? casillero el número de Suplementación con Micronutrientes “TA”
++ Enel 5? casillero el número de consejería correspondiente “1”
++ Enel 62 casillero el número de Medición de Hemoglobina “3”
+EN PROCEDENCIA sexo | apor ma | ANTROPOMETRICA | cc [Vicio WOACTIMDAD DESALUD ouenósrico | us Efe
+pe PUES Fa]
+NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACIMIENTO: p] FECHA ULTIMO RESULTADO DE Hb: /__FECHA DE ULTIMA REGLA: JJ,
+PX] m [ 0c ] 0 ] reso [205 | o ] on o commardesotóae muro der siño | e Pe] e] [Y [zoo |
+2 [m7 | uma | 70 Pepe ascrtomenrderos años |e[afe [e] | | soez |]
+eros O AO O DEI pc EC A O E E EA E A IC
+po ] La] ss] 6] [o Pa soez ce meonarentes | + Deo] e |] [| sesos |
+A E Consejero nutricional Alimentación E
+HA TALA e IS 0030
+LAT] [o] * Ps] Ts Ts E vescóneremogióno  [rPTs[>[ [ | ww. |]
+APS a O ME a]
+IO O E PS a E E O
+hp tE A HA Pra] [elfo oterdonmon_ [efes] | | | e. ]
+MO == OI IESO AO 00 CEC AO ACC II EC EC A E E A E A IE
+34 un Sistema de Información HIS
+
+
+=== Página/Imagen image34.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (A
+Etapa de vida niño - Sistema de Información HIS (63) == (3) e
+Cuando se haya comprobado el consumo de la última entrega se registrará “TA” en el campo LAB para indicar NIÑO
+SUPLEMENTADO.
+7.2.3 REGISTRO EN LA NIÑA Y NIÑO DE CINCO A ONCE AÑOS
+El Control de Crecimiento y Desarrollo en este grupo de edad incluye:
++ Identificación de factores de riesgo individual, familiar y del entorno para el crecimiento y
+desarrollo del niño.
++ Examen Físico
++  Descarte de anemia a través de medición de hemoglobina
++  Descarte de parasitosis
++  Tamizaje de violencia familiar y maltrato infantil.
++ Evaluación del crecimiento y estado nutricional
++ Evaluación del desarrollo
++  Suplementación con micronutrientes de acuerdo con el esquema vigente.
+. Prescripción de profilaxis antiparasitaria, de acuerdo con el esquema vigente.
+»+ Consejería de acuerdo con los hallazgos: nutrición, crecimiento, (Kit de buen crecimiento)
+desarrollo, cuidado y crianza de la niña y el niño.
++ Elaboración y monitoreo del plan de atención de salud individualizado.
++ Lavisita domiciliaria para realizar el seguimiento integral del niño.
+Periodicidad del control de Crecimiento y Desarrollo de la Niña y Niño de 5 a 11 años
+Edad Concentración Periodicidad Y
+1350 Mies ee E 1 control por año
+meses 29 días rol PA
+En este de grupo de edad para el estado nutricional se considerada el IMC que es un número que relaciona el peso
+de la persona con su talla/longitud. El IMC puede ser un indicador de crecimiento útil cuando está marcado en una
+gráfica relacionándolo con la edad del niño.
+El IMC se calcula de la siguiente forma:
+EJEMPLO 1:
+Niña de 5 años acude a su 1er control de CRED, a la evaluación nutricional presenta obesidad, ante ello
+se le brinda consejería a la madre y se le solicita dosaje de hemoglobina y descarte de parasitosis (test de
+Graham y examen seriado).
+Sistema de Información HIS a 35
+
+
+=== Página/Imagen image35.jpeg ===
+
+y 4 y 7 A E
+| y EN TE E
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS ==
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
++ Enel 12 casillero Examen durante el período de crecimiento rápido en la infancia
++ Enel 22 casillero Atención Integral de Salud del Niño-CRED de 5 a 11 años
+. Enel3” casillero el Estado Nutricional: “Obesidad”
++ Enel 4? casillero Consejería correspondiente: Consejería nutricional: Alimentaria saludable.
++ Enel 5? casillero el Dosaje de Hemoglobina
++ Enel 62 casillero Examen de parásitos y huevos por frotis directo (3 muestras).
++. Enel 7? casillero Test de Graham
+En el ítem: Tipo de diagnóstico marque “D” para todos los casos a excepción del: Medición de
+Hemoglobina, en donde se marcará “P” debido a que no se cuenta con el valor de Hemoglobina.
+En el ítem LAB anote:
++ Enel 22 casillero el número de control CRED correspondiente “1”
++ Enel 3? casillero el indicador del Estado Nutricional “IMC”
++ Enel 4? casillero el número de consejería correspondiente “1”
++ Enel 5? casillero el número de Dosaje de Hemoglobina “1”
+Eb as ld lla VERB ES Arena dto
+ABOOMNAL | HEMOGLOBINA
+DODano
+[NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DENACIMIENTO: f/f FECHA ULTIMO RESULTADO DE Hb: /  f FECHADEULTIMA REGLA: /  /
+NN amen durante el penodo de N
+Pu] ] [eefes]e] o e imaraadacataanas | pole] | |] = ]
+: Pe] ] ]] +. |
+CO o ECON EEC E
+E COCO Dc EC E E E CI IE
+| nsejería nutricional WN/
+LI Y | Elle lec teca, [pel ol lomo |
+e a E E e | e [e oosaje de Hemoglobina 0] z sus
+O e e É Apo]
+> 1 Mc 0175500005720
+TT ERE PAE tt Pp] TT o]
+A A 7 E CC IRA E CA IA
+ps ca A 0 CS A E O E A S
+A ci
+7.3 CONSIDERACIONES GENERALES PARA NIÑAS Y NIÑOS CON RIESGO EN EL CRECIMIENTO Y
+DESARROLLO
+En aquellas Niñas y Niños que hayan recuperado su estado de salud relacionado al Crecimiento y/o al
+al y al y o y
+AN Desarrollo registrar de la siguiente manera:
+«Enel 12 casillero el problema de salud identificado (Obesidad, riesgo del desarrollo-Área motora, entre
+p g
+otro).
+Marque “R” para todos los casos: por ser un diagnóstico del mes anterior del mismo niño o niña.
+« Enel 1? casillero las siglas que acompañan al diagnóstico seguido de “PR”, lo que significa “paciente recuperado”.
+Sistema de Información HIS
+36
+A ms 7 A o |
+h — ==
+
+
+=== Página/Imagen image36.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 13)
+Etapa de vida niño - Sistema de Información HIS > »
+EJEMPLO 1:
+Niño que a los 10 meses presento riesgo en el peso y retardo del desarrollo- área motora, acude a control
+de 11 meses y mostro recuperación tanto el crecimiento como en desarrollo.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
++. Enel 1? casillero Control de Salud de Rutina del Niño.
++ Enel 2? casillero Atención Integral de Salud del Niño-CRED menor de 1 año
++ Enel 3? casillero el resultado del Estado Nutricional, Otras faltas del desarrollo fisiológico normal
+esperado; diagnóstico del mes anterior.
++ Enel 4” casillero el Tamizaje de desarrollo (interpretación y reporte).
++  Enel5? casillero el resultado de la Evaluación del Desarrollo, Retardo del desarrollo; diagnóstico
+del mes anterior.
++ Enel €? casillero la Administración de Micronutriente
++ Enel7? casillero Consejería correspondiente: Consejería nutricional: Alimentación saludable
+En el ítem: Tipo de diagnóstico marque “D” para todos los casos, a excepción de los diagnósticos del
+estado de salud de la niña o niño, en donde se colocará “R” (por ser un diagnóstico identificado el mes
+anterior).
+En el ítem LAB anote:
++ Enel 2? casillero el número de control CRED correspondiente “11”
++ Enel 3? casillero de Evaluación Nutricional la sigla de acuerdo con el diagnóstico nutricional:
+PE = Peso para la Edad en el 1* Lab más “PR” en el 2” Lab, debido a que es un niño o niña que se ha
+Recuperado.
++ Enel5? casillero de Retardo del desarrollo colocar la sigla del área afectada afectada “Motor (MOT)”
+en el 1? Lab más “PR” en el 2” Lab, debido a que es un niño o niña que se ha Recuperado.
++ Enel 6? casillero el número de Administración de Micronutrientes “SF6”
++ Enel 7? casillero el número de consejería correspondiente “2”
+Du] aos |] ANOS OO DECORO A mos cono
+pase pra” |-P>T+[+T+T»]
+Ele] Pepe jo jo] caes] > Def +] |] ww]
+A ATT 00
+E e ae 11 MEaA] +]
+LC |] bledo de UAT memercegennos— [ella] | | | cu |
+E 4 5 E O E E CCC E IO E IC
+Ml e 0 0 1 IO EI E E EI
+1 Aldeas. Prol] | re]
+DE a re 1 pon vs E O E E O ECC E A E ARAS
+M0 E 0 CA 0 11 A A
+ON Crecimiento y/o al Desarrollo se seguirá marcando en el ftem: Tipo de diagnóstico “R” hasta la recuperación “BR”,
+4 fuego se volverá a marcar “D”.
+Sistema de Información HIS a 37
+
+
+=== Página/Imagen image37.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS e
+7.4 CONSIDERACIONES GENERALES PARA EL SEGUIMIENTO INTRAMURO A NIÑAS Y NIÑOS CON RIESGO
+EN EL CRECIMIENTO Y/O DESARROLLO
+Para el seguimiento de las niñas y niños se utilizará un sistema de citas programadas, las mismas
+que serán determinadas en cada control y de mutuo acuerdo con la madre, padre o cuidador de la
+niña y el niño. Para niñas y niños con problemas de crecimiento o desarrollo se programarán las citas
+con intervalos de 7 días, de acuerdo con la necesidad, hasta lograr la recuperación, de NO encontrar
+resultados favorables a la salud del niño o niña se realizará de inmediato la interconsulta al servicio
+que corresponda.
+Para tal sentido el registro se realizará de la siguiente manera:
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
++ En el 12 casillero Control de salud de rutina del niño
+* En el 22 casillero el diagnostico de Crecimiento o desarrollo de la Niña o Niño
++ Enel 32 casillero Consejería correspondiente: por ejemplo, Consejería nutricional: Alimentación
+saludable
+En el ítem: Tipo de diagnóstico marque “D” para todos los casos, a excepción de los diagnósticos del
+estado de salud de la niña o niño, en donde se colocará “R”.
+En el ítem LAB anote:
++ Enel 12 casillero el número de Atención de Enfermería; según corresponda (1,2,3...).
+e En el 22 casillero la sigla de acuerdo con el diagnóstico nutricional o de desarrollo:
+Lenguaje (LEN ), Motor(M OT), S ocia | (SOC), Coordinación (C0O), CognitivofC OG
+Evaluación Nutricional
+PE = Peso para la Edad
+TP = Peso para la Talla
+TE = Talla para la Edad
++ Enel 3? casillero el número de consejería correspondiente (1,2,3...).
+Cepo | Hnrostosna [O A E
+ONO O E
+l= e O O E E TEO E E EI IEA
+e A 0 00
+38 un Sistema de Información HIS
+
+
+=== Página/Imagen image38.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (A 6 e
+Etapa de vida niño - Sistema de Información HIS >
+VIII. EVALUACIÓN VISUAL EN NIÑOS MENORES DE 3 AÑOS EN ESTABLECIMIENTOS DE SALUD”
+Actividad que se brinda en todos los establecimientos de salud que realizan Control de Crecimiento y
+Desarrollo, como parte de la atención integral, a cargo de profesional de la salud capacitado (licenciada
+en enfermería); con la finalidad de realizar la evaluación visual en niños menores de 03 años de edad
+(2 años, 11 meses y 29 días) mediante el examen del Reflejo Rojo, Inspección externa de ojos, fijación
+monocular y evaluación del seguimiento de acuerdo a la edad del niño.
+E S Inspección Fijación Evaluación del
+ESRd enel csolo Externa Monocular Seguimiento
+AI A A
+[| 2meses |  x [|  x_ |  x [| |
+IT O E O
+IET E O E
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramentetodas las actividades
+realizadas en el CRED y en caso de Evaluación Visual adicionar:
++ Enel casillero correspondiente el diagnóstico: “Examen de los Ojos y de la Visión”
+En el ítem: Tipo de diagnóstico consignar siempre “D”
+En el ítem: LAB registre:
++ Enel casillero registre el resultado del examen de los ojos y de la visión: NORMAL “N” y ANORMAL
+Na
+EJEMPLO:
+ES Jl PERIMEIRO] EVALUACION [ESTA] se DIAGNÓSTICO MOTWODECONSUNA TÓnIGO
+pia. procenencia | enso > |sexo| ceraticoy | antropomernic | sec |[viciol Y/OACTIMIDAD DESALUD DIAGNÓSTICO] LAB ClE/CrT
+cestangpumeed ena [eenreo PosLaDo] AEDOMINA | a HEMOGLOBINA Pol =]=12]
+NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACIMIENTO: 7 FECHA ULTIMO RESULTADO DE Hb: hb 4 FECHA DE ULTIMA REGLA: ff
+NY
+2D] TEST fol ceieniceeso TT YY
+a
+F Otras faltas del desarrollo fisiológico E [ev | [ze |
+|| [»] Pel lle ans o Pe pxfeloe] | | se.
+NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NAQ MIENTO: y] FECHA ULTIMO RESULTADO DE Hb: IS FECHA DE ULTIMA REGLA: 4
+ETT | Ed tmescrseama Pepfel TP T ve» |
+o A a O AA 0D 00
+[A 3, Problemano especificado de la alimentación N/
+| F ho del recién nacido/Suspensión dela LMEen el DN »oz9
+deste uo YA)
+NOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACIMIENTO: py FECHA ULTIMO RESULTADO DE Hb: Sy FECHA DE ULTIMA REGLA: 4
+[+] o AAA EI
+A DONNE
+po]
+HT A 4
++
+AT] [»] [sf fsfsp>____ ff |I1f 7]
+"Manual de Registro y Codificación de la Atención en la Consulta Externa Estrategia Sanitaria Nacional de Salud Ocular y Prevención
+de la Ceguera
+Sistema de Información HIS
+A
+
+
+=== Página/Imagen image39.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS e
+DG. SESIONES DE ATENCIÓN TEMPRANA DEL DESARROLLO
+La Atención Temprana del Desarrollo es el conjunto de acciones orientadas a brindar condiciones
+adecuadas para promover el desarrollo integral del niño o niña durante los tres primeros años de vida,
+en un ambiente de respeto de sus capacidades y contexto cultural. Se busca que la niña y el niño puedan
+desarrollar al máximo sus capacidades cognitivas, motrices, afectivas, sociales y comunicacionales, lo
+cual permitirá que interactúen de manera segura y logren autonomía progresiva.
+SÓLO se hará uso de esta codificación en el Establecimiento de Salud que cuente con el espacio propio o acondicionado
+para la realización de las Sesiones de Atención Temprana del Desarrollo.
+El personal de salud que realiza esta actividad registrara de la siguiente manera:
+EJEMPLO:
+Niño de 2 meses que acude a su primera Sesión de Atención Temprana
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
++ Enel 12 casillero Atención Temprana del Desarrollo. Áreas: Lenguaje, motora, de coordinación y
+social) /Sesión. En menor de 1 año.
+En el ítem: Tipo de diagnóstico marque “D”
+En el ítem LAB anote:
++ Enel 1? casillero el número de Sesión de Atención Temprana del Desarrollo correspondiente “1”
+DISTRTODE ET] | DIAENESCO MOTVODECONSUTA TPODE caos
+sa a E ón E WOACTIMIDAD DESALUD. o e
+Ji IS aaa
+W A e
+ON ADE
+E PA]
+[em | ZA rs | e Pelo] [| me. |
+A CC cc UE UE
+" a
+NOTA: En el LAB se anotara el número de sesión
+correspondiente puediendo ser 1,2,3...
+40 un Sistema de Información HIS
+
+
+=== Página/Imagen image40.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa
+rectas 68006
+X. INSTRUCCIONES PARA EL REGISTRO DE LAS ACTIVIDADES EN NIÑAS Y NIÑOS DE ESTABLECIMIENTOS
+SALUD QUE NO CUENTEN CON PROFESIONALES DE ENFERMERÍA/MÉDICO.
+En el primer nivel de atención: para realizar el control del crecimiento y desarrollo es necesario que cada
+establecimiento de salud cuente con enfermera o medico capacitado; así mismo, es necesario contar
+con un equipo multidisciplinario para realizar un manejo integral de los problemas del crecimiento y
+desarrollo.
+En caso de que el establecimiento de salud no cuente con el personal de la salud señalado, algunas
+actividades (antropometría, TPED y consejería) podrán ser realizadas por personal de la salud técnico
+debidamente capacitado.
+El personal técnico que realiza la actividad registrara de la siguiente manera:
+96110: Tamizaje de desarrollo, con interpretación y reporte, por formato de instrumento estandarizado.
+99211: Consulta ambulatoria para la evaluación y manejo de un paciente continuador, nivel |.
+EJEMPLO:
+Niño de 1 meses que acude al establecimiento de salud y no hay profesionales de la salud (enfermera/
+médico). El personal técnico realizara antropometría (peso. Talla y PC), además de aplicación del Test
+peruano de evaluación del desarrollo del niño y su orientación según corresponda.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
++ En el 12 casillero Consulta ambulatoria para la evaluación y manejo de un paciente continuador, nivel |.
++ En el 22 casillero Tamizaje de desarrollo, con interpretación y reporte, por formato de instrumento
+estandarizado.
+En el ítem: Tipo de diagnóstico marque “D”
+En el ítem LAB anote:
++ Enel 12 casillero el número de Consulta ambulatoria para la evaluación y manejo de un paciente
+continuador, nivel l; según esquema vigente 1,2,3...
+07] E O mPo0E cE016S
+A A peas
+AENA
+se7a5st0 A beso L: ¿evaluacióny matejotdero paciente X A 55m
+2 caes 10 a ES continuador, VA]
+pa” , Ye sui] seo XIX a É Mi ses
+[>] [>] Pe] [sfsp [rfefs| TIt 7]
+Sistema de Información HIS a 41
+
+
+=== Página/Imagen image41.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS e
+XI. INSTRUCCIONES PARA EL REGISTRO DE LA VISITA DOMICILIARIA
+
+Actividad que se realiza en los hogares, dirigida a madres, padres o cuidadores, que tengan niños y niñas
+
+con la finalidad de brindar consejería integral para promover la adopción de prácticas saludables en el
+
+cuidado infantil, fortalecer la adherencia a la suplementación o al tratamiento con hierro (Jarabe o gotas
+de hierro).
+
+En esta actividad también se complementa y refuerza las consejerías brindadas en el servicio de salud y
+
+durante las sesiones Demostrativas.
+
+El personal de salud que realice la actividad registrara de la siguiente manera:
+
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
+
++ Enel 1? casillero motivo de la visita entre ellos:
+
+Diagnóstico motivo de consulta y/o actividad Códigos
+de salud
+Suplementación con Hierro 99199.17
+Suplementación con Micronutrientes 99199.19
+Otras faltas del desarrollo fisiológico normal esperado R62.8
+(Inadecuado Peso/Talta)
++ Enel 22 casillero se podrá colocar:
++ Consejería realizada, según corresponda
++ Suplementación con hierro ó micronutriente
++ Finalmente se anotará Visita familiar integral que precisara que las intervenciones se están
+realizando en el domicilio.
+
+En el ítem: Tipo de diagnóstico marque “D” en la actividad; SOLO se marcará “R” cuando se trate de una
+
+morbilidad (ejemplo Anemia
+
+En el ítem LAB anote:
+
++ Enel casillero de la Consejería se colocará el número de la visita 1,2...
+
++ Enel casillero de la Visita familiar integral se colocará el número de la visita 1,2...
+
++ Enel casillero de Administración de Sulfato ferroso se registrará “Vacio” cuando se haga la supervisión
+del consumo del suplemento; cuando se haga entrega de suplemento se registrará SF o Polimaltosado
+según corresponda.
+
+EJEMPLO:
+
+Niño de 6 meses que recibe visita domiciliaria para supervisión del consumo del suplemento
+
+Ln] o] Po Tajo cemento Teba] Y PT ma]
+
+0 E A CEET E 1 E IICA
+
++
+as O A 10 E E
+ON « Manual de Registro y Codificación de la Información para el manejo preventivo y terapéutico de la Anemia por
+deficiencia de Hierro.
+
+y « Manual de Registro y Codificación de la Atención integral de Salud de Promoción de la Salud”
+
+Sistema de Información HIS
+MER KE HA
+
+
+=== Página/Imagen image42.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS >
+XIl. INSTRUCCIONES PARA EL REGISTRO DE LA PROFILAXIS ANTIPARASITARIA Y SUPLEMENTACIÓN DE
+VITAMINA “A”
+12.1 ADMINISTRACIÓN DE ANTIPARASITARIOS
+Actividad desarrollada de acuerdo a la normatividad vigente.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
+» En el 12 casillero Control de salud de rutina del niño.
++ En el 22 casillero Atención Integral de Salud del Niño-CRED de 1 a 4 años.
+e En el 32 casillero Profilaxis Antiparasitaria
+En el ítem: Tipo de diagnóstico EN AMBOS CASOS marque siempre “D”
+En el ítem Lab anote:
++ En el 22 casillero el número de control, 1, 2, 3.... según corresponda.
++ En el 32 casillero el número de la administración del antiparasitario; 1ó 2, según corresponda.
+ERA permerno] evaLuación Jesra] sen DIAGNÓSTICO MOTIVO DE CONSULTA cóbIGo.
+pia proceoencia | eoao > [sexo] cesanicor Janrroromernica] sec [vicio] Y/O ACTIVIDAD DE SALUD DIAGNÓSTICO] Las CIEJCer
+[ERGO OS SA E E E EA
+LL FECHA ULTIMO RESULTADO DE Hb: FECHA DEUITIMA REGIA: Y Y
+PAS] 1 ] 00 [uo Pree]os [o Jos Je cemceceracodaimaceóono [e pefel | [mos
+8 Ac E E TEC E CE O INCAS
+Eo Jl rar +21]
+12.2 SUPLEMENTO CON VITAMINA A
+Esta actividad será desarrollada de acuerdo a la normatividad vigente.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente:
+» En el 12 casillero Control de salud de rutina del niño.
++ En el 22 casillero Atención Integral de Salud del Niño-CRED de 1 a 4 años.
++ En el 32 casillero Suplementación de Vitamina “A”
+En el ítem: Tipo de diagnóstico para ambos casos marque SIEMPRE “D”
+En el ítem Lab anote:
+e En el 22 casillero el número de control, 1, 2, 3.... según corresponda.
++ En el 32 casillero el número de DOSIS entregados identificado con las siglas VA1 ó VA2; según
+corresponda.
+E rene] poemas | Perimerro] evacuación [esra] ser DIAGNÓSTICO MOTIVO DE CONSULTA cóDIGO
+pla procenencia | eoan |sexo| cesanicor Jantroromera ca] ace [vicio] Y/O ACTIVIDAD DE SALUD DIAGNÓSTICO! LAB ClEJ Cer
+ASDOMINAL HEMOGLOMNA Pri]
+Ps 0] o PSle Topo comsseamimnssozo Pepe] [TJ]
+O E ETT 0 1010 IE
+A O oo o aaa]
+Sistema de Información HIS a 43
+
+
+=== Página/Imagen image43.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS =
+XIll. INSTRUCCIONES PARA EL REGISTRO DE LOS SERVICIOS DE LA TELEMEDICINA DURANTE EL CONTROL
+DEL CRECIMIENTO Y DESARROLLO
+Es la monitorización o seguimiento a distancia de la persona usuaria en las instituciones Prestadoras de
+y Servicios de Salud, en las que se transmite la información clínica de la persona usuaria, y si el caso lo ame-
+Telemonitoreo rita según criterio médico los parámetros biomédicos y/o exámenes auxiliares, como medio de control de
+su situación de salud. Se puede o no incluir la prescripción de medicamentos de acuerdo al criterio médico
+y según las competencias de otros profesionales de la salud
+o a Es el conjunto de acciones que desarrolla un profesional de la salud mediante el uso de las TIC, para
+Teleorientación proporcionar a la persona usuaria de salud, consejería y asesoría con fines de promoción de la salud,
+prevención, recuperación o rehabilitación de las enfermedades.
+Esla consulta a distancia que se realiza entre un profesional de la salud, en el marco de sus competencias,
+y una persona usuaria mediante el uso de las TIC, con fines de promoción, prevención, diagnóstico,
+Teleconsulta tratamiento, ecuperación, rehabilitación y cuidados paliativos según sea el cao, cumpliendo con las
+restricciones reguladas a la prescripción de medicamentos y demás disposiciones que determine el
+Ministerio de Salud.
+«e Es la consulta a distancia mediante el uso de las TIC, que realiza un personal de salud a un profesional de
+la salud para la atención de una persona usuaria, pudiendo ésta estar o no presente con fines de
+a promoción, prevención, diagnóstico, tratamiento, recuperación, rehabilitación y cuidados paliativos según
+ICI SETE co: el caso, cumotenco con las restricciones
+e Reguladas a la prescripción de medicamentos y demás disposiciones que determine el Ministerio de salud.
+Para el registro en el Formato HIS se hará uso del siguiente listado de códigos:
+CODIGO PROCEDIMIENTO
+99499.08 Teleorietación Síncrona
+99499.11 Teleinterconsulta síncrona
+13.1 TELECONSULTA
+Ejemplo: Teleconsulta en Línea a un Recién Nacido con bajo peso al nacer.
+En el ítem: Diagnóstico motivo de consulta y/o Actividad de salud registrar:
++ Enel 1? casillero se colocará la Atención integral de salud del Niño —CRED: neonato, menor de 1 año
+ode 1a 4 año, según corresponda.
++ En el 2? casillero se colocará la condición de nacimiento del RN SÓLO si presenta antecedentes de
+bajo peso, pretérmino, postérmino; en este ejemplo se colocaría RN bajo peso al nacer.
++ En el 3? casillero se registrará la modalidad de Teleconsulta en Línea.
+En el ítem: Tipo de diagnóstico marque siempre “D”
+En el ítem LAB anote:
++ Todos los casilleros quedaran el blanco
+44 un Sistema de Información HIS
+
+
+=== Página/Imagen image44.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS e
+ES EA A AAA]
+
+DIA PROCEDENCIA enano |sexo|cerauicoy | anrroromernica |aLec [vicio] *Y/DACTIVIDAD DESALUD pisanóstico| am CEfCAT
+ascomna | menososina EE
+CA O a ITA
+NEO CCA 100 AC
+O co cc on za |
+
+Ejemplo: Teleconsulta en Línea, Niña de 7 Meses con Alimentación Inadecuada.
+
+En el ítem: Diagnóstico motivo de consulta y/o Actividad de salud registrar:
+
++ Enel 1? casillero se colocará la Atención integral de salud del Niño —CRED: neonato, menor de 1 año
+ode 1a 4 año, según corresponda.
+
++ Enel 2 casillero se colocará la condición de crecimiento y desarrollo, SÓLO si existe un riesgo; en
+este ejemplo se colocaría Problemas relacionados con la dieta y hábitos alimentarios inapropiados.
+(Alimentación complementaria inadecuada).
+
++ En el 3? casillero se registrará el servicio realizado Teleconsulta en Línea.
+
+En el ítem: Tipo de diagnóstico marque siempre “D”
+
+En el ítem LAB anote:
+
++ Todos los casilleros quedarán en blanco.
+
+a A A AAA
+pa PROCEDENCIA. enano |sexo|cerauico y | anrroromernica. |aLec Juicio Y/O ACTIVIDAD DESALUO, loisnósrico| Las dE/Cer
+hscomna] —nenosomma Toa T]
+== FECHAULTIMO RESULTADO DEMO: JS FEMADEVITIMA REGIA
+AA AT]
+Problemas relacionados con la dieta y hábitos
+MA]
+VN VAYA” complernentaria inadecuada, VA
+7] SAO] PT TT Freno mntnes 22 TERA]
++ En caso la niña o niño continúe durante la teleconsulta con el mismo diagnóstico se
+seguirá marcando “R” hasta la recuperación en donde se colocará “PR” en el LAB, y
+luego se volverá a marcar “D”.
+* Encasolaniñao niño durante la teleconsulta cuente con un diagnostico como presuntivo
+se marcará “Pp”.
+13.2 TELEORIENTACIÓN:
+Ejemplo: Cuando la familia recibe una Teleorientación Síncrona (Consejería o Asesoría).
+En el ítem: Diagnóstico motivo de consulta y/o Actividad de salud registrar:
++ En el 1? casillero se colocará la Atención integral de salud del Niño —CRED: neonato, menor de 1
+año ó de 1 a 4 año, según corresponda.
++ En el 2? casillero se registrará la consejería brindada, según listado de códigos.
++ En el 3? casillero el servicio realizado Teleorientación Síncrona.
+En el ítem: Tipo de diagnóstico marque siempre “D”
+En el ítem LAB anote:
++ Todos los casilleros quedarán en blanco.
+Sistema de Información HIS a 45
+
+
+=== Página/Imagen image45.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (A 6 e
+Etapa de vida niño - Sistema de Información HIS >
+a A PERIMETRO] — EVALUACION ESTA] SER DIAGNÓSTICO MOTIVO DE CONSULTA. CÓDIGO:
+Lucca] wemostosiva PT]
+tad FECHA ULTIMO RESULTADO DE Mb: 12/09/2020 po |
+LI je] fuesen [de] [ [| 0. |
+A 017]
+pS hasta los 06 meses
+6 WN. 'AVAS lA
+E] e A TR]
+
+Ejemplo: Cuando la familia recibe una Teleorientación Síncrona (Consejería o Asesoria) como parte
+
+de la Atención Temprana Del Desarrollo.
+
+En el ítem: Diagnóstico motivo de consulta y/o Actividad de salud registrar:
+
++ Enel 1” casillero se colocará Atención Temprana del Desarrollo. Áreas: Lenguaje, motora, de
+coordinación y social) /Sesión. En menor de 1 año En el 2” casillero se registrará la consejería
+brindada, según listado de códigos.
+
++ Enel2” casillero se registrará la consejería brindada, según listado de códigos.
+
++. Enel 3" casillero el servicio realizado Teleorientación Síncrona.
+
+En el ítem: Tipo de diagnóstico marque siempre “D”
+
+En el ítem LAB anote:
+
++ Todos los casilleros quedarán en blanco.
+
+[IET | DISTANO DE PERIMERO] EVALUACION JETA] se DIASNESTEO MOTIVO DECONSUDA ODE ALO" Tono
+soownal  hevociosiva [E E E
+N/ Atención Temprana del Desarrollo, N/
+98251652 A PESO N | ni |1. Áreas:Lenguaje, motora, de coodinación y X 99411.01
+2 AE A En social) ¡Sesión VA]
+"N CIA
+ae e 007]
+13.3 TELEINTERCONSULTA
+
+Ejemplo: teleinterconsulta — IPRESS interconsultante
+
+En el ítem: Diagnóstico motivo de consulta y/o Actividad de salud registrar:
+
++ En la 1? Fila: Motivo de consulta (Ejem: Anemia)
+
++ Enla 2? Fila: Teleinterconsulta.
+
+En el ítem: Tipo de diagnóstico marque:
+
+e En la 1? Fila: Marque tipo “R”
+
++ En la 2? Fila: Marque tipo “D”
+
+En el ítem LAB anote:
+
+e Enla 1? Fila: “ “ (vacio)
+
++ Enla 2? Fila: “1” (por ser interconsultante)
+
+o O E ANETO MONO DECOIUA roo von coniGa
+coño [sexo] cemucor | somoromerica. [avec [uc VOACTVDADDESALUO mnósncO pe cIejcer
+acom | Hemostcaina Gabnar
+(S)JFECHA DE NACIMIENTO: 12/09/2019 FECHA ULTIMO RESULTADO DE Hb: 12/03/2020 FECHA DE ULTIMA REGLA: ff
+A] E | PPP]
+A E E E 0 EE 0 E
+coo o e 0 O 0 E E
+istema de Información
+46 nn si de Inf ión HIS
+
+
+=== Página/Imagen image46.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS >
+Ejemplo: teleinterconsulta — IPRESS Interconsultora
+En el ítem: Diagnóstico motivo de consulta y/o Actividad de salud registrar:
+e En la 1* Fila: Motivo de consulta (Ejem: Anemia)
+e Enla 2? Fila: Teleinterconsulta.
+En el ítem: Tipo de diagnóstico marque:
++ En la 1? Fila: Marque tipo “R”.
++ En la 2? Fila: Marque tipo “D”.
+En el ítem LAB anote:
+e Enla 1? Fila: “ “ (vacio)
+e En la 2? Fila: “2” (por ser Interconsultora)
+PERIMETRO evaLuación — JESTA| SER DIAGNÓSTICO MOTIVO DE CONSULTA: TIPODE VALOR CÓDIGO
+SEXO| CEFALICO Y. ANTROPOMETRICA | LEC [vicio] Y/O ACTIVIDAD DE SALUD: DIAGNÓSTICO. Lab ClEf Cer
+ARG0MNAL | — HEMOGLOBINA jojo aaa]
+A PRE
+[o] PTweY— fslfsfp efe fsTf ||]
+13.4 TELEMONITOREO:
+Ejemplo: cuando el niño o niña necesite de un monitoreo o seguimiento.
+En el ítem: Diagnóstico motivo de consulta y/o Actividad de salud registrar:
++ En el 1? casillero se colocará la Atención integral de salud del Niño —CRED: neonato, menor de 1 año
+ode 1a 4 año, según corresponda.
++ Enel 2? casillero se registrará el Telemonitoreo.
+En el ítem: Tipo de diagnóstico marque siempre “D”
+En el ítem LAB anote:
++ Todos los casilleros quedaran en blanco.
+(ICI | DISTAO DE PERIMERO] EVALUACIÓN [ESTA ]se SS TFODE ALO TDI
+Asocmina] — Henostosa To Ta fTeT51
+[== FECHA ULTIMO RESULTADO DEHb:/ 4 FECHADEUITIMA REGIA  /
+E e a PR]
+O a no 0 A ANGIE |
+po |] [AY] [ue] fefepo  Jefefpf If]
+Sistema de Información HIS a 47
+
+
+=== Página/Imagen image47.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa
+Etapa de vida dun - tera de Información HIS o [6] 0) e
+XIV. INSTRUCCIONES PARA EL REGISTRO DE LA ATENCIÓN DE LAS INFECCIONES RESPIRATORIAS AGUDAS
+Intervención orientada al diagnóstico y tratamiento de los casos de Infección Respiratoria Aguda sin
+complicaciones y con complicaciones, en niñas y niños, atendidos de manera ambulatoria.
+Tenga en cuenta lo siguiente:
+En el ítem: Tipo de diagnóstico se debe tener en cuenta las siguientes consideraciones al momento de
+registrar: Marcar con un aspa (X)
+P: (Diagnóstico presuntivo) Únicamente cuando no existe certeza del diagnóstico y/o éste requiere de
+algún resultado de laboratorio. Su carácter es provisional.
+D: (Diagnóstico definitivo) Cuando se tiene certeza del diagnóstico por evaluación clínica y/o por
+exámenes auxiliares y debe ser escrito una sola vez para el mismo evento (episodio de la enfermedad
+cuando se trate de enfermedades agudas y solo una vez para el caso de enfermedades crónicas) en un
+mismo paciente.
+R:(Diagnóstico repetido) Cuando el paciente vuelve a ser atendido para el seguimiento de un mismo
+episodio o evento de la enfermedad en cualquier otra oportunidad posterior a aquella en que estableció
+el diagnóstico definitivo.
+d Los casos nuevos sólo se registran con diagnóstico DEFINITIVO “D” LA PRIMERA VEZ que se diagnostican; los controles
+, por el mismo episodio de la enfermedad se registran con tipo de diagnóstico “R”
+DIAGNÓSTICOS MÁS FRECUENTES
+DESCRIPCIÓN CÓDIGO DIAGNÓSTICO
+J00.X Rinofaringitis aguda
+J04.0 Laringitis Aguda
+304.1 Traqueítis Aguda
+INFECCIÓN 304.2 Laringotraqueítis aguda
+RESPIRATORIA AGUDA J06.0 Laringofaringitis aguda
+NO COMPLICADA J06.8 Otras infecciones agudas de sitios múltiples de las vías respiratorias
+superiores
+J06.9 Infección aguda de las vías respiratorias superiores, no especificada
+320.9 Bronquitis Aguda, no especificada.
+J02.0 Faringitis estreptocócica.
+302.9 Faringitis aguda, no especificada
+FARINGOAMIGDALITIS J03.0 Amigdalitis estreptocócica.
+AGUDA J03.8 Amigdalitis aguda debida a otros microorganismos especificados
+J03.9 Amigdalitis aguda, no especificada
+H65.0 Otitis media aguda serosa
+OTITIS MEDIA AGUDA H65.1 Otitis media aguda, no supurativa
+(OMA) H66.0 Otitis media supurativa aguda
+H66.9 Otitis media, no especificada
+J01.0 Sinusitis maxilar aguda
+SINUSITIS AGUDA: J01.1 Sinusitis frontal aguda
+48 un Sistema de Información HIS
+
+
+=== Página/Imagen image48.jpeg ===
+
+a o800
+DIAGNÓSTICOS MÁS FRECUENTES
+DESCRIPCIÓN CÓDIGO DIAGNÓSTICO
+J01.2 Sinusitis etmoidal aguda
+J01.3 Sinusitis esfenoidal aguda
+J01.4 Pansinusitis aguda
+J01.9 Sinusitis aguda, no especificada
+5 312.9 Neumonía viral, no especificada
+NEUMONÍA NO 315.9 Neumonía bacteriana, no especificada
+COMPLICADA 318.9 Neumonía no especificada
+A36.9 Difteria, no especificada
+A37.0 Tos Ferina debida a Bordetella Pertussis
+A37.1 Tos Ferina debida a Bordetella Parapertussis
+A37.8 Tos Ferina debida a otras Especies de Bordetella
+A37.9 Tos ferina, no especificada
+312.0 Neumonía debida a adenovirus
+312.1 Neumonía debida a virus sincitial respiratorio
+312.2 Neumonía debida a virus parainfluenza
+INFECCIONES 312.3 Neumonía debida a metaneumovirus humano
+RESPIRATORIAS 312.8 Neumonía debida a otros virus
+AGUDAS CON 313.X Neumonía debida a Streptococcus Pneumoniae.
+COMPLICACIONES 314.X Neumonía debida a Haemophilus Influenzae.
+315.0 Neumonía debida a Klebsiella Pneumoniae
+315.1 Neumonía debida a Pseudomonas
+315.2 Neumonía debida a estafilococos
+315.3 Neumonía debida a Streptococcus grupo B
+315.4 Neumonía debida a otros estreptococos
+315.7 Neumonía debida al Mycoplasma Pneumoniae
+315.8 Otras neumonías bacterianas
+316.0 Neumonía debida a clamidias
+316.8 Neumonía debida a otros microorganismos infecciosos especificados
+NEUMONÍA Y JO5.0 Laringitis obstructiva, aguda (Crup)
+ENFERMEDAD MUY JO5.1 Epiglotitis aguda
+GRAVE EN: J85.1 Absceso del pulmón con neumonía
+Dos menores de J86.0 Pio tórax con fistula
+" 386.9 Pio tórax sin fistula
+J90.X Pleuresía no tuberculosa
+NEUMONÍA Y 393.9 Neumotórax no especificado ] ] : o
+ENFERMEDAD MUY 310.0 Influenza con neumoníe, debida a otro vi rus de la influenza identificado
+GRAVE EN: 311.0 Influenza con neumonía, virus no identificado
+Niñesdez mesesa 315.5 Neumonía debida a Escherichia Coli
+4 años 315.6 Neumonía debida a otras bacterias aeróbicas gramnegativas
+318.0 Bronconeumonía, no especificada
+Sistema de Información HIS a 49
+
+
+=== Página/Imagen image49.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (A
+Etapa de vida niño - Sistema de Información HIS o > 0) e
+DIAGNÓSTICOS MÁS FRECUENTES
+DESCRIPCIÓN CÓDIGO DIAGNÓSTICO
+318.1 Neumonía lobar, no especificada
+318.2 Neumonía hipostática, no especificada
+318.8 Otras neumonías, de microorganismo no especificado
+99700 Referencia a EE.SS con capacidad resolutiva
+99401.08 Consejería en identificación de signos de alarma
+Cco011 Visita familiar integral
+94664 Nebulización o Inhaloterapia
+94799.02 Oxigenoterapia.
+14.1 REGISTRO DE LA ATENCION DE LAS INFECCIONES RESPIRATORAS AGUDAS (IRAS):
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud anotar claramente:
++ En el 12 casillero, el tipo de diagnóstico según la CIE10
+En el ítem: Tipo de diagnóstico
+» Enel 12 casillero, marcar “D”
+
+Pes tae] psrarooe scmero] evscvacion Jets] omenasticomornooecomsara | neos | vaor ]cóoio
+bi eacceencia — | como [sexo] cesaicor Janrroromeranc| izo Jucto VIO ACTIVIDAD DESALVD oucnósmco] us | cer
+
+[IU Ii O [eToT+ ff». ]»*]
+24 —  FECHAULTIMO RESULTADO DE Hb: /__/_FEOHA DEULTIMAREGLA: /
+
+NI NI
+¿lo a] A] EPA Tp remeras qe Y TT ]
+E O : OE
+[|] [>] [e] Jeff fefefef [YI |]
+14.2 REGISTRO DE LAS CONSEJERIAS
+14.2.1 REALIZADAS DURANTE LA ATENCIÓN MÉDICA
+
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud anotar claramente:
+
++ En el 12 casillero, el tipo de diagnóstico según la CIE1O
+
++ Enel 2? casillero, la consejería
+
+En el ítem: Tipo de diagnóstico
+
+e Enel 12 y 2? casillero marque “D”
+cia | msromacamca || proceoeneia | coo |sexo| cerauico y Janreoeomennica | stec [vi] YO ACTIVDAD DESALUO biscnósmco| tas clEpcer
+
+[room] Memosionma [»ToT+]+=]> [>]
+
+0 A 8 IC OCC O A
+0 9724 1 UN baul 76 Lele |. ersceria enidentificación de N] , 3001.08
+lc A o A A É
+
+Pp] [o] [ro] Jefe ________frfofs| | [| [| |]
+
+14.2.2 REALIZADAS FUERA DEL CONSULTORIO MEDICO
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud anote claramente
++ En el 12 casillero, el tipo de diagnóstico según CIE 10
++ En el 22 casillero, la consejería
+50 un Sistema de Información HIS
+
+
+=== Página/Imagen image50.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (A 6 e
+Etapa de vida niño - Sistema de Información HIS >
+En el ítem: Tipo de diagnóstico marque
+e Enel 12 casillero SIEMPRE “R*”
+e Enel 22 casillero SIEMPRE “D”
+Po Tae] pistarooe penmerso] evacuación JETA] SE] omonósrico moro DE consuLra O
+EN PROCEDENCIA soso |sexo| cssaucoy Janrroromenaca | acc [ua Y/O ACTIVIDAD DESALUD bissnósrco| se CIJ
+[ips [deis [+ToT+[=T+T»]
+NOMBRES Y APELLIDOS PAQENTE: (P)FECHA DE NACIMIENTO: f/f FECHAULTIMO RESULTADO DEHb:_ ff FECHA DE ULTIMA REGIA: /_/
+A A ON
+> ta mater [qe | [pea
+HA |] coso 00 0 a
+14.3 REGISTRO DEL MONITOREO DEL TRATAMIENTO
+14.3.1 EN EL ESTABLECIMIENTO DE SALUD
+La evolución del tratamiento será realizada por el médico tratante, con el apoyo del personal
+de salud capacitado, de acuerdo a la valoración clínica individual de cada niña/ niño.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud anotar claramente
++ En el 12 casillero, el tipo de diagnóstico según la CIE1O.
++ En el 22 casillero la consejería
+En el ítem: Tipo de diagnóstico marque
++ En el 12 casillero, SIEMPRE “R”
++ En el 22 casillero, SIEMPRE “D”
+En el ítem: LAB, anote
+*+En el 22 casillero el número de consejería 1, 2... según corresponda
+Pos Tame] pistarooe pemerso] evacuación [JS] oranósmco monvo DE CONSULTA E
+ola PROCEDENCIA sexo | cesaicoy |anmeopomere ca | suce Jucio WO ACTIMDAD DESALUD plástico] Las CIE/Cer
+[IN Iii PeTo]+[=T>+*]>]
+NOMBRES Y APELUDOS PACIENTE: (*)FEGHA DE NACIMIENTO: ff FECHA ULTIMO RESULTADO DE Hb: ff  FECHADEULTIMAREGLA: / Jj
+| ER eemmem PAT]
+26 2 Coracora Mi Pe: = E
+a|_s»| A CE
+po y | (epppdejo fefep  Irfeflef | [| |
+14.3.2 EN LA COMUNIDAD
+Se realizará como mínimo 1 visita domiciliaria dentro de las 72 horas de iniciado el tratamiento,
+donde se debe desarrollar las actividades según la guía de práctica clínica vigente.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente
+e En el 1? casillero, registrar el tipo de diagnóstico según la CIE10, que motiva la visita.
+e En el 2? casillero Visita Domiciliaria
+En el ítem: Tipo de diagnóstico marque
+e En el 1? casillero SIEMPRE “R”
+e En el 2? casillero SIEMPRE “D”
+Sistema de Información HIS a 51
+
+
+=== Página/Imagen image51.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (A 6 13)
+Etapa de vida niño - Sistema de Información HIS => 7
+En el ítem LAB, anote:
+*En el 22 casillero el número de visita 1, 2... según corresponda.
+Te] asraro oe E EA A o O
+ol erocepencia — | ena [sexo ceraticoy Janmaopomersica | ae Jtro| VOALTUDADOESALUO oicnósnco] vs | cepcer
+[proce | hemosionma DOCcEca
+NOMBRES Y APELLIDOS PACIENTE: (*)FEGHA DE NACIMIENTO: 4 FECHA ULTIMO RESULTADO DE Hb: /  /  FEMHADEULTIMA REGLA: / /
+N 1
+O E e E A IE
+: A OTE 010 00M
+pes IO AOS 0 10 0 ci Cc ce CC
+14.4 REGISTRO DE LA REFERENCIA A UN ESTABLECIMIENTO DE MAYOR COMPLEJIDAD
+Esta actividad se registra dependiendo la capacidad resolutiva de cada Establecimiento de Salud,
+hacer la referencia según corresponda.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote:
++ En el 12 casillero el tipo de diagnóstico según la CIELO.
+e En el 22 casillero referencia
+En el ítem: Tipo de diagnóstico marque
++ En el 12 casillero, marcar SIEMPRE “P”
++ En el 22 casillero SIEMPRE “D”
+poe laa] pstrrooe Peamero] evanacos Jste] ee] oiasnóstico moro pe consuLra O
+E PROCEDENCIA soso |sexo| cerauicov Janrroromeraica | sec vicio WOACTIVDAD DESALUD olasnósico| tas CIEJCer
+Mirto essa PeJo [+ [fs T2* Ta]
+INOMBRES Y APELLIDOS PACIENTE: (*)FECHA DE NACIMIENTO: y FECHA ULTIMO RESULTADO DE Hb: __/ /  FECHADEULTIMAREGLA: / /
+Xx] Dx] Neumonía debida a virus sincitial X]
+78645511 4 2. AN PE peso | 103 | m pa e respitatorio E 121
+26
+0] mw» | e y E ra 0 MIE
+manos AOS cc o cs O
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote:
++ En el 12 casillero el tipo de diagnóstico según la CIE10.
+» En el 22 casillero oximetría
+» En el 32 casillero Referencia
+En el ítem: Tipo de diagnóstico marque:
++ En el 12 casillero, marcar SIEMPRE “P”
+» En el 22 casillero SIEMPRE “D”
+e Enel 32 casillero SIEMPRE “D”
+Pes Tae] pistroos pesmerso] evacuación Jere] ser-] omonósrico moro DE CONSULTA O e
+bla PROCEDENCIA soso |sexo)| cesatico y Janrropomenaica | eee Jucio VO ACTIUDAD DESALUD plasnósnco| — Las clE/cer
+[IN iio P+ToT*[+=T+=*P»*]
+Ela] Pep Rpd teo secos Pele] TY Ta]
+ep[ «mw | DA pue a [efefoimer [rx |_owe |
+e 53230 HN haa] 73 | e | e lo. oximeria [xr] | |] 34760
+" ,, Referencia a EESS con capacidad lx 58
+he ls] 700
+IN resolutiva VA
+52 un Sistema de Información HIS
+
+
+=== Página/Imagen image52.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa
+Etapa de vida dun - tera de Información HIS o [6] 0) e
+XV. INSTRUCCIÓN PARA EL REGISTRO DE LA ATENCIÓN DEL SINDROME DE OBSTRUCCIÓN BRONQUIAL
+(SOB)-ASMA
+Intervención orientada al diagnóstico y tratamiento de los casos de SOB/ASMA en niñas y niños,
+atendidos de manera ambulatoria de acuerdo a normatividad vigente.
+Tenga en cuenta lo siguiente:
+En el ítem: Tipo de diagnóstico se debe tener en cuenta las siguientes consideraciones al momento
+de registrar: Marcar con un aspa (X)
+P: (Diagnóstico presuntivo) Únicamente cuando no existe certeza del diagnóstico y/o éste requiere
+de algún resultado de laboratorio. Su carácter es provisional.
+D: (Diagnóstico definitivo) Cuando se tiene certeza del diagnóstico por evaluación clínica y/o por
+exámenes auxiliares y debe ser escrito una sola vez para el mismo evento (episodio de la enfermedad
+cuando se trate de enfermedades agudas y solo una vez para el caso de enfermedades crónicas) en
+un mismo paciente.
+R: (Diagnóstico repetido) Cuando el paciente vuelve a ser atendido para el seguimiento de un
+mismo episodio o evento de la enfermedad en cualquier otra oportunidad posterior a aquella en
+que estableció el diagnóstico definitivo.
+AN Los casos nuevos sólo se registran con diagnóstico DEFINITIVO “D” LA PRIMERA VEZ que se diagnostican;
+tos controles por el mismo episodio de la enfermedad se registran con tipo de diagnóstico “R”.
+$
+pS
+DESCRIPCIÓN CÓDIGO DIAGNÓSTICO
+321.0 Bronquiolitis aguda debida a virus sincitial respiratorio.
+321.1 Bronquiolitis aguda debida a metaneumovirus humano
+321.8 Bronquiolitis aguda debida a otros microorganismos especificados
+321.9 Bronquiolitis aguda, no especificada
+344.0 Enfermedad pulmonar obstructiva crónica con infección aguda de las
+vías respiratorias inferiores
+SINDROME 344.1 ld pulmonar obstructiva crónica con exacerbación aguda,
+OBSTRUCTIVO ME DENESgS . o o
+344.8 Otras enfermedades pulmonares obstructivas crónicas especificadas
+BRONQUIAL(SOB) - z 2. uE
+ASMA 344.9 Enfermedad pulmonar obstructiva crónica, no especificada
+345.0 Asma predominantemente alérgica
+345.1 Asma no alérgica
+345.9 Asma, no especificada
+346.X Estado asmático (Asma aguda severa)
+99700 Referencia a EE.SS con capacidad resolutiva
+99401.08 Consejería en identificación de signos de alarma
+Cco011 Visita familiar integral
+94664 Nebulización
+94799.02 Oxigenoterapia
+
+
+=== Página/Imagen image53.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 13)
+Etapa de vida niño - Sistema de Información HIS > »
+Para el registro tenga en consideración lo siguiente:
+En los diagnósticos con código CIE 10: J440, J441, J448, 3449, J450, J451, J458, 3459, J46X considerar en
+Lab., el grado de severidad: LEV = Leve, MOD = Moderado, SEV = Severo.
+15.1 REGISTRO DE LA ATENCION DEL SINDROME OBSTRUCTIVO BRONQUIAL(SOB) “ASMA
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote
++ En el 12 casillero el tipo de diagnóstico según la CIELO.
+En el ítem: Tipo de diagnóstico
++ En el 12 casillero, marcar SIEMPRE “D”
+| om | DISTRITO DE PERIMETRO EVALUACION ESTA-| SER- DIAGNÓSTICO MOTIVO DE CONSULTA. TIPODE VALOR CÓDIGO
+nan
+ola PROCEDENCIA sono |sexo| cesauico y Jawrroromernica | stec [cto VO ACTIVIDAD DESALUD olasnósnco| tas CIE/Cer
+[E ió A [+ToT+[+T+*P*]
+NOMBRES Y APELUDOS PACIENTE: (é)FECHA DE NACIMIENTO: Jo d FECHA ULTIMO RESULTADO DE Hb: __/  /  FECHADEULTIMAREGLA: ff
+E E O ATP 0
+Peg £ z
+es IO MES O e CIS
+[>| [Pp Pel Jefe Irief [IT]
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud anotar claramente
+e En el 12 casillero registrar el tipo de diagnóstico según la CIE10.
+En el ítem: Tipo de diagnóstico marcar SIEMPRE “D”
+En el ítem: LAB anote el grado de severidad de la Crisis.
+nl aisarooe O O
+bla PROCEDENCIA eso |sexo| ceratico Janrroromeraca | eee [vicio VOACTMDAD DESALUD blasNósico| tas CIE/COr
+poo | MoSAnA [+ToT+*[+T»*T»]
+24 FECHAULTIMO RESULTADO DE Mb: /_ FECHA DE ULTIMA REGLA:
+N BASAL, ¡oras endermedoces pulmonares ¡Y
++e2e9620 2 Cañete XA M | Pe uno id OD E obstructivas crónicas especificadas O pen] 088
+ÉS AL E E E FE OOOO E IE
+me O IA M8 ES E A CC O O A
+15.2 REGISTRO DE LAS CONSEJERIAS
+15.2.1 REALIZADA DURANTE LA ATENCIÓN MÉDICA
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud anote claramente
+e En el 12 casillero el diagnóstico según CIE 10
++ En el 22 casillero Consejería
+En el ítem: Tipo de diagnóstico marque
+» En el 12 casillero SIEMPRE “D”
+e En el 22 casillero SIEMPRE “D”
+54 Sistema de Información HIS
+
+
+=== Página/Imagen image54.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (0) Q (9) e
+Etapa de vida niño - Sistema de Información HIS ==”
+En el ítem: LAB anote:
++ En el 12 casillero el grado de severidad de la Crisis.
++ En el 22 casillero el número de consejería 1, 2... según corresponda
+Tasas cmemo Tevconcion. [SA] Er |] arNOscOMOTvODEcOsUnA o OO
+o erocenencia — | nan: [sexo] cesauicoy |anmoromenaica | suec [uc] VOAETIMIDAD DESALUO cuonósmco| tas | aefcer
+[IN iii [e] o]*[*[=*T=]
+[NOMBRES Y APELUDOS PACIENTE: (*)FECHA DE NACIMIENTO: 0] FECHA ULTIMO RESULTADO DEHb:__// FECHA DEULTIMA REGLA: JJ
+TM] ETE eee —— Te]
+29/ 7285 2 Señess EE Lal DANA , Consejeria en Identificacion de M a 3040108
+03 YA" signos de alarma VA
+IO O AS CC O CC O
+15.2.2 REALIZADAS FUERA DEL CONSULTORIO MEDICO
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud anote claramente
++ En el 12 casillero el diagnóstico según CIE 10
++ En el 22 casillero Consejería
+En el ítem: Tipo de diagnóstico marque
+» En el 1? casillero SIEMPRE “R”
+e En el 2? casillero SIEMPRE “D”
+En el ítem: LAB anote:
++ En el 22 casillero el número de consejería 1, 2... según corresponda
+IEC FO EEC o A E E TS ET NTE RT
+DIA PROCEDENCIA mao [sexo] cesauico | antroromeraica | ec uc] Y/O ACTIVIDAD DESALUD DAsNósmco| Las CIEfCRT
+[| Prom] tvososo [+To]+[*T>*T>»*]
+INOMBRES Y APELUDOS PACIENTE: (*)FEGHA DE NACIMIENTO: (UE) FECHA ULTIMO RESULTADO DE Hb: /  /  FECHADEULTIMA REGLA: J f
+[ts | ES [mo] [o [ o] smencenesenóa [ox [uso |
+81240004 NE seso] 19 | m] mf asmasnoespecificada ["[o[x] ] | [
+Ml : A a 00 AN
+>|] [>] [+] fefsp> Telefe [| [>]
+15.2.3 REGISTRO DE NEBULIZACIÓN U OXIGENOTERAPIA
+Estos procedimientos son prescritos por el médico y lo registra el personal que realiza el
+procedimiento.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud anotar
++ En el 12 casillero, el diagnóstico según CIE 10 que requiere la Nebulización
++ En el 22 casillero, Nebulización
+En el ítem: Tipo de diagnóstico marque:
+» En el 1? casillero SIEMPRE “R”
+e En el 22 casillero SIEMPRE “D”
+Sistema de Información HIS a 55
+
+
+=== Página/Imagen image55.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (A 6 13)
+Etapa de vida niño - Sistema de Información HIS => 7
+Dm] DT somero evaacon. JE JSR] aIAGNósTIcO MOTIVO DECONSULTA E A
+sá] msroma comes 0005] eroceoecia | cono [sexo] cesauicoy Janrroponernica| ace [cio VO ACTIVIDAD DESALUD omsuósco] as | ae/cer
+[ci Pe To Ts [so Po]
+46284620 San Juan de A seso] 73 | | [a Enfermedad pulmonar obstructiva IX 1449
+2 Miraflores: mM | ee crónica, no especificada IN
+23
+ARTO SA EI E CCC E
+mas II OO CO OA A
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud anotar
+» En el 1? casillero el diagnóstico según CIE 10.
++ En el 2? casillero oxigenoterapia
+En el ítem: Tipo de diagnóstico marque:
+e En el 1? casillero SIEMPRE “R”
+e En el 2? casillero SIEMPRE “D”
+oa Tae] pisarooe semmerno ] evacuación Jese]ser] orsnésnco morra pe consurra move] vaor | cónico
+om pnoceoencia — | pao | seco cerauicoy |anrnocomernca |ecec|vicio| VIDACTIMIDAD DESHLUO pisnósnco] us | ciepcer
+[esa US P»ToT+]+"T2"T]
+NOMBRES Y APELUDOS PACIENTE: (*)FECHA DE NACIMIENTO: 3 FECHA ULTIMO RESULTADO DE Hb: ff  FECHADEULTIMAREGLA:_ ff
+|_seamzo_ | a] e Pl acaso [e [ep] | | |] +. |
+AEAB020 2 ds Al] re ya E NY? crónica, no especificada [+] > IX] 1049
+EME A CE CDE CON ANECO
+ma DU CIO co 0 en CE IA
+15.2.4 REGISTRO DEL MONITOREO DEL TRATAMIENTO
+16.2.4,1 EN EL ESTABLECIMIENTO DE SALUD
+Se evaluará la evolución del tratamiento por el médico tratante, con el apoyo del personal
+de salud capacitado, de acuerdo a la valoración clínica individual de cada niña/ niño.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente
++ En el 12 casillero, registrar el tipo de diagnóstico según la CIE1O
+e En el 22 casillero , Consejería
+En el ítem: Tipo de diagnóstico marque
+» En el 12 casillero marcar SIEMPRE “R”
+» En el 22 casillero marcar SIEMPRE “D”
+En el ítem LAB, anote:
+e En el 22 casillero el número de consejería 1, 2... Según corresponda
+lA PROCEDENCIA sexo | cesaicov |anrroromeraica | acc [veto VIO ACTIVIDAD DESALUD olcnósmico| Las CIE/Cer
+[Proc] Hemosioma PeToT+ Ps T2* Ta]
+ue EPT remeteconesen [ola] | [Pe ]
+E a ES a NES
+[|] [>] Pe] fsfep>> TH III]
+56 un Sistema de Información HIS
+
+
+=== Página/Imagen image56.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (A 6 e
+Etapa de vida niño - Sistema de Información HIS >
+15.2.4.2 EN LA COMUNIDAD
+Se realizará como mínimo 1 visita domiciliaria dentro de las 72 horas de iniciado el tratamiento,
+donde se debe desarrollar las actividades según la guía de práctica clínica vigente.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote claramente
++ En el 12 casillero, registrar el tipo de diagnóstico según la CIE10, que motiva la visita.
++ En el 2? casillero Visita Domiciliaria Integral
+En el ítem: Tipo de diagnóstico marque
+e En el 1? casillero marcar SIEMPRE “R”
+e En el 2? casillero marcar SIEMPRE “D”
+En el ítem LAB, anote:
+e En el 2? casillero el número de visita 1, 2... Según corresponda
+Pes la] oiarooe Penmerso] evacuación  JE7] ser] orasnósico mora pe consutra mpooe ]vaor | cónico
+om proceoenicia | oa0- |sexo| cevacicoy |anmroromenaia see uc YO ACTIDADDESALJO cucnósnco| as | ejer
+o IO [+ Te] r [+ ]>*"]=*]
+NOMBRES Y APELUDOS PACIENTE: (*)FECHA DE NACIMIENTO: 14 FECHA ULTIMO RESULTADO DE Hb: /  /  FECHADEUILTIMA REGLA: /
+4
+q e NERD 00 ETA
+ñ EC 1 006 Mc ERECTO 1 O E IC
+ans O AO A 002 (CC CI O CI
+15.2.5 REGISTRO DE LA REFERENCIA A UN ESTABLECIMIENTO DE MAYOR COMPLEJIDAD
+Esta actividad se registra dependiendo la capacidad resolutiva de cada Establecimiento de
+Salud, hacer la referencia según corresponda.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote
++ En el 1? casillero el tipo de diagnóstico según la CIE1O
+e En el 2? casillero Referencia
+En el ítem: Tipo de diagnóstico marque
++ En el 1? casillero SIEMPRE “P”
++ En el 2? casillero SIEMPRE “D”
+Pas Tae] aisrarooe >eamero] vación JSP] ER] oisnósico morra DE consutra O
+bla PROCEDENCIA ero |sexo| cesauicoy [anrroromersica | stec vicio] WOACTIVIDAD DESALUD plasNósico| ts CIEJCer
+a ES [e [o [+ [+ T2* Pa]
+NOMBRES Y APELLIDOS PAU ENTE: (*)FECHA DE NACIMIENTO: 0] FECHA ULTIMO RESULTADO DE Hb: /  /  FECHADEULTIMAREGLA: / JJ
+Xx] Enfermedad pulmonar obstructiva Dx]
+a| =» | da e 0 EZ
+AY Oc o en 01
+Sistema de Información HIS a 57
+
+
+=== Página/Imagen image57.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa
+Etapa de vida niño - Sistema de Información HIS O [6 (5) e
+XVI. INSTRUCCIONES PARA EL REGISTRO DE LA ATENCIÓN DE LA ENFERMEDADE DIARREICA AGUDA
+Intervención orientada al diagnóstico y tratamiento de los casos de Enfermedad Diarreica Aguda,
+atendidos de manera ambulatoria de acuerdo a normatividad vigente.
+Tenga en cuenta lo siguiente:
+Clasificación de la EDA Grado de Deshidratación Grado de Deshidratación
+Solo el diagnóstico de EDA
+EDA Sin Deshidratación (Acuosa, Disentérica o
+Persistente)
+Acuosa, Disentérica
+OPersistente Diagnóstico de EDA + ES6X
+Con Deshidratación Deshidratación (Depleción de
+volumen)
+Diagnóstico de EDA + R571
+Con Shock Shock (Shock Hipovolémico)
+Para el registro de las EDA se deberá tener en cuenta lo siguiente:
+En el ítem: Tipo de diagnóstico se debe tener en cuenta las siguientes consideraciones al momento de
+registrar: Marcar con un aspa (X)
+P: (Diagnóstico presuntivo) Únicamente cuando no existe certeza del diagnóstico y/o éste requiere de
+algún resultado de laboratorio. Su carácter es provisional.
+D: (Diagnóstico definitivo) Cuando se tiene certeza del diagnóstico por evaluación clínica y/o por exámenes
+auxiliares y debe ser escrito una sola vez para el mismo evento (episodio de la enfermedad cuando se trate
+de enfermedades agudas y solo una vez para el caso de enfermedades crónicas) en un mismo paciente.
+R:(Diagnóstico repetido) Cuando el paciente vuelve a ser atendido para el seguimiento de un mismo
+episodio o evento de la enfermedad en cualquier otra oportunidad posterior a aquella en que estableció
+el diagnóstico definitivo.
+Los casos nuevos sólo se registran con diagnóstico DEFINITIVO “D” LA PRIMERA VEZ que se
+CN diagnostican; los controles por el mismo episodio de la enfermedad se registran con tipo de
+s diagnóstico “R”
+58 un Sistema de Información HIS
+
+
+=== Página/Imagen image58.jpeg ===
+
+a o800
+DESCRIPCIÓN CÓDIGO DIAGNÓSTICO
+A00.9 Cólera, no especificado
+AO1.0 Fiebre tifoidea
+AO1.1 Fiebre paratifoidea A.
+A0O1.2 Fiebre paratifoidea B.
+A01.3 Fiebre paratifoidea C.
+AO1.4 Fiebre paratifoidea, no especificada.
+A02.0 Enteritis debido a Salmonella
+A04.0 Infección debida a Escherichia coli enteropatógena
+A04.1 Infección debida a Escherichia coli enterotoxígena
+A04.9 Infección intestinal bacteriana, no especificada
+DIARREA AGUDA AO5.9 Intoxicación alimentaria bacteriana, no especificada
+ACUOSA A06.2 Colitis Amebiana no disentérica
+A07.2: Criptosporidiosis
+AO8.0 Enteritis por rotavirus.
+A08.2 Enteritis por Adenovirus.
+A08.3 Otras enteritis virales
+A08.4 Infección intestinal viral, sin otra especificación
+AO9.0 Otras gastroenteritis y colitis de origen infeccioso
+A09.9 Gastroenteritis y colitis de origen no especificado
+A03.0 Shigelosis debida a Shigella dysenteriae
+A03.9 Shigelosis de tipo no especificado.
+DIARREA AGUDA A04.2 Infección debida a Escherichia coli entero invasiva
+DISENTERICA A04.3 Infección debida a Escherichia coli entero hemorrágica
+A04.5 Enteritis debida a Campylobacter.
+A06.0 Disentería amebiana aguda de origen no especificada
+EDA con deshidratación:
+Incluye un código CIE 10 de: EDA acuosa o disentérica o persistente + E86X
+Deshidratación / Depleción del volumen.
+EDA con deshidratación y Shock:
+Incluye un código CIE 10 de: EDA acuosa o disentérica o persistente + E8S6X
+EDA CON = Deshidratación / Depleción del volumen + R571 Choque hipovolémico o
+COMPLICACIÓN K56.0 Íleo paralítico o E87.2 Acidosis.
+99401.08 Consejería de identificación de signos de alarma
+C0011 Visita familiar integral
+Sistema de Información HIS a 59
+
+
+=== Página/Imagen image59.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 e
+Etapa de vida niño - Sistema de Información HIS e
+16.1. PARA LA ATENCIÓN DE LAS ENFERMEDADES DIARREICAS AGUDAS, SIN DESHIDRATACIÓN, REGISTRE:
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud anote claramente:
+» En el 12 casillero, el tipo de diagnóstico según la CIE10
+e En el 2? casillero, la Administración de tratamiento (Zinc o SRO si amerita la administración de
+sales de rehidratación Oral.)
++ En el 3? casillero, consejería para identificación de signos de alarma
+En el ítem: Tipo de diagnóstico para todas las actividades marque “D”
+En el ítem: Administración de tratamiento, coloque en LAB la sigla “ZN” para administración de
+sulfato de zinc o “SRO”, para administración de sales de rehidratación oral.
+INCAS O IEEE PERmerno | EvALAcON JETA JSE | DIAGNÓSTICO MOTIVO DECONSUTA, TPODE TN ETE
+era [storm coca |" PROCEDENCIA eso |so| ceranicoy | anreoromereica | ec [nero Y/O ACTIVIDAD DESALUD piacuósmico | e GEJCer
+[A esconamas | wemostosina [CARE EEE
+NI Infección intestinal viral, sin otra NA
+O E DADO ANC
+F Consejería para Identificación de N/
+o o
+16.2. PARA LA ATENCIÓN DE LAS ENFERMEDADES DIARREICAS AGUDAS, CON COMPLICACIONES
+REGISTRE:
+dá EDA CON COMPLICACIÓN: Es decir con Deshidratación o Shock, para lo cual registre el
+> diagnóstico de la EDA, seguido del tipo de deshidratación y administración de tratamiento.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud anote claramente:
++ Enel 1? casillero el tipo de diagnóstico según la CIE1O
+. Enel2? casillero registrar: Deshidratación/depleción de volumen (E386X) o Choque Hipovolémico
+(R571)
++ Enel3? casillero la Administración de tratamiento (Zinc o SRO)
+En el ítem: Tipo de diagnóstico para todas las actividades marque “D”
+En el ítem: Administración de tratamiento, coloque en LAB la sigla “ZN” para administración de sulfato
+de zinc o “SRO”, para administración de sales de rehidratación oral.
+E PeRÍmergo | evaLuaciÓn [Eta] ser DIAGNÓSTICO MOTIVO DE CONSULTA: CÓDIGO
+DIA PROCEDENCIA soaD [sexo] ceraticor | anreopomereica | aLec Juicio] Y/O ACTIVIDADDE SALUD DIAGNÓSTICO. Las ClE/CAr
+[A esoonamas | mesias [ERC EE E
+A EPT 1] TT=]
+AA CI E ICI E 1 CUINA
+OIL IEA ek 4 He
+1 Nose utilizará elcódigo de Suplementación, para el Zinc, porser administrado como tratamiento
+> para la EDA y no como Suplemento Nutricional.
+Sistema de Información HIS
+60 —
+
+
+=== Página/Imagen image60.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 13)
+Etapa de vida niño - Sistema de Información HIS > »
+16.3. PARA EL REGISTRO DE LAS CONSEJERÍAS
+Cuando se realiza la consejería fuera de la consulta medica
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud anote claramente
+e En el 12 casillero el diagnóstico de EDA
+e En el 22 casillero Consejería para la identificación de signos de alarma
+En el ítem: Tipo de diagnóstico marque
+» En el 12 casillero SIEMPRE “R”
+» En el 22 casillero SIEMPRE “D”
+ICI | DISTATODE Pemerño ] EvAuAcon JETA JSEE | DIAGNÓSTICO MOTIVO DECONSUA TPODE TN EE
+esa [arar coca JNE PROCEDENCIA eoso [sexo] ceranicor | antropomereica | sec [vicio] Y/O ACTIVIDAD DESALUD DIAGNÓSTICO Lan OE/CPT.
+[A esoo | emectosia Fr
+7 Infección intestinal viral, sin otra N/
+46284620 2 Lince an PC Pol 18200 (NN e e cifcación XX poa
+7] E A ap oe]
+> A a DONNE
+| CI CE
+Se recomienda que la primera dosis del Zinc como coadyuvante en el manejo de todas las EDAs
+ON en niños y niñas mayores de 06 meses a 59 meses, sea brindada, por un personal de salud
+, capacitado, dentro del establecimiento de salud (triaje, consultorio, u otro espacio identificado
+para tal fín), acompañada de una consejería.
+16.4. MONITOREO DEL TRATAMIENTO
+EN EL ESTABLECIMIENTO DE SALUD.
+Se evaluará la evolución del tratamiento por el médico tratante, con el apoyo del personal de salud
+capacitado, de acuerdo a la valoración individual de cada paciente.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud anote claramente
+e En el 12 casillero, registrar el código CIE 10 utilizado para diagnosticar la EDA de la niña o niño.
+e En el 22 casillero Consejería para la identificación de signos de alarma
+En el ítem: Tipo de diagnóstico marque
+» En el 12 casillero SIEMPRE “R”
+» En el 22 casillero SIEMPRE “D”
+En el ítem LAB, anote:
+e En el 22 casillero el número de consejería 1, 2... Según corresponda
+LJ DSTATODE A E ET PODE ET
+Dia EA: PROCEDENCIA eso |srxo| cesauicor | anrropomertica | sec [vicio Y/O ACTIVIDAD DE SALUD DIAGNÓSTICO LAB ClEJcer
+[A seoorama || mevostosina Fei]
+Xx .n Infección intestinal viral, sin otra DN
+78645511 2 Coracora A] ma | pe 10500 | NIN lb especificación VA] A084
+| sm | [1] pue] Pp eras opfela] | [osasvos|
+cm 00 CI A DIESE PRE] e.
+| ete OEA RT]
+Sistema de Información HIS a 61
+
+
+=== Página/Imagen image61.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 13)
+Etapa de vida niño - Sistema de Información HIS > »
+EN LA COMUNIDAD
+Se realizará como mínimo 01 visita domiciliaria dentro de las 72 horas de iniciado el tratamiento y se
+realizará actividades según normativa vigente.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud anote claramente
++ En el 12 casillero, registrar el código CIE 10 utilizado para diagnosticar la de EDA de la niña o niño.
++ En el 22 casillero Visita Domiciliaria
+En el ítem: Tipo de diagnóstico marque
+e En el 12 casillero SIEMPRE “R”
+» En el 22 casillero SIEMPRE “D”
+En el ítem Lab, anote:
+» En el 22 casillero el número de la visita según corresponda
+e E E PERmeno | EAUACON JETA JSE | BASNéSTICO MONVO DECONSUDA EE]
+DIA. PROCEDENCIA enao [sexo] ceranicor | anrroromeraica | sLec|wcio! Y/O ACTIVIDAD DESALUD DIAGNÓSTICO LAB QE/cer
+[A esoonamas | wemoctosia Bree]
+N Infección Intestinal viral, sin otra N
+46284620 2 Lince 2D PC Peso | 19000 | NN ll especificación IX 4084
+AA CEI AECE 0 0 IE
+se II AC E O A CA
+16.5. EN CASO DE REFERENCIA
+El profesional médico es el responsable de brindar el tratamiento, excepcionalmente donde no se disponga
+de médico, otro profesional de salud consultara al médico del establecimiento más cercano, por los medios
+de comunicación disponibles, para asegurar el tratamiento oportuno y el monitoreo según esquema
+correspondiente, para luego referir.
+Cuando se realiza una referencia a un EE. SS de mayor complejidad: Esta actividad se registra
+dependiendo la capacidad resolutiva de cada Establecimiento de Salud, hacer la referencia según
+corresponda.
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote
+e En el 12 casillero el tipo de diagnóstico según la CIE1O
+» En el 22 casillero derivación/Referencia a EESS con capacidad resolutiva 99700
+En el ítem: Tipo de diagnóstico marque
+» En el 12 casillero SIEMPRE “P*
+» En el 22 casillero SIEMPRE “D”
+E Pememo | EsALuacon [STA] | DASNEsTICO MOT VO DE CONSTA cónico
+pia PROCEDENCIA sexo] cesaLicoy | anrropomerRica | ae [cio Y/O ACTIVIDAD DESALUD DIAGNÓSTICO Las clEJcer
+[A esoosamas | mesnciosia ICAA EE EN
+N/ Gastroenteritis y colitis de origen no | /]
+| se | [+] pal De cacao [e] | | | ce: |
+53230 3 |m NY] [TALLA] 35 Dd: oacitad resoava El 39700
+| EM E CC E CS
+62 un Sistema de Información HIS
+
+
+=== Página/Imagen image62.jpeg ===
+
+a o800
+XVII. INSTRUCCIONES PARA EL REGISTRO DE LA ATENCIÓN DE PARASITOSIS INTESTINAL
+Intervención orientada al diagnóstico y tratamiento de infecciones causadas por diversos parásitos
+intestinales, en la población infantil y son atendidos de manera ambulatoria de acuerdo a normatividad
+vigente.
+Para el registro de las parasitosis intestinales, se deberá tener en cuenta los siguiente:
+En el ítem: Tipo de diagnóstico, se debe tener en cuenta las siguientes consideraciones al momento
+de registrar: Marcar con un aspa (X)
+P: (Diagnóstico presuntivo) Únicamente cuando no existe certeza del diagnóstico y/o éste requiere de
+algún resultado de laboratorio.
+D: (Diagnóstico definitivo) Cuando se tiene certeza del diagnóstico por evaluación clínica y por
+exámenes auxiliares, debe ser escrito una sola vez para el mismo evento en un mismo paciente.
+R: (Diagnóstico repetido) Cuando el paciente vuelve a ser atendido para el seguimiento de un
+mismo episodio o evento de la enfermedad en cualquier otra oportunidad posterior a aquella en que
+estableció el diagnóstico definitivo.
+DIAGNÓSTICOS MÁS FRECUENTES
+CÓDIGO DIAGNÓSTICO / ACTIVIDAD
+
+AO6 Amebiasis.
+
+A0O7.0 Balantidiasis.
+
+A07.1 Giardiasis.
+
+B66.3 Fasciolosis.
+
+B66.4 Paragonimiosis
+
+B68.0 Teniasis por T. Solium
+
+B68.1 Infección debida a Taenia Sagitana
+
+B68.9 Teniasis no especificada
+
+B70 Difilobotriasis
+
+B71 Infección debida a Céstodes, no especificada.
+
+B71.0 Himenolepiasis.
+
+B76.0 Anquilostomiasis.
+
+B76.1 Necatoriasis.
+
+B76.9 Enfermedad debido a Anquilostomas, no especificada.
+
+B77.9 Ascariasis, no especificada.
+
+B78.0 Estrongioloidiasis intestinal.
+
+B79 Trichuriasis (Trichuris trichura)
+
+B80 Enterobiasis (Enterobios vermicularis, oxiuros)
+
+B32.0 Helmintiasis intestinal, sin otra especificación.
+
+B82.9 Parasitosis intestinal, sin otra especificación.
+
+Sistema de Información HIS a 63
+
+
+=== Página/Imagen image63.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (A 6 e
+Etapa de vida niño - Sistema de Información HIS >
+17.1 PARA LA ATENCIÓN DE PARASITOSIS INTESTINAL EN NIÑOS Y NIÑAS, REGISTRE:
+En las Atenciones de Parasitosis intestinal registre:
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote
+e En el 12 casillero, registra el tipo de diagnóstico según la CIE1O
+En el ítem: Tipo de diagnóstico marque
+» En el 12 casillero SIEMPRE “D”
+e e E A EE
+esa | misromia comica] PROCEDENCIA sexo] cerauicoy | anrropomereica | auec [vicio Y/O ACTIVIDADDE SALUD DIAGNÓSTICO. Las ClEJcOr
+[A esooramas | uemeciosia [EEE
+Al ee TRA TT
+motel Pp [Pel] |]
+pes IO 0 E CI CE IA CC AS
+17.2. PARA LAS CONSEJERIAS
+18.2.1 DURANTE LA ATENCIÓN, REGISTRE:
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote
++ Enel 1? casillero, registra el tipo de diagnóstico según la CIE10
++ Enel 2? casillero, registra la consejería
+En el ítem: Tipo de diagnóstico marque
++ En el 1? casillero SIEMPRE “D”
++ En el 2? casillero SIEMPRE “D”
+En el ítem: LAB, anote:
++ Enel 22 casillero el número de consejería 1,2... según corresponda.
+e e Lo] A A ES c3D16O
+Dia PROCEDENCIA sexo] ceraticoy | antroeomerica | Lec Juicio Y/O ACTIVIDAD DE SALUD DIAGNÓSTICO LAB le fcer
+[A ooo | emociona Fo T+tT+p+]
+LA EE TT]
+7] ad ee]
+z 0 E DODONNEE
+||] E CIC IS CE AS
+17.2.2. FUERA DEL CONSULTORIO MEDICO
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote
++ En el 12 casillero, registra el tipo de diagnóstico según la CIE10
+e En el 22 casillero, registra la consejería
+En el ítem: Tipo de diagnóstico marque
+» En el 12 casillero SIEMPRE “R”
+» En el 22 casillero SIEMPRE “D”
+En el ítem: LAB, anote:
+e En el 22 casillero el número de consejería 1,2... según corresponda.
+64 un Sistema de Información HIS
+
+
+=== Página/Imagen image64.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (07) (A 6 13)
+Etapa de vida niño - Sistema de Información HIS > »
+EA] M PEREA |] VALUACIÓN JETA JSE] DIAGNÓSTICO MOTIVO DECONSUA Eo
+
+via PROCEDENCIA soso |sexo| cesaticor | anrropomereica | suec| vicio Y/O ACTIVIDAD DE SALUD, DIAGNÓSTICO Las CIEJCOr
+[A esposas | encima [CU E EE
+A Eee PR]
+O AAA AA
+| Pre ESTE PA TET 7
+17.3 REGISTRO DE LA PROFILAXIS ANTIPARASITARIA EN NIÑOS Y NIÑAS:
+En zonas de alto riego, con alta prevalencia de parasitosis intestinal, se recomienda la desparasitación
+masiva cada 6 meses, según normativa vigente.
+Para la profilaxis antiparasitaria registre:
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote
++ Enel 1? casillero, registra el código de la actividad de profilaxis antiparasitaria
++ Enel 2? casillero, registra la consejería
+En el ítem: Tipo de diagnóstico marque
++ Enel 1? casillero SIEMPRE “D”
++ Enel 2? casillero SIEMPRE “D”
+En el ítem LAB, anote:
++ Enel 1? casillero, registre el número de profilaxis 1, 2 .....según corresponda
++ Enel 2? casillero, registre el número de Consejería 1, 2 .....según corresponda
+INCAS Pe ANETTE Pemeño ] ARO JETA JS] pIASNáSTCO MOTO DECONSUTA TPODE var] cómo
+DIA PROCEDENCIA. epaD [sexo] ceranicor | anrropomeraica | eLec| wc] Y/O ACTIVIDAD DE SALUD: DIAGNÓSTICO. LAB cle/cer
+[A evoramas | Hemoctosina Fs TT T+]
+LT] A Te 94] Po]
+NAL, consejera en Iaentficación de NN
+| EC A CON
+“En los establecimientos de salud de ! y ll nivel de atención, si existe un profesional médico puede
+ÓN tratarse todas las parasitosis no complicadas y complicaciones moderadas como la anemia y
+v desnutrición.”
+17.4 VISITA DOMICILIARIA
+Se realizará como mínimo 01 visita domiciliaria dentro de las 72 horas de iniciado el tratamiento y se
+realizará actividades enmarcadas en la normativa vigente.
+Para la visita domiciliaria registre:
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud anote claramente
++ En el 12 casillero, registrar el código CIE 10 utilizado para diagnosticar la Parasitosis intestinal
++ En el 22 casillero Visita Domiciliaria
+Sistema de Información HIS a 65
+
+
+=== Página/Imagen image65.jpeg ===
+
+Manual de Registro y Codificación de la Atención en la Consulta Externa (A 6 e
+Etapa de vida niño - Sistema de Información HIS >
+En el ítem: Tipo de diagnóstico marque
++. Enel 12 casillero SIEMPRE “R”
++. Enel 22 casillero SIEMPRE “D”
+En el ítem LAB, anote:
++ Enel 22 casillero el número de la visita domiciliaria 1,2... según corresponda.
+IATA pe ANNE RTEES PEmeRO | EVAUAcÓN [STATS] DASNETICOMENVODECONSULTA mPODE VALOR | cómo
+DIA PROCEDENCIA sexo] cesauicow | anrropomeraica | ace Juicio Y/O ACTIVIDAD DESALUD DIAGNÓSTICO [13 clEJCer
+[PJ esoosamas | menncuosia [CA EEN
+Qe | A Eee PTA
+| e | [+] pea] [exp vetar [ro ]o] | | con |
+3570 s |M [TALLA] 111 DR 2. Visita Familiar Integral Dx] 1 Cco011
+| CA AA
+17.5 REFERENCIA
+Esta actividad se registra dependiendo la capacidad resolutiva de cada Establecimiento de Salud.
+Registre:
+En el ítem: Diagnóstico motivo de consulta y/o actividad de salud, anote
++ En el 12 casillero el tipo de diagnóstico según la CIE1O
+» En el 22 casillero derivación/Referencia a EESS con capacidad resolutiva
+En el ítem: Tipo de diagnóstico marque
++ En el 12 casillero SIEMPRE “P”
++ En el 22 casillero SIEMPRE “D”
+INIA o ASE Penmerno | vALAciÓN JETA JS] DIAGNÓSTICO MOTIVO DECONSULTA TPODE ON ETT
+DIA. PROCEDENCIA enaD [sexo] cerauicoy | antropomerrica | oLec [wc] Y/O ACTIVIDAD DE SALUD. DIAGNÓSTICO Lan ClE/ceT
+[A ssoonamas | Heociosina Fr]
+, bororara AS 2 | 0 eniasis no especificada XK]
+7] a a]
+55830 3 |m 7] rua] 132 Dx] lic Dx] 99700
+||] ESA CO CIS E CS
+66 un Sistema de Información HIS
+
+
+=== Página/Imagen image66.jpeg ===
+
+Te .,
+_
+Ministerio de Salud
+Av. Salaverry 801 Jesús María, Lima-Perú
+INFOSALUD 0800-10828
+ride s
+¡hb

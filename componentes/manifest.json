@@ -1,0 +1,49 @@
+{
+  "name": "MedCode Pro Palpa",
+  "short_name": "MedCode Palpa",
+  "description": "Buscador HIS-MINSA para Hospital de Apoyo Palpa (UE 407). 27,000+ códigos CIE-10/CPT con LAB curado.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0e1a",
+  "theme_color": "#0f172a",
+  "lang": "es-PE",
+  "categories": ["medical", "health", "productivity"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Buscar por Voz",
+      "short_name": "Voz",
+      "description": "Activa el micrófono para buscar",
+      "url": "./index.html?mic=1",
+      "icons": [{"src": "./icon-192.png", "sizes": "192x192"}]
+    },
+    {
+      "name": "PROFAM",
+      "short_name": "PROFAM",
+      "description": "Códigos de Familias y Promoción",
+      "url": "./index.html?filter=profam",
+      "icons": [{"src": "./icon-192.png", "sizes": "192x192"}]
+    }
+  ]
+}

@@ -1,0 +1,2611 @@
+1
+MANUAL DE REGISTRO Y CODIFICACIÓN DE LAS
+ACTIVIDADES DE PREVENCIÓN Y CONTROL DE
+             TUBERCULOSIS
+
+
+
+  DIRECCIÓN DE PREVENCIÓN Y CONTROL DE TUBERCULOSIS
+
+
+
+
+              Sistema de Información HIS
+
+                      LIMA - PERU
+
+                         2025
+
+
+
+
+                                                      2
+Catalogación hecha por la Biblioteca del Ministerio de Salud
+
+  Manual de registro y codificación de las Actividades de Prevención y Control de Tuberculosis 2025. Sistema de
+  información HIS / Ministerio de Salud. Dirección General de Intervenciones Estratégicas en Salud Pública. Dirección de
+  Prevención y Control de Tuberculosis. Oficina General de Tecnologías de la Información. Oficina de Gestión de la
+  Información - Lima: Ministerio de Salud; 2025.
+
+    49 p. ilus.
+
+  TUBERCULOSIS / SISTEMAS DE INFORMACIÓN / SISTEMA DE REGISTROS / SERVICIOS PREVENTIVOS DE SALUD /
+  CODIFICACIÓN CLÍNICA / ATENCIÓN INTEGRAL DE SALUD / SISTEMA DE REGISTROS MÉDICOS COMPUTARIZADOS
+
+Hecho el depósito Legal en la Biblioteca Nacional del Perú N° 2025-15585
+Manual de Registro y Codificación de las Actividades de Prevención y Control de Tuberculosis 2025.Sistema de
+información HIS.
+
+Ministerio de Salud. Dirección General de Intervenciones Estratégicas en Salud Publica. Dirección de Prevención y
+Control de Tuberculosis. Oficina General de Tecnologías de la Información. Oficina de Gestión de la Información
+(MINSA/DGIESP/DPCTB-OGTI/OGEI)
+
+Responsables de la elaboración:
+Ing. Cecilia Ruth Figueroa Benites, Equipo técnico, MINSA / DGIESP / DPCTB.
+Lic. Jean Frank Reyes Huerta, Equipo técnico, MINSA / DGIESP / DPCTB.
+
+Equipo de trabajo:
+Ing. Esaú de la Cruz Fuentes, Equipo técnico, MINSA / DGIESP / DPCTB.
+Lic. Denisse Anne Vela Trejo, Equipo técnico, MINSA / DGIESP / DPCTB.
+Lic. Kattia Rosario Quiroz, Equipo técnico, MINSA / DGIESP / DPCTB.
+
+Revisión y validación:
+M.C. José Alfredo Ortiz Gutierrez, Director Ejecutivo, MINSA / DGIESP / DPCTB.
+
+Equipo de Trabajo OGEI/OGTI:
+Luis Pedro Valeriano Arteaga, Jefe de Equipo de la Oficina Gestión de la Información
+Adhemir Reynel Bellido Delgado, Equipo Técnico de la Oficina Gestión de la Información
+
+Diseño y diagramación:
+Lic. Julie Guillen Ramos, Equipo Técnico de la Oficina de Gestión de la Información.
+Lic. Alfonso André Apaestegui Ortega, Equipo técnico, MINSA / DGIESP / DPCTB
+Lic. Cecilia Amparo Bernabé Chávez, Equipo técnico, MINSA / DGIESP / DPCTB
+
+© MINSA, diciembre 2025
+
+Ministerio de Salud
+Av. Salaverry N° 801, Lima 11, Perú
+Telf.: (51-1) 315-6600
+www.gob.pe/minsa
+webmaster@minsa.gob.pe
+
+1ra. edición, junio 2024
+2da. edición, diciembre 2025
+
+Versión Disponible: https://bvs.minsa.gob.pe/local/MINSA/7976.pdf
+
+
+
+
+                                                                                                                           3
+       LUIS NAPOLEÓN QUIROZ AVILÉS
+              Ministro de Salud
+
+   LEONARDO RONYALD ROJAS MEZARINA
+       Viceministro de Salud Pública
+
+         SHIRLEY MONZÓN VILLEGAS
+        Viceministro de Prestaciones y
+           Aseguramiento en Salud
+
+    CARLOS BERNARDO LINARES ARCELA
+            Secretario General
+
+           JOSÉ ENRIQUE PÉREZ LU
+    Director General de la Oficina General
+       de Tecnologías de la Información
+
+ VALENTINA ANTONIETA ALARCÓN GUIZADO
+   Directora General de la Dirección General
+de Intervenciones Estratégicas en Salud Pública
+
+      JOSÉ ALFREDO ORTIZ GUTIÉRREZ
+      Director Ejecutivo de la Dirección
+   de Prevención y Control de Tuberculosis
+
+
+
+
+                                                  4
+                                     PRESENTACIÓN
+
+En el marco del Decreto Supremo N° 008-2017-SA que aprueba el Reglamento de Organización y
+Funciones del Ministerio de Salud (MINSA), la Dirección de Prevención y Control de la
+Tuberculosis(DPCTB), como órgano de línea de la Dirección General de Intervenciones Estratégicas
+en Salud Pública, es responsable de establecer la doctrina, normas y procedimientos para el control
+de la tuberculosis en el Perú; garantizando la detección, diagnóstico, tratamiento gratuito y
+supervisado a todos los afectados con tuberculosis, con criterios de eficiencia, eficacia y efectividad
+y realiza seguimiento y evaluación de las políticas planes y programas a cargo.
+
+
+Sus lineamientos están orientados al cumplimiento de cuidado integral de la persona afectada por
+tuberculosis (PAT), familia y comunidad, mediante las intervenciones de prevención, control,
+manejo clínico, recuperación y soporte; con enfoques de derechos humanos, género e
+interculturalidad.
+
+
+Consideramos que el registro de las actividades de prevención y control de la tuberculosis, son de
+suma importancia en el sistema de información para la consolidación, reporte, análisis y toma de
+decisiones, que puedan responder a los problemas sanitarios. En este contexto presentamos la
+actualización del Manual de registro y codificación de las actividades de prevención y control de
+tuberculosis, para su difusión y homogenización de criterios en la recopilación y codificación de
+diagnósticos CIE 10 y Catálogo de procedimientos médicos y sanitarios (CPMS) del Ministerio de
+Salud.
+
+
+
+
+                                                                                                          5
+TABLA DE CONTENIDOS
+
+
+GENERALIDADES ........................................................................................................... 9
+   Clasificación internacional de enfermedades (CIE-10) ............................................................. 9
+      Cuadro N°01: Diagnósticos CIE 10 ............................................................................................... 9
+   Catálogo de procedimientos médicos y sanitarios (CPMS): ..................................................... 9
+      Cuadro N°02: Actividades y procedimientos de prevención en TB extraídos del Catálogo de
+      Procedimientos Médicos y Sanitarios (CPMS)-MINSA .............................................................. 10
+      Cuadro N°3: Actividades y procedimientos de detección, diagnósticos y tratamiento de TB
+      extraídos del Catálogo de Procedimientos Médicos y Sanitarios (CPMS)-MINSA .................... 10
+      Base legal .................................................................................................................................. 11
+   Instrucciones para el registro y codificación de las actividades de prevención y control de
+   tuberculosis ........................................................................................................................ 12
+
+
+ACTIVIDADES DE PREVENCIÓN EN TUBERCULOSIS ....................................................... 14
+   Consejería para TB .............................................................................................................. 14
+   Sesión educativa y demostrativa para TB ............................................................................. 16
+   Estudio de contactos ........................................................................................................... 17
+      Censo de contactos ................................................................................................................... 17
+      Examen de contactos ................................................................................................................ 18
+      Examen de contactos de PAT sensible ...................................................................................... 19
+      Examen de contactos de PAT resistente ................................................................................... 19
+   Visita domiciliaria de seguimiento de contacto .................................................................... 20
+   Prueba para diagnóstico de TB latente................................................................................. 20
+      Aplicación de prueba para TB latente ....................................................................................... 20
+      Lectura de prueba para TB latente ........................................................................................... 21
+   Terapia previa para tuberculosis latente .............................................................................. 22
+      Administración de terapia preventiva en contactos de casos con TB sensible ........................ 22
+      Administración de terapia preventiva en contactos de casos con TB resistente ..................... 22
+      Administración de terapia preventiva en población vulnerable para TB ................................. 23
+   Visita domiciliaria en caso de inasistencia a la terapia preventiva para TB ............................ 24
+
+
+
+                                                                                                                                                         6
+ACTIVIDADES DE DETECCIÓN Y DIAGNÓSTICO PARA TUBERCULOSIS ............................ 25
+   Búsqueda pasiva ................................................................................................................. 25
+      Casos de TB presuntiva ............................................................................................................. 25
+   Búsqueda activa.................................................................................................................. 26
+      En caso de radiografía normal .................................................................................................. 26
+      En caso de radiografía anormal................................................................................................. 27
+   Diagnóstico de casos de tuberculosis ................................................................................... 27
+   Visita domiciliaria al diagnóstico del caso de TB ................................................................... 28
+   Procedimientos especiales para obtención de muestras para diagnóstico de tuberculosis ..... 29
+      Lavado gástrico (aspirado gástrico)........................................................................................... 29
+      Inducción del esputo ................................................................................................................. 30
+   Tamizaje para VIH en persona afectada por tuberculosis ..................................................... 30
+   Comorbilidad TB - diabetes ................................................................................................. 31
+      Tamizaje para diabetes mellitus en PAT ................................................................................... 31
+      Diagnostico comorbilidad TB - diabetes ................................................................................... 31
+   Reacción adversa a medicamentos para TB (RAM) ............................................................... 32
+   Derivación y transferencias ................................................................................................. 32
+      Derivación ................................................................................................................................ 32
+      Transferencia............................................................................................................................. 33
+
+
+ACTIVIDADES PARA LA RECUPERACIÓN DE LA PERSONA AFECTADA POR TUBERCULOSIS
+................................................................................................................................... 34
+   Evaluación médica .............................................................................................................. 34
+      Evaluación médica en PAT con TB sensible............................................................................... 34
+      Evaluación médica en PAT con TB resistente............................................................................ 34
+   Atención en consultorio de enfermería ................................................................................ 35
+      Atención en consultoría de enfermería en PAT con TB sensible .............................................. 35
+      Atención en consultorio de enfermería en PAT con TB resistente ........................................... 36
+   Tratamiento directamente observado (DOT) ........................................................................ 36
+      DOT para TB sensible ................................................................................................................ 36
+      DOT para TB resistente ............................................................................................................. 37
+
+
+
+
+                                                                                                                                                       7
+Control de tratamiento ....................................................................................................... 38
+Visita domiciliaria en caso de inasistencia al tratamiento directamente observado (DOT) ... 39
+Reto ante reacción adversa a medicamentos ....................................................................... 39
+   Inicio de reto ............................................................................................................................. 39
+   Termino de reto ........................................................................................................................ 40
+Atención de servicio social .................................................................................................. 40
+   Atención de servicio social en PAT con TB sensible .................................................................. 41
+   Atención de servicio social en PAT con TB resistente ............................................................... 42
+Atención en salud mental .................................................................................................... 43
+   Identificación de problemas de salud mental ........................................................................... 43
+Atención en nutrición.......................................................................................................... 48
+
+
+
+
+                                                                                                                                                     8
+                                      GENERALIDADES
+
+Clasificación internacional de enfermedades (CIE-10): Ofrece una manera de poder registrar una
+amplia variedad de signos, síntomas, hallazgos anormales, quejas y circunstancias de tipo social
+que están ocupando el lugar de los diagnósticos en los registros de salud.
+
+
+
+                                             Cuadro N° 01:
+                                          Diagnósticos CIE 10
+     CÓDIGO                                         DIAGNÓSTICO
+      A150        TB pulmonar.
+      A156        Pleuresía tuberculosa.
+      A163        Tuberculosis de ganglios linfáticos intratorácicos.
+      A164        Tuberculosis de laringe, tráquea y bronquios.
+      A171        Tuberculoma meníngeo.
+      A179        Tuberculosis del sistema nervioso.
+      A180        Tuberculosis de huesos y articulaciones.
+      A181        Tuberculosis del aparato genitourinario.
+      A182        Linfadenopatía periférica tuberculosa.
+      A183        Tuberculosis de los intestinos, el peritoneo y los ganglios mesentéricos.
+      A184        Tuberculosis de la piel y el tejido subcutáneo.
+      A185        Tuberculosis del ojo.
+      A186        Tuberculosis del oído.
+      A187        Tuberculosis de glándulas suprarrenales.
+      A188        Tuberculosis de otros órganos especificados.
+      A19.9       Tuberculosis miliar.
+      K67.3       Peritonitis tuberculosa.
+      E149        Diabetes mellitus.
+ *Las formas extrapulmonares más frecuentes en el país son la pleural, ganglionar e intestinal.
+
+
+
+Catálogo de procedimientos médicos y sanitarios (CPMS): Contiene la relación ordenada de las
+denominaciones y códigos de las identificaciones estándar. Está basado en la codificación y
+clasificación internacional del Current Procedural Terminology (CPT) de la Asociación Médica
+Americana (AMA).
+
+
+
+
+                                                                                                   9
+                                     Cuadro N° 02
+Actividades y procedimientos de prevención en TB extraídos del atálogo de Procedimientos
+                         Médicos y Sanitarios (CPMS) – MINSA
+   COD.                            PROCEDIMIENTOS/ ACTIVIDADES
+99199.12 Administración de terapia preventiva para contactos de TB sensible.
+99199.59 Administración de terapia preventiva para contactos de TB resistente.
+99199.60 Administración de terapia preventiva para población vulnerable para TB.
+99199.57 Censo de contactos.
+99401.33 Consejería pre-test para VIH.
+99403.03 Consejería postest para VIH - resultado reactivo.
+99401.34 Consejería postest para VIH - resultado no reactivo.
+C0011.01 Visita familiar integral de Identificación de riesgos y necesidades.
+  C0011    Visita familiar integral.
+  C0010    Sesión demostrativa.
+  C0009    Sesión educativa.
+99401.36 Consejería integral en prácticas saludables para la salud respiratoria.
+99401.13 Consejería en estilos de vida saludable.
+99210.06 Registro en el padrón de beneficiarios para acceso al Programa de Alimentación y
+         Nutrición del Afectado por Tuberculosis (PANTBC).
+99403.01 Consejería nutricional.
+  99216    Atención en consultorio de enfermería.
+99499.08 Teleorientación síncrona.
+99499.10 Telemonitoreo.
+ 99199.1   Seguimiento de contacto.
+90806.06 Seguimiento de TPT.
+
+
+
+                                    Cuadro N° 03
+Actividades y procedimientos de detección, diagnóstico y tratamiento de TB extraídos del
+           Catálogo de Procedimientos Médicos y Sanitarios (CPMS) – MINSA
+
+  COD.                            PROCEDIMIENTOS/ ACTIVIDADES
+99199.58    Recolección de muestra para tuberculosis (TB)
+  91105     Lavado gástrico (aspirado gástrico)
+  94640     Inducción del esputo
+  86580     Prueba intradérmica para TB (PPD)
+  86480     Prueba de Interferón-Gamma Release Assay (IGRA)
+86703.01    Prueba Rápida de Anticuerpo para VIH
+
+
+
+                                                                                            10
+      COD.                            PROCEDIMIENTOS/ ACTIVIDADES
+    86703.02    Prueba Rápida de Antígeno y Anticuerpo para VIH
+     87389      Detección de VIH por ELISA
+    99205.03    Administración de tratamiento supervisado de TB sensible
+                Administración de tratamiento supervisado para TB drogorresistente o resistente
+    99205.04
+                en el I nivel de atención
+                Administración de tratamiento supervisado para TB drogorresistente o resistente
+    99206.02
+                en el II y III nivel de atención
+     99214      Evaluación médica
+     99207      Atención en salud mental
+     99209      Atención en nutrición
+     99210      Atención de servicio social
+     99216      Atención en consultorio de enfermería
+    99499.01    Teleconsulta en línea
+    99206.03    Reto ante Reacción Adversa a Medicamentos (RAM)
+     99700      Referencia
+    99199.08    Control de tratamiento
+     71010      Examen radiológico
+
+
+
+BASE LEGAL
+•    Ley N° 26842, Ley General de Salud.
+•    Ley N° 30287, Ley de Prevención y Control de Tuberculosis.
+•    Decreto Legislativo N° 1161, Ley de Organización y Funciones del Ministerio de Salud.
+•    Decreto Supremo N° 008-2017-SA, que aprueba el Reglamento de Organización y Funciones del
+     Ministerio de Salud y su modificatoria.
+•    Decreto Supremo N° 024-2005-SA, que aprueba Identificaciones Estándar de Datos en Salud.
+•    Resolución Ministerial N° 894-2024-MINSA, que aprueba la NTS N°221-MINSA/DGIESP-2024
+     “Norma Técnica de salud para la prevención y control de la tuberculosis”.
+•    Resolución Ministerial N° 550-2023/MINSA, que actualiza el Anexo 1: Listado de Procedimientos
+     Médicos y Sanitarios del Sector Salud del Documento Técnico “Catálogo de Procedimientos
+     Médicos y Sanitarios del Sector Salud”.
+•    Resolución Ministerial N° 895-2018/MINSA, aprueba la NTS N° 143–2018/MINSA/DGIESP,
+     “Norma Técnica de Salud para la prevención y control de la coinfección Tuberculosis y Virus de
+     Inmunodeficiencia Humana en el Perú”
+•    Resolución Ministerial N.° 1001-2017-MINSA, que aprueba la Directiva Administrativa N° 241-
+     MINSA/2017/DGAIN, que aprueba el "Proceso de Actualización de los Catálogos de las
+     Identificaciones Estándar de Datos en Salud (IEDS) N° 001 y 005".
+•    Resolución Ministerial N° 902-2017/MINSA, que aprueba el Documento Técnico: "Catálogo de
+     Procedimientos Médicos y Sanitarios del Sector Salud".
+
+
+                                                                                                      11
+•   Resolución Ministerial N° 780-2015/MINSA, que aprueba el Documento Técnico denominado
+    "Plan de Implementación del Sistema Informático HIS MINSA para el registro de atenciones en
+    la red de establecimientos de salud a nivel nacional", así como la "Hoja de Registro Diario de
+    Atención y otras actividades del aplicativo HIS MINSA".
+•   Resolución Ministerial N° 117-2020/MINSA, que aprueba la Directiva Administrativa N° 285-
+    MINSA-2020-DIGTEL: "Directiva para la implementación y desarrollo de los servidores de
+    telemedicina síncrona y asíncrona".
+•   Resolución Ministerial N° 146-2020/MINSA, que aprueba la Directiva Administrativa N° 286-
+    MINSA/2020/DIGTEL: Directiva Administrativa para la Implementación y Desarrollo de los
+    Servicios de Teleorientación y Telemonitoreo.
+•   Guía de Uso y Registro Diario de Atención y Otras Actividades de Salud en la Hoja HIS Minsa.
+
+
+
+INSTRUCCIONES PARA EL REGISTRO Y CODIFICACIÓN DE LAS ACTIVIDADES DE
+PREVENCIÓN Y CONTROL DE TUBERCULOSIS
+
+El registro de los datos generales se hace siguiendo las indicaciones pertinentes y no presenta
+características especiales.
+
+Los ítems “Diagnóstico motivo de consulta”, “Tipo de diagnóstico” y “Lab” presentan algunas
+particularidades que se revisará en detalle a continuación.
+
+Los ítems referidos al “Día”, “Historia clínica”, “DNI”, “Financiador”, “Pertenencia étnica”, “Distrito
+de procedencia”, “Edad”, “Sexo”, “Establecimiento” y “Servicio” se registran siguiendo las
+indicaciones planteadas en la Guía de uso y registro diario de atención y otras actividades de salud
+en la hoja HIS Minsa.
+
+En el ítem “Distrito de Procedencia”, anote claramente el distrito del domicilio actual de la persona.
+Se considera a una persona residente de un distrito cuando tenga permanencia estable a partir de
+los 06 meses.
+
+En el ítem “Tipo de diagnóstico” se debe tener en cuenta las siguientes consideraciones al momento
+de registrar: Marcar con un aspa (X)
+
+• P (Diagnóstico presuntivo): Únicamente cuando no existe certeza del diagnóstico y/o éste
+  requiere de algún resultado de laboratorio. Su carácter es provisional.
+• D (Diagnóstico definitivo): Cuando se tiene certeza del diagnóstico por evaluación clínica y/o por
+  exámenes auxiliares y debe ser escrito una sola vez para el mismo evento (episodio de la
+  enfermedad cuando se trate de enfermedades agudas y solo una vez para el caso de
+  enfermedades crónicas) en un mismo paciente.
+
+
+
+                                                                                                          12
+• R (Diagnóstico repetido): Cuando el paciente vuelve a ser atendido para el seguimiento de un
+  mismo episodio o evento de la enfermedad en cualquier otra oportunidad posterior a aquella en
+  que estableció el diagnóstico definitivo.
+
+Si son más de tres (03) los diagnósticos y/o procedimientos/actividades los que se van a registrar,
+continúe en el siguiente registro y trace una línea oblicua entre los casilleros de los ítems “Día” y
+“Servicio” y utilice los siguientes tres (03) ítems del campo “Diagnósticos y/o
+procedimientos/actividades” para completar el registro de la atención.
+
+ Para mayor información sobre generalidades del registro HIS, siga las instrucciones establecidas
+ en la Guía de uso y registro diario de atención y otras actividades de salud en la hoja HIS MINSA.
+
+
+
+
+                                                                                                        13
+                       ACTIVIDADES DE PREVENCIÓN EN TUBERCULOSIS
+
+
+       CONSEJERÍA PARA TB
+
+       Definición operacional: Actividad orientada a mejorar los conocimientos, actitudes y prácticas para
+       la salud respiratoria y prevención de la tuberculosis de la familia de la persona afectada por
+       tuberculosis (PAT).
+
+         Esta actividad se realizará por medio de 02 visitas domiciliarias o teleorientaciones
+         síncronas al año, y se registrará de la siguiente manera:
+
+
+       CUANDO SE REALIZA A TRAVÉS DE VISITAS DOMICILIARIAS:
+
+       PRIMERA CONSEJERÍA
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Consejería integral en prácticas saludables para la salud respiratoria (99401.36).
+       • En la fila 2°, Visita familiar integral (C0011).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, D.
+       • En la fila 2°, D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° registre 1 que indica la primera consejería.
+       • En la fila 2°, casillero Lab 1° registre TBC que indica que la consejería se brindó a la familia de
+           una PAT.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                            CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                      CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+                                                                                                                          Consejería integral en prácticas saludables para
+             50841774                                               A         PC            PESO             N   N 1.                                                        P   D   R    1    99401.36
+                                                                                                                          la salud respiratoria
+                                 2          PUEBLO LIBRE                 M
+  20           14524                                        36 M             Pab            TALLA            C   C   2. Visita familiar                                      P   D   R   TBC    C0011
+
+
+                                58                                  D    F   Ppreg           Hb              R   R   3.                                                      P   D   R
+
+
+
+
+       SEGUNDA CONSEJERIA
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Consejería integral en prácticas saludables para la salud respiratoria (99401.36).
+       • En la fila 2°, Visita familiar integral (C0011).
+
+
+
+
+                                                                                                                                                                                                           14
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, D.
+       • En la fila 2°, D.
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° registre 2 que indica la segunda consejería.
+       • En la fila 2°, casillero Lab 1° registre TBC que indica que la consejería se brindó a la familia de
+           una PAT.
+
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                        CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                  CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                                                                        Consejería integral en prácticas saludables para
+             50841774                                               A         PC            PESO             N   N 1.                                                      P   D   R   2   99401.36
+                                                                                                                        la salud respiratoria
+                                 2          PUEBLO LIBRE                 M
+  20           14524                                        36 M             Pab            TALLA            C   C 2. Visita familiar                                      P   D   R TBC    C0011
+
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                                      P   D   R
+
+
+
+
+         La 2° consejería se realiza al mes siguiente de la 1° consejería.
+
+
+
+       CUANDO SE REALIZA A TRAVÉS DE LA TELEMEDICINA:
+
+       PRIMERA CONSEJERÍA
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Consejería integral en prácticas saludables para la salud respiratoria (99401.36).
+       • En la fila 2°, Teleorientación síncrona (99499.08).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, D.
+       • En la fila 2°, D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° registre 1 que indica la primera consejería.
+       • En la fila 2°, casillero Lab 1° registre TBC que indica que la consejería se brindó a la familia de
+           una PAT.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                        CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                  CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+                                                                                                                        Consejería integral en prácticas saludables para
+             50841774                                               A         PC             PESO            N   N 1.                                                      P   D   R   1   99401.36
+                                                                                                                        la salud respiratoria
+                                 2          PUEBLO LIBRE                 M
+  20           14524                                        36 M             Pab            TALLA            C   C 2. Teleorientación síncrona                             P   D   R TBC   99499.08
+
+
+                                 58                                 D    F Ppreg              Hb             R   R 3.                                                      P   D   R
+
+
+
+
+                                                                                                                                                                                                       15
+       SEGUNDA CONSEJERIA
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Consejería integral en prácticas saludables para la salud respiratoria (99401.36).
+       • En la fila 2°, Teleorientación síncrona (99499.08).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, D.
+       • En la fila 2°, D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° registre 2 que indica la segunda consejería.
+       • En la fila 2°, casillero Lab 1° registre TBC que indica que la consejería se brindó a la familia de
+           una PAT.
+
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                        CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                  CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                                                                        Consejería integral en prácticas saludables para
+             50841774                                               A         PC            PESO             N   N 1.                                                      P   D   R   2   99401.36
+                                                                                                                        la salud respiratoria
+                                 2          PUEBLO LIBRE                 M
+  20           14524                                        36 M             Pab            TALLA            C   C 2. Teleorientación síncrona                             P   D   R TBC   99499.08
+
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                                      P   D   R
+
+
+
+
+         La 2° consejería se realiza al mes siguiente de la 1° consejería.
+
+
+
+       SESIÓN EDUCATIVA Y DEMOSTRATIVA PARA TB
+
+       Definición operacional: Actividad orientada a mejorar los conocimientos, actitudes y prácticas para
+       la salud respiratoria y prevención de la tuberculosis de la familia de la persona afectada por
+       tuberculosis.
+
+       Los ítems: “Financiador”, “Pertenencia Étnica”, “Edad”, “Sexo”, “Establecimiento” y “Servicio”, NO
+       SE REGISTRAN, por lo que se traza una línea oblicua sobre ellos.
+
+       En el ítem: “DNI” e “Historia clínica” SIEMPRE registre APP136 Familia y vivienda
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Sesión educativa (C0009).
+       • En la fila 2°, Sesión demostrativa (C0010).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, D.
+       • En la fila 2°, D.
+
+
+
+
+                                                                                                                                                                                                       16
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° registre el número de sesión demostrativa (1 o 2) según
+           corresponda.
+       • En la fila 2°, casillero Lab 1° registre TBC que indica que la consejería se brindó a la familia de
+           una PAT.
+
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+              APP136                                                A         PC             PESO            N   N 1. Sesión educativa                          P   D   R   1             C0009
+                                            PUEBLO LIBRE                 M
+  20                                                              M          Pab            TALLA            C   C 2. Sesión demostrativa                       P   D   R TBC             C0010
+
+                                                                    D    F Ppreg             Hb              R   R 3.                                           P   D   R
+
+
+
+
+         La 2° sesión educativa y demostrativa se realizan como mínimo al mes siguiente de la 1° sesión
+         educativa y demostrativa.
+
+
+
+
+       ESTUDIO DE CONTACTOS
+       CENSO DE CONTACTOS
+
+       Definición operacional: Procedimiento que consiste en la identificación de contactos
+       (intradomiciliarios y extradomiciliarios) a través de la entrevista de enfermería, visita domiciliaria y
+       registro de todos los contactos del caso índice con TB en el Registro de Caso y Control de
+       Tratamiento, así como en el Sistema de Información Gerencial en TB (SIGTB). El registro se realiza
+       por cada contacto identificado.
+
+
+       CUANDO SE REALIZA EN EL ESTABLECIMIENTO DE SALUD
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Censo de contactos 99199.57.
+       • En la fila 2°, Atención en consultorio de enfermería 99216.
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, D.
+       • En la fila 2°, D.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             71452863                                               A         PC            PESO             N   N 1. Censo de contactos                       P    D   R                99199.57
+                                 2             COMAS                     M
+  2            12451                                        51 M             Pab            TALLA            C   C 2. Atención en consultorio de enfermería    P    D   R                 99216
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                          P    D   R
+
+
+
+
+                                                                                                                                                                                                     17
+       CUANDO SE REALIZA EN EL DOMICILIO
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Censo de contactos (99199.57).
+       • En la fila 2°, visita familiar (C0011).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, D.
+       • En la fila 2°, D.
+
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             71452863                                               A         PC             PESO            N   N 1. Censo de contactos                        P   D   R                99199.57
+                                 2             COMAS                     M
+  2            12451                                        51 M             Pab            TALLA            C   C 2. Visita familiar                           P   D   R                 C0011
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                           P   D   R
+
+
+
+
+       CUANDO SE REALIZA A TRAVÉS DE LA TELEMEDICINA
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Censo de contactos (99199.57).
+       • En la fila 2°, Teleorientación síncrona (99499.08).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, D.
+       • En la fila 2°, D.
+
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             71452863                                               A         PC            PESO             N   N 1. Censo de contactos                       P    D   R                99199.57
+                                 2             COMAS                     M
+  2            12451                                        51 M             Pab            TALLA            C   C 2. Teleorientación síncrona                 P    D   R                99499.08
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                          P    D   R
+
+
+
+
+       EXAMEN DE CONTACTOS
+
+       Definición operacional: Procedimiento que consiste en la evaluación clínica y al menos uno de los
+       siguientes exámenes auxiliares: radiológico, inmunológico (PPD o IGRA) o bacteriológico.
+
+       El registro se realiza por cada contacto examinado.
+
+
+
+
+                                                                                                                                                                                                     18
+       EXAMEN DE CONTACTOS DE PAT SENSIBLE
+
+       Para los contactos de PAT sensible, le corresponde 3 controles: Al inicio, al cambio de fase y al
+       término del tratamiento del caso índice.
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Evaluación médica (99214).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, marque D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° CE para indicar contacto examinado.
+       • En la fila 1°, casillero Lab 2° registre 1 para indicar TB sensible.
+
+               D.N.I.                         DISTRITO DE                        PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                             CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                                 CÓDIGO
+ DIA      HISTORIA CLINICA                   PROCEDENCIA       EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                     Y ACTIVIDADES DE SALUD                                           CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA            CENTRO POBLADO                      PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______            FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+             71452863                                                 A          PC            PESO           N    N 1. Evaluación médica                            P       D       R CE       1      99214
+                                 2                 COMAS                   M
+  2            12451                                         51 M               Pab           TALLA           C    C 2.                                              P       D       R
+
+                                 58                                   D     F Ppreg             Hb            R    R 3.                                              P       D       R
+
+
+
+
+       EXAMEN DE CONTACTOS DE PAT RESISTENTE
+
+       Para los contactos de PAT resistente, le corresponde 01 control al inicio y luego cada 3 meses, hasta
+       el término de tratamiento del caso índice.
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Evaluación médica (99214).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, marque D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° CE para indicar contacto examinado.
+       • En la fila 1°, casillero Lab 2° registre 2 para indicar TB resistente.
+               D.N.I.                        DISTRITO DE                         PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                             CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                               CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA       EDAD        SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                     Y ACTIVIDADES DE SALUD                                         CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                       PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______            FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             71452863                                                A          PC           PESO             N   N 1. Evaluación médica                         P       D       R CE       2        99214
+                                 2             COMAS                       M
+  2            12451                                         51 M              Pab           TALLA            C   C 2.                                           P       D       R
+
+                                58                                   D     F Ppreg            Hb              R   R 3.                                           P       D       R
+
+
+
+
+                                                                                                                                                                                                                  19
+       VISITA DOMICILIARIA DE SEGUIMIENTO DE CONTACTO:
+
+       Definición operacional: Actividad que se realiza cuando el contacto censado no acude a su control
+       programado.
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Seguimiento de contacto (99199.10).
+       • En la fila 2°, Visita familiar (C0011).
+
+       En el ítem Tipo de diagnóstico marque:
+       • En la fila 1°, D.
+       • En la fila 2°, D.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             71452863                                               A         PC            PESO             N   N 1. Seguimiento de contacto                  P   D   R                 99199.10
+                                 2             CHAVIN                    M
+  2            12451                                        51 M             Pab            TALLA            C   C 2. Visita familiar                          P   D   R                  C0011
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                          P   D   R
+
+
+
+
+       PRUEBA PARA DIAGNÓSTICO DE TB LATENTE
+
+       Definición operacional: Procedimiento para la identificación de la infección de tuberculosis latente
+       (ITBL) mediante la prueba cutánea de la tuberculina de Mantoux (PPD) o una prueba IGRA.
+
+
+       APLICACIÓN DE PRUEBA PARA TB LATENTE
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Prueba de tuberculina PPD (86580) o IGRA (86480).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, D.
+
+       En el ítem “LAB” anote:
+       • En la fila 1°, casillero Lab 1° registre la sigla del tipo de condición del usuario:
+           ▪ CE: Contacto examinado.
+           ▪ PVV: Persona viviendo con el VIH/SIDA.
+           ▪ ST: Trabajador de salud.
+           ▪ DM: Persona con diabetes mellitus.
+           ▪ PPL: Persona privada de su libertad.
+           ▪ TIS: Persona con terapia prolongada con corticoides
+
+
+
+
+                                                                                                                                                                                                     20
+               ▪        HEM: Persona con hemodiálisis y/o enfermedad renal crónica
+               ▪        PEI: Personal penitenciario
+               ▪        OGR: Otras condiciones de salud relacionadas a TB según la norma vigente.
+
+        •      En la fila 1°, casillero Lab 2° “IA” que indica la aplicación de la prueba correspondiente.
+
+
+        LECTURA DE PRUEBA PARA TB LATENTE
+
+               D.N.I.                         DISTRITO DE                         PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                              CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                                     CÓDIGO
+ DIA      HISTORIA CLINICA                   PROCEDENCIA       EDAD        SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                      Y ACTIVIDADES DE SALUD                                               CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA            CENTRO POBLADO                       PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+        (*)FECHA DE NACIMIENTO: _____/____/______            FECHA ULTIMO RESULTADO DE Hb: _____/____/______                 FECHA DE ULTIMA REGLA: ____/____/______
+
+              31879510                                                A          PC           PESO              N       N 1. Prueba de tuberculina PPD                   P       D       R PVV IA           86580
+                                              SAN JUAN DE
+                                  2                                         M
+                                              LURIGANCHO
+  12             3879                                         28 M               Pab          TALLA             C       C 2.                                             P       D       R
+
+                                  58                                  D     F Ppreg            Hb               R       R 3.                                             P       D       R
+
+
+
+        En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+        • En la fila 1°, Prueba de tuberculina PPD (86580) o IGRA (86480).
+
+        En el ítem “Tipo de diagnóstico” marque:
+        • En la fila 1°, D.
+
+        En el ítem “LAB” anote:
+        • En la fila 1°, casillero Lab 1° registre la sigla del tipo de condición del usuario:
+            ▪ CE: Contacto examinado.
+            ▪ PVV: Persona viviendo con el VIH/SIDA.
+            ▪ ST: Trabajador de salud.
+            ▪ DM: Persona con diabetes mellitus.
+            ▪ PPL: Persona privada de su libertad.
+            ▪ TIS: Persona con terapia prolongada con corticoides.
+            ▪ HEM: Persona con hemodiálisis y/o enfermedad renal crónica.
+            ▪ PEI: Personal penitenciario.
+            ▪ OGR: Otras condiciones de salud relacionadas a TB según la norma vigente.
+
+        •      En la fila 1°, casillero Lab 2° “TA” que indica la lectura de la prueba correspondiente.
+        •      En la fila 1°, casillero Lab 3° registre el resultado de la lectura según corresponda:
+               ▪ RP: Resultado positivo.
+               ▪ RN: Resultado negativo.
+
+               D.N.I.                          DISTRITO DE                         PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                               CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                                       CÓDIGO
+  DIA     HISTORIA CLINICA                    PROCEDENCIA       EDAD        SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                       Y ACTIVIDADES DE SALUD                                                 CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA             CENTRO POBLADO                       PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+         (*)FECHA DE NACIMIENTO: _____/____/______            FECHA ULTIMO RESULTADO DE Hb: _____/____/______                  FECHA DE ULTIMA REGLA: ____/____/______
+
+               31879510                                                A          PC            PESO                N    N 1. Prueba de tuberculina PPD                      P       D       R PVV TA RP       86580
+                                              SAN JUAN DE
+                                   2                                         M
+                                              LURIGANCHO
+  15             3879                                          28 M               Pab           TALLA               C    C     2.                                            P       D       R
+
+                                  58                                   D     F   Ppreg           Hb                 R    R     3.                                            P       D       R
+
+
+
+
+                                                                                                                                                                                                                          21
+       TERAPIA PREVENTIVA PARA TUBERCULOSIS LATENTE
+
+       ADMINISTRACIÓN DE TERAPIA PREVENTIVA EN CONTACTOS DE CASOS CON TB SENSIBLE
+
+       Definición operacional: Procedimiento realizado por el profesional de enfermería que consiste en
+       proporcionar el o los medicamentos de un esquema establecido, a un contacto de un caso de
+       tuberculosis (TB) sensible, según prescripción médica, con el fin de reducir el riesgo de enfermar por
+       TB.
+
+                          Esquemas para terapia preventiva para contactos con TB sensible
+                         Esquema                   Duración      Administración       Registro en HIS
+            Isoniacida + rifapentina (12 dosis)    3 meses          semanal               semanal
+                 Isoniacida + rifampicina          3 meses           diaria                diario
+                        Isoniacida                 6 meses           diaria                diario
+                       Rifampicina                 4 meses           diaria                diario
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Administración de terapia preventiva para contactos de TB sensible (99199.12)
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, SIEMPRE D.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                                                                          Administración de terapia preventiva
+             75194338                                               A         PC            PESO             N   N 1.                                              P   D   R             99199.12
+                                 2            TRUJILLO                   M                                                para contactos de TB sensible
+
+  22           14987                                        4     M          Pab            TALLA            C   C   2.                                            P   D   R
+
+                                58                                  D    F   Ppreg           Hb              R   R 3.                                              P   D   R
+
+
+
+
+       ADMINISTRACIÓN DE TERAPIA PREVENTIVA EN CONTACTOS DE CASOS CON TB RESISTENTE
+
+       Definición operacional: Procedimiento realizado por el profesional de enfermería que consiste en
+       proporcionar el o los medicamentos de un esquema establecido, a un contacto de un caso de
+       tuberculosis (TB) resistente, según prescripción médica, con el fin de reducir el riesgo de enfermar
+       por TB.
+
+                           Esquemas para terapia preventiva para contactos de casos con TB resistente
+                  Tipo                                          Medicamento                          Duración                Administración                      Registro en HIS
+        Contacto de un caso de                                                                       4 meses
+                                                                    Rifampicina                                                       diaria                           diario
+        TB Hr
+        Contacto de un caso de                                                                         6 meses
+                                                                Levofloxacino                                                         diaria                           diario
+        TB RR/MDR
+
+
+
+
+                                                                                                                                                                                                     22
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Administración de terapia preventiva para contactos de TB resistente (99199.59).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, SIEMPRE D.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______         FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                                                                        Administración de terapia preventiva
+             75194338                                               A         PC            PESO             N   N 1.                                          P   D   R                 99199.59
+                                 2            TRUJILLO                   M                                              para contactos de TB resistente
+
+  22           14987                                        4     M          Pab            TALLA            C   C 2.                                          P   D   R
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                          P   D   R
+
+
+
+
+       ADMINISTRACIÓN DE TERAPIA PREVENTIVA EN POBLACIÓN VULNERABLE PARA TB
+
+       Definición operacional: Procedimiento realizado por el profesional de enfermería que consiste en
+       proporcionar el o los medicamentos de un esquema establecido, para la población vulnerable por
+       enfermar por tuberculosis (TB), según prescripción médica, con el fin de reducir el riesgo de
+       enfermar por TB.
+
+                       Esquemas para terapia preventiva para población vulnerable para TB
+                          Esquema                Duración     Administración       Registro en HIS
+             Isoniacida + rifapentina (12 dosis)  3 meses         semanal              semanal
+                  Isoniacida + rifampicina        3 meses          diaria               diario
+                         Isoniacida               6 meses          diaria               diario
+                        Rifampicina               4 meses          diaria               diario
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Administración de Terapia preventiva para población vulnerable para TB 99199.60
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, SIEMPRE D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° registre la sigla del tipo de población vulnerable:
+           ▪ ST: Trabajador de salud.
+           ▪ DM: Persona con diabetes mellitus.
+           ▪ PPL: Persona privada de su libertad.
+           ▪ TIS: Persona con terapia prolongada con corticoides.
+           ▪ HEM: Persona con hemodiálisis y/o enfermedad renal crónica.
+           ▪ PEI: Personal penitenciario.
+           ▪ OGR: Otras condiciones de salud relacionadas a TB según la norma vigente.
+
+
+
+
+                                                                                                                                                                                                     23
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                                                                          Administración de terapia preventiva
+             75194338                                               A         PC             PESO            N   N 1.                                            P   D   R DM            99199.60
+                                 2            TRUJILLO                   M                                                para población vulnerable para TB
+
+  22           14987                                        24 M             Pab            TALLA            C   C   2.                                          P   D   R
+
+                                 58                                 D    F   Ppreg            Hb             R   R   3.                                          P   D   R
+
+
+
+
+       VISITA DOMICILIARIA EN CASO DE INASISTENCIA A LA TERAPIA PREVENTIVA PARA TB
+
+       Definición operacional: Actividad que se realiza cuando el paciente no recibe su terapia preventiva
+       para TB mediante DOT.
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Seguimiento de TPT (90806.06).
+       • En la fila 2°, Visita familiar (C0011).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, D.
+       • En la fila 2°, D.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+             75194338                                               A         PC            PESO             N   N 1. Seguimiento de TPT                         P   D   R               90806.06
+                                 2            TRUJILLO                   M
+  22           14987                                        24 M             Pab            TALLA            C   C 2. Visita familiar                            P   D   R                C0011
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                            P   D   R
+
+
+
+
+                                                                                                                                                                                                     24
+      ACTIVIDADES DE DETECCIÓN Y DIAGNÓSTICO PARA
+                      TUBERCULOSIS
+
+BÚSQUEDA PASIVA
+
+CASO DE TB PRESUNTIVA
+
+Definición operacional: Es el procedimiento de detección de casos de TB en personas que presentan
+al menos 2 o más síntomas y/o signos de TB, como tos con flema, hemoptisis, fiebre, sudoración
+nocturna o pérdida de peso.
+
+En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+• En la fila 1°, CIE10 del tipo de TB (pulmonar o extrapulmonar).
+• En la fila 2°, Recolección de muestra para tuberculosis (99199.58).
+
+En el ítem “Tipo de diagnóstico” marque:
+• En la fila 1°, P.
+• En la fila 2°, D.
+
+En el ítem “Lab” anote:
+• En la fila 1°, casillero Lab 1° registre la sigla del tipo de condición del usuario:
+    ▪ CE: Contacto examinado.
+    ▪ PVV: Persona viviendo con VIH-SIDA.
+    ▪ ST: Trabajador de salud.
+    ▪ DM: Persona con diabetes mellitus.
+    ▪ PPL: Persona privada de su libertad.
+    ▪ TIS: Persona con terapia prolongada con corticoides.
+    ▪ HEM: Persona con hemodiálisis y/o enfermedad renal crónica.
+    ▪ PEI: Personal penitenciario.
+    ▪ OGR: Otras condiciones de salud relacionadas a TB según la norma vigente.
+    ▪ 1: Población en general.
+
+•   En la fila 2°, casillero Lab 1° registre el tipo de examen bacteriológico realizado, según
+    corresponda:
+    ▪ Baciloscopia = 1
+    ▪ Prueba molecular = 2
+    ▪ Cultivo = 3
+
+
+
+
+                                                                                                    25
+               D.N.I.         FINANC.        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                                                                                CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             47287721                                               A         PC            PESO             N   N 1. TB pulmonar                                P   D   R   1             A150
+                                 2             PUCARA                    M
+  6            7548                                         30 M             Pab            TALLA            C   C 2. Recolección de muestra para tuberculosis   P   D   R   2           99199.58
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                            P   D   R
+
+
+
+
+       BÚSQUEDA ACTIVA
+
+       Definición operacional: Es la detección de caso presuntivo de TB en zonas de alta prevalencia de
+       casos, grupos de riesgo o población con vulnerabilidad para TB; se realiza a través del tamizaje
+       radiológico, prueba bacteriológica y evaluación médica.
+
+
+
+       EN CASO DE RADIOGRAFÍA NORMAL:
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, CIE10 del tipo de TB (pulmonar o extrapulmonar)
+       • En la fila 2°, Examen radiológico (71010).
+       • En la fila 3° Evaluación médica (99214).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, P.
+       • En la fila 2°, D.
+       • En la fila 3°, D.
+
+       En el ítem “Lab” anote:
+       • En la fila 2°, casillero Lab 1° registre el tipo de examen radiológico utilizado, según corresponda:
+           ▪ Sin DAC = 1
+           ▪ Con DAC = 2
+       • En la fila 2°, casillero Lab 2° registre N = indica radiografía normal.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                       CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                 CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+             47287721                                               A         PC             PESO            N   N 1. TB pulmonar                                P   D   R                  A150
+                                 2             PUCARA                    M
+  7             7548                                        30 M              Pab            TALLA           C   C 2. Examen radiológico                         P   D   R   1   N         71010
+
+                                 58                                 D    F Ppreg              Hb             R   R 3. Evaluación médica                          P   D   R                 99214
+
+
+
+
+                                                                                                                                                                                                      26
+       EN CASO DE RADIOGRAFIA ANORMAL:
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud anote:
+       • En la fila 1°, CIE10 del tipo de TB (pulmonar o extrapulmonar).
+       • En la fila 2°, Examen radiológico (71010).
+       • En la fila 3°, Recolección de muestra para tuberculosis (TB) (99199.58).
+       • En la fila 4°, Evaluación médica (99214).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, P.
+       • En la fila 2°, D.
+       • En la fila 3°, D.
+       • En la fila 4°, D.
+
+       En el ítem “Lab” anote:
+       • En la fila 2°, casillero Lab 1° registre el tipo de examen radiológico utilizado, según corresponda:
+           ▪ Sin DAC = 1
+           ▪ Con DAC = 2
+       • En la fila 2°, casillero Lab 2° registre A = indica radiografía anormal.
+       • En la fila 3° casillero Lab 1° registre el tipo de examen bacteriológico realizado, según
+           corresponda:
+           ▪ Baciloscopia = 1
+           ▪ Prueba molecular = 2
+           ▪ Cultivo = 3
+
+
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+             47287721                                               A         PC            PESO             N   N 1. TB pulmonar                                  P   D   R              A150
+                                 2             PUCARA                    M
+  7            7548                                         30 M             Pab            TALLA            C   C   2. Examen radiológico                         P   D   R   1   A      71010
+
+                                58                                  D    F   Ppreg           Hb              R   R   3. Recolección de muestra para tuberculosis   P   D   R   2         99199.58
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                    A    M
+                                                                              PC            PESO             N   N 1. Evaluación médica                            P   D   R              99214
+                                                                  M          Pab            TALLA            C   C   2.                                            P   D   R
+                                                                         F
+                                                                    D        Ppreg           Hb              R   R   3.                                            P   D   R
+
+
+
+
+       DIAGNÓSTICO DE CASO DE TUBERCULOSIS
+
+       Definición operacional: Persona a quien se le diagnostica TB (pulmonar o extrapulmonar) en la
+       búsqueda pasiva o activa de casos de TB.
+
+
+
+
+                                                                                                                                                                                                     27
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, CIE10 del tipo de TB (pulmonar o extrapulmonar).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° registre la sigla del tipo de condición del usuario:
+           ▪ CE: Contacto examinado
+           ▪ PVV: Persona viviendo con VIH-SIDA
+           ▪ ST: Trabajador de salud.
+           ▪ DM: Persona con diabetes mellitus.
+           ▪ PPL: Persona privada de su libertad.
+           ▪ TIS: Persona con terapia prolongada con corticoides.
+           ▪ HEM: Persona con hemodiálisis y/o enfermedad renal crónica.
+           ▪ PEI: Personal penitenciario.
+           ▪ OGR: Otras condiciones de salud relacionadas a TB según la norma vigente.
+           ▪ 1: Población en general.
+
+       •      En la fila 1°, casillero Lab 2° registre el tipo de búsqueda realizada para la detección del caso de
+              TB, según corresponda:
+              ▪ Búsqueda pasiva = 1
+              ▪ Búsqueda activa = 2
+
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             47287721                                               A         PC            PESO             N   N 1. TB pulmonar                              P D R       1    1          A150
+                                 2             PUCARA                    M
+  6            7548                                         30 M             Pab            TALLA            C   C 2.                                          P D R
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                          P D R
+
+
+
+
+       VISITA DOMICILIARIA AL DIAGNÓSTICO DEL CASO DE TB:
+
+       Definición operacional: Actividad que se realiza para verificar la ubicación del domicilio, entorno y
+       situación familiar de la PAT, en las primeras 48 horas después del diagnóstico de TB.
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Visita familiar integral de Identificación de riesgos y necesidades C0011.01
+
+       En el ítem Tipo de diagnóstico marque:
+       • En la fila 1°, D.
+
+
+
+                                                                                                                                                                                                     28
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° TBC para indicar que la visita se ejecutó en un caso de TB.
+
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                       CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                 CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+                                                                                                                        Visita familiar integral de Identificación
+             85456215                                               A         PC             PESO            N   N 1.                                                P   D   R TBC        C0011.01
+                                 2                 PASCO                 M                                              de riesgos y necesidades
+
+  3            10006                                        29 M              Pab            TALLA           C   C 2.                                                P   D   R
+
+                                 58                                 D    F Ppreg              Hb             R   R 3.                                                P   D   R
+
+
+
+
+       PROCEDIMIENTOS ESPECIALES PARA OBTENCIÓN DE MUESTRAS PARA DIAGNÓSTICO DE
+       TUBERCULOSIS
+
+       LAVADO GÁSTRICO (aspirado gástrico)
+
+       Definición operacional: Procedimiento que consiste en insertar una sonda nasogástrica por las fosas
+       nasales de la persona pasando por el esófago hasta el estómago para obtener una muestra de
+       esputo que ha sido deglutido al no poder expectorar. Se realiza sólo cuando no se puede obtener
+       una muestra biológica de forma espontánea, inducida o por broncoscopía.
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, CIE10 del tipo de TB (pulmonar o extrapulmonar).
+       • En la fila 2°, Lavado gástrico (91105).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, P.
+       • En la fila 2°, D.
+
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             85456215                                               A         PC            PESO             N   N 1. TB pulmonar                                    P   D   R             A150
+                                 2             PASCO                     M
+  3            10006                                        29 M             Pab            TALLA            C   C 2. Lavado gástrico                                P   D   R            91105
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                                P   D   R
+
+
+
+
+                                                                                                                                                                                                      29
+       INDUCCIÓN DEL ESPUTO
+
+       Definición operacional: Procedimiento que consiste en fluidificar las secreciones del tracto
+       respiratorio mediante la nebulización con suero fisiológico y facilita el drenaje y obtención de
+       muestra de esputo para exámenes bacteriológicos. Se realiza cuando la persona no logra expectorar.
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, CIE10 del tipo de TB (pulmonar o extrapulmonar)
+       • En la fila 2°, Inducción del esputo (94640).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, P.
+       • En la fila 2°, D.
+
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             85456215                                               A         PC            PESO             N   N 1. TB pulmonar                              P   D   R                   A150
+                                 2             PASCO                     M
+  3            10006                                        29 M             Pab            TALLA            C   C 2. Inducción del esputo                     P   D   R                  94640
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                          P   D   R
+
+
+
+
+       TAMIZAJE PARA VIH EN PERSONA AFECTADA POR TUBERCULOSIS
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud”, anote:
+       • En la fila 1°, Consejería pre-test para VIH (99401.33)
+       • En la fila 2°, La prueba para el tamizaje de VIH correspondiente:
+           ▪ Prueba rápida de anticuerpo para VIH (86703.01)
+           ▪ Prueba rápida de antígeno y anticuerpo para VIH (86703.02)
+           ▪ Detección de VIH por ELISA (87389)
+       • En la fila 3° la Consejería Post-Test para VIH según corresponda:
+           ▪ Consejería post-test para VIH NO REACTIVO (99401.34)
+           ▪ Consejería post-test para VIH REACTIVO (99403.03)
+
+       En el ítem: el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, D.
+       • En la fila 2°, D.
+       • En la fila 3° “D”.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° TBC para indicar que la consejería se brindó a una PAT.
+       • En la fila 2°, casillero Lab 1° la sigla del resultado para los respectivos tamizajes:
+           ▪ RN = resultado no reactivo.
+
+
+
+                                                                                                                                                                                                     30
+              ▪        RP = resultado reactivo.
+
+               D.N.I.                         DISTRITO DE                        PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                             CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                          CÓDIGO
+ DIA      HISTORIA CLINICA                   PROCEDENCIA       EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                     Y ACTIVIDADES DE SALUD                                    CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA            CENTRO POBLADO                      PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______            FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+             70033940                                                 A          PC            PESO           N    N 1. Consejería Pre-Test para VIH                 P       D       R TBC     99401.33
+                                 2             HUARAZ                      M
+  6            16458                                         21 M               Pab           TALLA           C    C 2. Prueba Rápida de Anticuerpo para VIH         P       D       R RN      86703.01
+
+                                 58                                         F Ppreg                                       Consejería Post-Test para VIH NO
+                                                                      D                         Hb            R    R 3.                                              P       D       R         99401.34
+                                                                                                                          REACTIVO
+
+
+
+
+       COMORBILIDAD TB – DIABETES
+
+       TAMIZAJE PARA DIABETES MELLITUS EN PAT
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud”, anote:
+       • En la fila 1°, Dosaje de glucosa en sangre (82947).
+       • En la fila 2°, Consejería en estilos de vida saludable (99401.13).
+
+       En el ítem: el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, “D”
+       • En la fila 2°, “D”
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° TBC para indicar que la actividad se brindó a una PAT.
+               D.N.I.                        DISTRITO DE                         PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                             CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                        CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA       EDAD        SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                     Y ACTIVIDADES DE SALUD                                  CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                       PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______            FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             70145147                                                A          PC           PESO             N   N 1. Dosaje de glucosa en sangre               P       D       R TBC        82947
+                                 2          SAN BARTOLO                    M
+  18           24157                                         26 M              Pab           TALLA            C   C 2. Consejería en estilos de vida saludable   P       D       R           99401.13
+
+                                58                                   D     F Ppreg            Hb              R   R 3.                                           P       D       R
+
+
+
+
+       DIAGNÓSTICO COMORBILIDAD TB-DIABETES
+
+       En el item “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, diagnóstico de diabetes mellitus (E149).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, D.
+
+       En el item: Lab anote:
+       • En la fila 1°, casillero Lab 1° TBC para indicar la comorbilidad TB-DM.
+       • En la fila 1°, casillero Lab 2° registre según corresponda:
+
+
+
+                                                                                                                                                                                                           31
+              ▪        1 = TB pulmonar.
+              ▪        2 = TB extrapulmonar.
+
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             70145147                                               A         PC             PESO            N   N 1. Diabetes mellitus                         P   D   R TBC 1            E149
+                                 2          SAN BARTOLO                  M
+  20           24157                                        26 M             Pab            TALLA            C   C 2.                                           P   D   R
+
+                                 58                                 D    F Ppreg              Hb             R   R 3.                                           P   D   R
+
+
+
+
+       REACCIÓN ADVERSA A MEDICAMENTOS PARA TB (RAM)
+
+       Definición operacional: Respuesta nociva y no intencionada que ocurre a dosis normalmente
+       utilizadas del medicamento con fines terapéuticos.
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, CIE 10 de la reacción adversa identificada.
+       • En la fila 2°, Reacción adversa a medicamentos (T88.7)
+
+       En el ítem “Tipo de diagnóstico” marque así:
+       • En la fila 1°, marque D.
+       • En la fila 2°, marque D.
+
+       En el ítem “Lab” anote:
+       • En la fila 2°, casillero Lab 1° registre TBC para señalar la RAM en un caso de TB.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             50841774                                               A         PC            PESO             N   N 1. Ictericia                                P    D   R                  R17X
+                                 2          PUEBLO LIBRE                 M
+  11           14524                                        36 M             Pab            TALLA            C   C 2. Reacción adversa a medicamentos          P    D   R TBC             T88.7
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                          P    D   R
+
+
+
+
+       DERIVACIÓN Y TRANSFERENCIAS
+
+       DERIVACIÓN
+
+       Definición Operacional: Es una modalidad de referencia por el cual una persona diagnosticada de
+       TB, el contacto y/o persona con indicación de TPT es enviada al E.S. más cercano a su domicilio para
+       continuar con su atención y/o tratamiento. El reporte es realizado por el E.S. que recibe a la persona
+
+       En el item: diagnóstico motivo de consulta y/o actividad de salud anote:
+
+
+
+                                                                                                                                                                                                     32
+       •      En la fila 1°, Referencia 99700.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° registre según corresponda:
+           ▪ TBC = para indicar que la derivación es de una PAT.
+           ▪ CE = para indicar que la derivación es de un contacto.
+           ▪ 1 = para indicar que la derivación es de una persona con indicación de TPT.
+
+       •      En la fila 2°, casillero Lab 2° registre según corresponda:
+              ▪ DVR = Para indicar Derivación realizada. [E.S que deriva a la PAT].
+              ▪ DVC = Para indicar Derivación aceptada. [E.S que recibe a la PAT].
+
+               D.N.I.                        DISTRITO DE                        PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                            CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA       EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                    Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                      PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______            FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             80752417                                                A         PC            PESO             N   N 1. Referencia                               P   D   R TBC DVC          99700
+                                 2      MAGDALENA DEL MAR                 M
+  18           26541                                         26 M             Pab            TALLA            C   C 2.                                          P   D   R
+
+                                58                                   D    F Ppreg             Hb              R   R 3.                                          P   D   R
+
+
+
+
+       TRANSFERENCIA
+
+       Definición operacional: Es una modalidad de referencia por el cual una persona diagnosticada con
+       TB, su contacto y/o la persona con indicación de TPT en el E.S. de su jurisdicción solicita ser
+       trasladado a otro E.S. El reporte es realizado por el E.S. que transfiere a la persona.
+
+       En el item: diagnóstico motivo de consulta y/o actividad de salud anote:
+       • En la fila 1°, Referencia (99700)
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° registre según corresponda:
+           ▪ TBC = para indicar que la derivación es de una PAT.
+           ▪ CE = para indicar que la derivación es de un contacto.
+           ▪ 1 = para indicar que la derivación es de una persona con indicación de TPT.
+       • En la fila 2°, casillero Lab 2° registre según corresponda:
+           ▪ 1 = Para indicar transferencia realizada. [E.S que transfiere a la PAT].
+           ▪ 2 = Para indicar transferencia aceptada. [E.S que recibe a la PAT].
+               D.N.I.                        DISTRITO DE                        PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                            CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA       EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                    Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                      PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______            FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             80752417                                                A         PC            PESO             N   N 1. Referencia                               P   D   R TBC 1            99700
+                                 2      MAGDALENA DEL MAR                 M
+  18           26541                                         26 M             Pab            TALLA            C   C 2.                                          P   D   R
+
+                                58                                   D    F Ppreg             Hb              R   R 3.                                          P   D   R
+
+
+
+
+                                                                                                                                                                                                      33
+            ACTIVIDADES PARA LA RECUPERACIÓN DE LA PERSONA
+                      AFECTADA POR TUBERCULOSIS
+
+       EVALUACIÓN MÉDICA
+
+       Definición operacional: Es un estudio continúo utilizado para recopilar, evaluar y analizar datos
+       clínicos pertenecientes a la PAT (antecedentes, factores de riesgo, comorbilidades, exámenes
+       radiológicos y bacteriológicos) y evaluar su respuesta al tratamiento indicado.
+
+
+       EVALUACIÓN MÉDICA EN PAT CON TB SENSIBLE
+
+       En las PAT que reciben esquema para TB sensible, le corresponde 4 evaluaciones médicas: Al
+       diagnóstico del caso de TB, al inicio del tratamiento, al cambio de fase y término de tratamiento.
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Evaluación médica (99214).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, marque D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° TBC para indicar caso de TB.
+       • En la fila 1°, casillero Lab 2° registre 1 para indicar TB sensible.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             60341582                                               A         PC            PESO             N   N 1. Evaluación médica                        P   D   R TBC 1            99214
+                                 2          POMABAMBA                    M
+  4            13225                                        30 M             Pab            TALLA            C   C 2.                                          P   D   R
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                          P   D   R
+
+
+
+
+       EVALUACIÓN MÉDICA EN PAT CON TB RESISTENTE
+
+       En las PAT que reciben esquema para TB resistente, la evaluación médica se realiza al momento del
+       diagnóstico de caso de TB y luego de maneral mensual según la duración del esquema de
+       tratamiento indicado.
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Evaluación médica (99214).
+
+       En el ítem “Tipo de diagnóstico” marque:
+
+
+
+                                                                                                                                                                                                     34
+       •      En la fila 1°, marque D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° TBC para indicar caso de TB.
+       • En la fila 1°, casillero Lab 2° registre 2 para indicar TB resistente.
+
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             60341582                                               A         PC            PESO             N   N 1. Evaluación médica                        P   D   R TBC 2            99214
+                                 2          POMABAMBA                    M
+  4            13225                                        30 M             Pab            TALLA            C   C 2.                                          P   D   R
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                          P   D   R
+
+
+
+
+       ATENCIÓN EN CONSULTORIO DE ENFERMERÍA
+
+       Definición operacional: Actividad que consiste en la interacción profesional entre el usuario y la
+       enfermera ante un problema o necesidad de salud real o potencial de la persona afectada por TB,
+       familia y comunidad, que permite mantener o incrementar el bienestar de sus miembros, a través
+       del Proceso de Atención de Enfermería (PAE).
+
+
+       ATENCIÓN EN CONSULTORIO DE ENFERMERIA EN PAT CON TB SENSIBLE
+
+       En las personas que reciben esquema para TB sensible, la evaluación por enfermera se brinda al
+       diagnóstico del caso y luego de manera mensual según el esquema de tratamiento para TB indicado.
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Atención en consultorio de enfermería (99216).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, marque D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° TBC para indicar caso de TB.
+       • En la fila 1°, casillero Lab 2° registre 1 para indicar TB sensible.
+
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             60341582                                               A         PC            PESO             N   N 1. Atención en consultorio de enfermería    P D     R TBC 1            99216
+                                 2          POMABAMBA                    M
+  4            13225                                        30 M             Pab            TALLA            C   C 2.                                          P D     R
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                          P D     R
+
+
+
+
+                                                                                                                                                                                                     35
+       ATENCIÓN EN CONSULTORIO DE ENFERMERIA EN PAT CON TB RESISTENTE
+
+       En las personas que reciben esquema para TB resistente, la evaluación por enfermera se brinda al
+       diagnóstico del caso y luego de manera mensual según el esquema de tratamiento para TB indicado.
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Atención en consultorio de enfermería (99216).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, marque D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° TBC para indicar caso de TB.
+       • En la fila 1°, casillero Lab 2° registre 2 para indicar TB resistente.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             60341582                                               A         PC            PESO             N   N 1. Atención en consultorio de enfermería         P   D   R TBC 2       99216
+                                 2          POMABAMBA                    M
+  4            13225                                        30 M             Pab            TALLA            C   C 2.                                               P   D   R
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                               P   D   R
+
+
+
+
+       TRATAMIENTO DIRECTAMENTE OBSERVADO (DOT)
+
+       DOT PARA TB SENSIBLE
+
+       Definición operacional: Procedimiento realizado por el profesional de enfermería, que consiste en
+       la observación directa de la ingesta de cada uno de los medicamentos de un esquema establecido
+       para TB sensible. Puede aplicarse mediante la red de soporte comunitario, soporte familiar o
+       mediante el uso del aplicativo DOTLine TB.
+
+             Esquemas de tratamiento para TB
+                                                                                            Duración                Administración                            Registro en HIS
+                        sensible
+                                                                                                                    Lunes a sábado
+                                                           Primera fase                       2 meses
+          TB con o sin infección                                                                                       (50 dosis)
+                 por VIH                                                                                            Lunes a sábado
+                                                           Segunda fase                       4 meses
+                                                                                                                      (100 dosis)
+                                                                                                                    Lunes a sábado
+                  TB miliar y                              Primera fase                       2 meses
+                                                                                                                       (50 dosis)
+               extrapulmonares                                                                                                                                    Diario
+                                                                                                                    Lunes a sábado
+                 complicadas                               Segunda fase                     10 meses
+                                                                                                                      (250 dosis)
+                                                                                                                    Lunes a sábado
+                                                           Primera fase                       2 meses
+                                                                                                                       (50 dosis)
+           TB no grave en niños
+                                                                                                                    Lunes a sábado
+                                                           Segunda fase                       2 meses
+                                                                                                                       (50 dosis)
+
+
+
+                                                                                                                                                                                                     36
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Administración de Tratamiento supervisado de TB sensible (99205.03)
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, SIEMPRE “D”.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° registre la modalidad o estrategia del DOT:
+           ▪ 1: DOT en el E.S.
+           ▪ 2: DOT con aplicativo DOTLine TB.
+           ▪ 3: DOT con soporte familiar.
+           ▪ 4: DOT con soporte comunitario.
+
+               D.N.I.                        DISTRITO DE                        PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                            CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA       EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                    Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                      PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______            FECHA ULTIMO RESULTADO DE Hb: _____/____/______         FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                                                                         Administración de Tratamiento
+             50841774                                                A         PC            PESO             N   N 1.                                          P   D   R   1             99205.03
+                                 2          PUEBLO LIBRE                  M                                              supervisado de TB sensible
+
+  23           14524                                         36 M             Pab            TALLA            C   C 2.                                          P   D   R
+
+                                58                                   D    F Ppreg             Hb              R   R 3.                                          P   D   R
+
+
+
+
+       DOT PARA TB RESISTENTE
+
+       Definición operacional: Procedimiento realizado por el profesional de enfermería, que consiste en
+       la observación directa de la ingesta de cada uno de los medicamentos de un esquema establecido
+       para TB resistente. Puede aplicarse mediante la red de soporte comunitario, soporte familiar o
+       mediante el uso del aplicativo DOTLine TB.
+
+        Esquemas de tratamiento para TB                                                                                                                             Registro en
+                                                                                                Duración                           Administración
+                  resistente                                                                                                                                            HIS
+                                                                                                      Lunes a domingo
+                       TB Hr                               TB Hr                                   6 meses
+                                                                                                         (180 dosis)
+                                                                                                      Lunes a domingo
+                                                           BPaLM                       6 meses
+                                                                                                         (180 dosis)
+           TB RR/TB MDR
+                                                                                                      Lunes a domingo
+                                                            BLC                        9 meses
+                                                                                                         (270 dosis)
+                                                                                                      Lunes a domingo
+                                                           BPaL                        6 meses                                                                           Diario
+                                                                                                         (180 dosis)
+                                                                                                      Lunes a domingo
+                                                                                Primera fase 6 meses
+                                                                                                         (180 dosis)
+        TB pre XDR y XDR                                   BLCC
+                                                                                                      Lunes a domingo
+                                                                                Segunda fase 12 meses
+                                                                                                         (360 dosis)
+                                                                                                      Lunes a domingo
+                                                     Parenteral                      18-24 meses
+                                                                                                       (540-720 dosis)
+
+
+
+
+                                                                                                                                                                                                      37
+        PAT con condición                                                            Según medicamentos
+                                                                                                                                   Lunes a domingo
+        medica especial o                          Modificados                         que componen el
+                                                                                                                                    (270-540 dosis)
+              RAM.                                                                         esquema
+
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, registre según el nivel de atención del establecimiento de salud
+           ▪ Administración de tratamiento supervisado para TB drogorresistente o resistente en el I
+                nivel de atención (99205.04).
+           ▪ Administración de tratamiento supervisado para TB drogorresistente o resistente en el II y
+                III nivel de atención (99206.02).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, SIEMPRE “D”.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° registre la modalidad o estrategia del DOT:
+           ▪ 1: DOT en el E.S.
+           ▪ 2: DOT con aplicativo DOTLine TB.
+           ▪ 3: DOT con soporte familiar.
+           ▪ 4: DOT con soporte comunitario.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                                                                      Administración de tratamiento
+             50841774                                               A         PC            PESO             N   N 1. supervisado para TB drogorresistente o   P   D   R   1             99205.04
+                                 2          PUEBLO LIBRE                 M                                            resistente en el I nivel de atención
+  23                                                        36
+               14524                                              M          Pab            TALLA            C   C   2.                                        P   D   R
+
+                                58                                  D    F   Ppreg           Hb              R   R   3.                                        P   D   R
+
+
+
+
+       CONTROL DE TRATAMIENTO
+
+       Definición operacional: Actividad que consiste en el monitoreo del tratamiento de la PAT, mediante
+       el seguimiento clínico y exámenes auxiliares según norma técnica vigente.
+
+       El control de tratamiento se realiza de manera mensual según esquema de tratamiento indicado
+       para la PAT.
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Control de tratamiento (99199.08).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, D.
+
+       En el ítem “Lab” anote:
+
+
+
+                                                                                                                                                                                                     38
+       •      En la fila 1°, casillero Lab 1° TBC para indicar caso de TB
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                       CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                 CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+             60341582                                               A         PC             PESO            N   N 1. Control de tratamiento                    P   D   R                99199.08
+                                 2           POMABAMBA                   M
+  4            13225                                        30 M              Pab            TALLA           C   C 2.                                           P   D   R
+
+                                 58                                 D    F Ppreg              Hb             R   R 3.                                           P   D   R
+
+
+
+
+       VISITA DOMICILIARIA EN CASO DE INASISTENCIA AL TRATAMIENTO DIRECTAMENTE
+       OBSERVADO
+
+       Definición operacional: Actividad que se realiza cuando la PAT no recibe su tratamiento mediante
+       el DOT.
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Visita familiar (C0011).
+
+       En el ítem Tipo de diagnóstico marque:
+       • En la fila 1°, D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° TBC para indicar caso de TB.
+       • En la fila 1°, casillero Lab 2° PT para indicar que la visita se realiza por inasistencia al tratamiento.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+             60341582                                               A         PC            PESO             N   N 1. Visita familiar                          P    D   R TBC PT          C0011
+                                 2          POMABAMBA                    M
+  4            13225                                        30 M             Pab            TALLA            C   C   2.                                        P    D   R
+
+                                58                                  D    F   Ppreg           Hb              R   R 3.                                          P    D   R
+
+
+
+
+       RETO ANTE REACCIÓN ADVERSA A MEDICAMENTOS
+
+       Definición operacional: Procedimiento que consiste en la administración progresiva de cada uno de
+       los medicamentos antiTB según prescripción médica, para identificar el/los causantes que generan
+       la RAM y recuperar el mayor número de fármacos del esquema de tratamiento. El manejo es
+       hospitalario con monitoreo estricto (clínico y laboratorio).
+
+
+       INICIO DE RETO
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+
+
+
+                                                                                                                                                                                                      39
+       •      En la fila 1°, Reto ante reacción adversa a medicamentos (99206.03).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, marque D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° registre TBC para señalar que el procedimiento se realiza en un caso
+           de TB.
+       • En la fila 1°, casillero Lab 2° registre “IA” para inicio de RETO.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                                                                          Reto ante reacción adversa a
+             50841774                                               A         PC            PESO             N   N 1.                                          P    D   R TBC IA         99206.03
+                                 2          PUEBLO LIBRE                 M                                                medicamentos
+
+  20           14524                                        36 M             Pab            TALLA            C   C   2.                                        P    D   R
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                          P    D   R
+
+
+
+
+       TERMINO DE RETO
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Reto ante reacción adversa a medicamentos (99206.03).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, marque D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° registre TBC para señalar que el procedimiento se realiza en un caso
+           de TB.
+       • En la fila 1°, casillero Lab 2° registre “TA” para término de RETO.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                       CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                 CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                                                                          Reto ante reacción adversa a
+             50841774                                               A         PC             PESO            N   N 1.                                           P   D   R TBC TA         99206.03
+                                 2          PUEBLO LIBRE                 M                                                medicamentos
+
+  27           14524                                        36 M              Pab            TALLA           C   C   2.                                         P   D   R
+
+                                 58                                 D    F   Ppreg            Hb             R   R 3.                                           P   D   R
+
+
+
+
+       ATENCIÓN DE SERVICIO SOCIAL
+
+       Definición operacional: Es el estudio sistemático y detallado en que se establece una comunicación
+       entre el trabajador social y la PAT y familia, con el objetivo de conocer su problema, entorno familiar
+       e identificar conductas de riesgo (alcoholismo, fármaco dependencia, violencia familiar, entre
+       otras).
+
+
+
+                                                                                                                                                                                                      40
+       ATENCIÓN DE SERVICIO SOCIAL EN PAT CON TB SENSIBLE
+
+       En las personas que reciben esquema para TB sensible, se brindan 3 atenciones de servicio social
+       en el momento del diagnóstico del caso, al cambio de fase y término de tratamiento.
+
+
+       CUANDO SE REALIZA EN EL ESTABLECIMIENTO DE SALUD
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Atención de servicio social (99210).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, marque D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° TBC para indicar caso de TB.
+       • En la fila 1°, casillero Lab 2° registre 1 para indicar TB sensible.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             60341582                                               A         PC            PESO             N   N 1. Atención de servicio social              P   D   R TBC 1            99210
+                                 2          POMABAMBA                    M
+  4            13225                                        30 M             Pab            TALLA            C   C 2.                                          P   D   R
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                          P   D   R
+
+
+
+
+       CUANDO SE REALIZA A TRAVÉS DE LA TELEMEDICINA
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Atención de servicio social (99210).
+       • En la fila 2°, Teleconsulta en línea (99499.01).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, marque D.
+       • En la fila 2°, marque D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° TBC para indicar caso de TB.
+       • En la fila 1°, casillero Lab 2° registre 1 para indicar TB sensible.
+
+
+
+
+                                                                                                                                                                                                     41
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             60341582                                               A         PC            PESO             N   N 1. Atención de servicio social              P    D   R TBC 1           99210
+                                 2          POMABAMBA                    M
+  4            13225                                        30 M             Pab            TALLA            C   C 2. Teleconsulta en línea                    P    D   R                99499.01
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                          P    D   R
+
+
+
+
+       ATENCIÓN DE SERVICIO SOCIAL EN PAT CON TB RESISTENTE
+
+       En las personas que reciben esquema para TB resistente, la evaluación por enfermera se brinda al
+       diagnóstico del caso y luego de manera mensual según el esquema de tratamiento para TB indicado.
+
+       CUANDO SE REALIZA EN EL ESTABLECIMIENTO DE SALUD
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Atención de servicio social (99210).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, marque D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° TBC para indicar caso de TB.
+       • En la fila 1°, casillero Lab 2° registre 2 para indicar TB resistente.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             60341582                                               A         PC             PESO            N   N 1. Atención de servicio social               P   D   R TBC 2           99210
+                                 2          POMABAMBA                    M
+  4            13225                                        30 M             Pab            TALLA            C   C 2.                                           P   D   R
+
+                                58                                  D    F Ppreg              Hb             R   R 3.                                           P   D   R
+
+
+
+
+       CUANDO SE REALIZA A TRAVÉS DE LA TELEMEDICINA
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Atención de servicio social (99210)
+       • En la fila 2°, Teleconsulta en línea (99499.01)
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, marque D.
+       • En la fila 2°, marque D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° TBC para indicar caso de TB.
+
+
+
+                                                                                                                                                                                                     42
+       •      En la fila 1°, casillero Lab 2° registre 2 para indicar TB resistente.
+
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             60341582                                               A         PC            PESO             N   N 1. Atención de servicio social              P   D   R TBC 2            99210
+                                 2          POMABAMBA                    M
+  4            13225                                        30 M             Pab            TALLA            C   C 2. Teleconsulta en línea                    P   D   R                 99499.01
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                          P   D   R
+
+
+
+
+       ATENCIÓN EN SALUD MENTAL
+
+       IDENTIFICACIÓN DE PROBLEMAS DE SALUD MENTAL
+
+       Definición operacional: Intervención dirigida a personas que son atendidas en los servicios de
+       prevención y control de TB. El tamizaje es aplicado por un profesional de la salud capacitado y
+       comprende la observación, entrevista, aplicación de instrumentos y la consejería de acuerdo al
+       resultado obtenido. La PAT debe ser tamizada antes del inicio del tratamiento, utilizando el tipo de
+       tamizaje que le corresponde según edad:
+
+                                                                                                                                            CÓDIGO               POBLACIÓN
+                                                        TIPO DE TAMIZAJE
+                                                                                                                                             CPMS                 OBJETIVO
+           Tamizaje en violencia                                                                                                            96150.01             0 a 17 años
+           Tamizaje en alcohol y drogas                                                                                                     96150.02            18 años a más
+           Tamizaje en trastornos depresivos                                                                                                96150.03            18 años a más
+           Tamizaje para detectar trastornos mentales y del
+                                                                                                                                            96150.08           03 de 17 años.
+           comportamiento de niñas, niños y adolescentes de 3 de 17 años.
+
+       Asimismo, es importante precisar que cada tamizaje finaliza con una consejería considerando lo
+       siguiente:
+           • Si el resultado del tamizaje es negativo se refuerza los factores protectores de las personas.
+           • Si el resultado del tamizaje es positivo, se apoya la búsqueda de ayuda necesaria realizando
+               la derivación al servicio de salud mental (medicina o psicología) del establecimiento para su
+               evaluación y confirmación diagnóstica.
+
+
+       CUANDO SE REALIZA EN EL ESTABLECIMIENTO DE SALUD
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, el tipo de tamizaje realizado.
+       • En la fila 2°, Consejería de prevención de riesgos en salud mental (99402.09).
+
+       En el ítem “Tipo de diagnóstico” marque
+       • En la fila 1°, marque D.
+       • En la fila 2°, marque D.
+
+
+
+                                                                                                                                                                                                     43
+En el ítem “Lab” anote:
+• En la fila 1°, casillero Lab 1° TBC para indicar caso de TB.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION  ESTA- SER-                                                  TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                       CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                 CIE/CPMSS
+        GESTANTE/PUERPERA      ETNIA      CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P    D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+             60341582                                               A         PC            PESO             N   N 1. Tamizaje en trastornos depresivos            P   D   R TBC          96150.03
+                                 2          POMABAMBA                    M
+                                                                                                                          Consejería de prevención de riesgos en
+  4            13225                                        30 M             Pab            TALLA            C   C   2.                                            P   D   R              99402.09
+                                                                                                                          salud mental
+                                58                                  D    F   Ppreg           Hb              R   R   3.                                            P   D   R
+
+
+
+
+En caso el resultado de la aplicación del tamizaje sea POSITIVO, se debe adicionar al registro del
+tamizaje los siguientes códigos:
+
+                                                                                                                                                                                    Código
+                        Tipo de tamizaje                                                                              Descripción
+                                                                                                                                                                                    CPMS
+       Tamizaje en violencia           Problemas relacionados con violencia                                                                                                          R456
+                                       Problemas relacionados con tabaco                                                                                                             Z720
+                                       Problemas sociales relacionados con el uso de
+                                                                                                                                                                                      Z721
+       Tamizaje en alcohol y drogas alcohol
+       (AD)                            Problemas sociales relacionados con el uso de
+                                                                                                                                                                                      Z722
+                                       drogas
+       Tamizaje     en      trastornos Pesquisa de problemas relacionados a la salud
+                                                                                                                                                                                      Z133
+       depresivos                      mental
+       Tamizaje en trastorno mentales Pesquisa de problemas relacionados a la salud
+                                                                                                                                                                                      Z133
+       y del comportamiento en NNA     mental
+
+En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+• En la fila 1°, el tipo de tamizaje realizado.
+• En la fila 2°, el código de positividad.
+• En la fila 3° Consejería de prevención de riesgos en salud mental (99402.09)
+
+En el ítem “Tipo de diagnóstico” marque:
+• En la fila 1°, marque D.
+• En la fila 2°, marque D.
+• En la fila 3° marque D.
+
+En el ítem “Lab” anote:
+• En la fila 1°, casillero Lab 1° TBC para indicar caso de TB.
+
+
+
+
+                                                                                                                                                                                                      44
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                       CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                 CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+             60341582                                               A         PC             PESO            N   N 1. Tamizaje en trastornos depresivos           P   D   R TBC          96150.03
+                                 2           POMABAMBA                   M
+                                                                                                                        Pesquisa de problemas relacionados a la
+  4            13225                                        30 M              Pab            TALLA           C   C 2.                                             P   D   R                 Z133
+                                                                                                                        salud mental
+                                 58                                      F Ppreg                                        Consejería de prevención de riesgos en
+                                                                    D                         Hb             R   R 3.                                             P   D   R              99402.09
+                                                                                                                        salud mental
+
+
+
+
+       En caso que el resultado del tamizaje de trastornos mentales y del comportamiento de las niñas,
+       niños y adolescentes sea POSITIVO, se adicionará al registro el valor Lab según corresponda al área
+       de mayor problemática del menor.
+
+
+                                                           VALOR LAB                             DESCRIPCIÓN
+                                                               1                          Problemas emocionales
+                                                               2                          Problemas de atención
+                                                               3                          Problemas de conducta
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Tamizaje para detectar trastornos mentales y del comportamiento de las niñas,
+           niños y adolescentes (96150.08)
+       • En la fila 2°, Pesquisa de problemas relacionados a la salud mental (Z133).
+       • En la fila 3° Consejería de prevención de riesgos en salud mental (99402.09).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, marque D.
+       • En la fila 2°, marque D.
+       • En la fila 3° marque D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° TBC para indicar caso de TB.
+       • En la fila 1°, casillero Lab 2° registre el número que corresponde al problema identificado.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+                                                                                                                      Tamizaje para detectar trastornos
+             75849623                                               A         PC            PESO             N   N 1. mentales y del comportamiento de las        P   D   R TBC 2        96150.08
+                                                                                                                      niñas, niños y adolescentes
+                                 2             RECUAY                    M
+  10                                                        8                                                           Pesquisa de problemas relacionados a la
+              254789                                              M          Pab            TALLA            C   C 2.                                             P   D   R                Z133
+                                                                                                                        salud mental
+
+                                58                                       F Ppreg                                        Consejería de prevención de riesgos en
+                                                                    D                        Hb              R   R 3.                                             P   D   R              99402.09
+                                                                                                                        salud mental
+
+
+
+
+                                                                                                                                                                                                      45
+       CUANDO SE REALIZA A TRAVÉS DE LA TELEMEDICINA
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, el tipo de tamizaje realizado.
+       • En la fila 2°, Consejería de prevención de riesgos en salud mental (99402.09)
+       • En la fila 3° Teleorientación síncrona (99499.08)
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, marque D.
+       • En la fila 2°, marque D.
+       • En la fila 3° marque D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° TBC para indicar caso de TB.
+
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             60341582                                               A         PC            PESO             N   N 1. Tamizaje en trastornos depresivos        P   D   R TBC             96150.03
+                                 2          POMABAMBA                    M
+                                                                                                                      Consejería de prevención de riesgos en
+  4            13225                                        30 M             Pab            TALLA            C   C 2.                                          P   D   R                 99402.09
+                                                                                                                      salud mental
+                                58                                  D    F Ppreg             Hb              R   R 3. Teleorientación síncrona                 P   D   R                 99499.08
+
+
+
+
+       En caso el resultado de la aplicación del tamizaje sea POSITIVO:
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, el tipo de tamizaje realizado.
+       • En la fila 2°, el código de positividad.
+       • En la fila 3° Consejería de prevención de riesgos en salud mental (99402.09)
+       • En la fila 4° Teleorientación síncrona (99499.08)
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, marque D.
+       • En la fila 2°, marque D.
+       • En la fila 3° marque D.
+       • En la fila 4° marque D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° TBC para indicar caso de TB.
+
+
+
+
+                                                                                                                                                                                                     46
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+             60341582                                               A         PC             PESO            N   N 1. Tamizaje en trastornos depresivos             P   D   R TBC        96150.03
+                                 2          POMABAMBA                    M
+                                                                                                                        Pesquisa de problemas relacionados a la
+  4            13225                                        30 M              Pab           TALLA            C   C   2.                                             P   D   R              Z133
+                                                                                                                        salud mental
+                                 58                                      F                                              Consejería de prevención de riesgos en
+                                                                    D        Ppreg            Hb             R   R   3.                                             P   D   R            99402.09
+                                                                                                                        salud mental
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                    A    M
+                                                                              PC             PESO            N   N 1. Teleorientación síncrona                      P   D   R            99499.08
+
+                                                                  M           Pab           TALLA            C   C   2.                                             P   D   R
+                                                                         F
+                                                                    D        Ppreg            Hb             R   R   3.                                             P   D   R
+
+
+
+
+       En caso de que el resultado del tamizaje de trastornos mentales y del comportamiento de las niñas,
+       niños y adolescentes sea POSITIVO, se adicionará al registro el valor Lab según corresponda al área
+       de mayor problemática del menor.
+
+       En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+       • En la fila 1°, Tamizaje para detectar trastornos mentales y del comportamiento de las niñas,
+           niños y adolescentes (96150.08).
+       • En la fila 2°, Pesquisa de problemas relacionados a la salud mental (Z133).
+       • En la fila 3° Consejería de prevención de riesgos en salud mental (99402.09).
+       • En la fila 4° Teleorientación síncrona (99499.08).
+
+       En el ítem “Tipo de diagnóstico” marque:
+       • En la fila 1°, marque D.
+       • En la fila 2°, marque D.
+       • En la fila 3° marque D.
+       • En la fila 4° marque D.
+
+       En el ítem “Lab” anote:
+       • En la fila 1°, casillero Lab 1° TBC para indicar caso de TB.
+       • En la fila 1°, casillero Lab 2° registre el número que corresponde al problema identificado.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+                                                                                                                      Tamizaje para detectar trastornos
+             75849623                                               A         PC            PESO             N   N 1. mentales y del comportamiento de las          P   D   R TBC 2      96150.08
+                                 2             RECUAY                    M                                            niñas, niños y adolescentes
+  10
+              254789
+                                                            8     M          Pab            TALLA            C   C   2.
+                                                                                                                          Pesquisa de problemas relacionados a la
+                                                                                                                                                                    P   D   R              Z133
+                                                                                                                          salud mental
+
+                                58                                       F                                              Consejería de prevención de riesgos en
+                                                                    D        Ppreg           Hb              R   R   3.                                             P   D   R            99402.09
+                                                                                                                        salud mental
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                    A    M
+                                                                              PC            PESO             N   N 1. Teleorientación síncrona                      P   D   R            99499.08
+
+                                                                  M          Pab            TALLA            C   C   2.                                             P   D   R
+                                                                         F
+                                                                    D        Ppreg           Hb              R   R   3.                                             P   D   R
+
+
+
+
+                                                                                                                                                                                                     47
+        Toda persona cuyo tamizaje sea positivo, debe ser derivada a los servicios de salud mental para
+        su evaluación, diagnóstico y tratamiento. El personal de salud del servicio de TB hará seguimiento
+        para el cumplimiento del mismo.
+
+
+        ATENCIÓN EN NUTRICIÓN
+
+        Definición operacional: Es el conjunto de actividades para determinar el estado nutricional de la
+        persona afectada por TB, valorar los requerimientos nutricionales y pronosticar los posibles riesgos
+        de salud que pueda presentar con relación a su estado nutricional.
+
+        La atención en nutrición se brinda al diagnóstico del caso y luego de manera mensual según el
+        esquema de tratamiento para TB indicado.
+
+            El registro de la atención en nutrición al momento del diagnóstico de caso de TB se registra de
+            la siguiente manera:
+
+        En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+        • En la fila 1°, registre:
+
+                    Cuando el E.S cuente con profesional en nutrición                                                            Atención en nutrición                        99209
+                    Cuando el E.S no cuente con profesional en nutrición                                                         Consejería nutricional                       99403
+
+        En el ítem “Tipo de diagnóstico” marque:
+        • En la fila 1°, marque D.
+
+        En el ítem “Lab” anote:
+        • En la fila 1°, casillero Lab 1° TBC para indicar caso de TB.
+        • En la fila 1°, casillero Lab 2° registre:
+            ▪ 1= para indicar que corresponde a un caso de TB sensible.
+            ▪ 2= para indicar que corresponde a un caso de TB resistente.
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______          FECHA DE ULTIMA REGLA: ____/____/______
+
+             60341582                                               A         PC            PESO             N   N 1. Atención en nutrición                    P   D   R TBC 1            99209
+                                 2          POMABAMBA                    M
+  4            13225                                        30 M             Pab            TALLA            C   C 2.                                          P   D   R
+
+                                58                                  D    F Ppreg             Hb              R   R 3.                                          P   D   R
+
+
+
+
+        El registro de la atención en nutrición al mes de diagnosticado el caso de TB y mensualmente se
+        realiza de la siguiente manera:
+
+
+        En el ítem “Diagnóstico motivo de consulta y/o actividad de salud” anote:
+        • En la fila 1°, registre:
+
+
+
+                                                                                                                                                                                                     48
+        Cuando el E.S cuente con profesional en nutrición        Atención en nutrición    99209
+       Cuando el E.S no cuente con profesional en nutrición      Consejería nutricional   99403
+
+•   En la fila 2°, Registro en el padrón de beneficiarios para acceso al Programa de Alimentación y
+    Nutrición del Afectado por Tuberculosis (PANTBC) (99210.06).
+
+En el ítem “Tipo de diagnóstico” marque:
+• En la fila 1°, marque D.
+• En la fila 2°, marque D.
+
+En el ítem “Lab” anote:
+• En la fila 1°, casillero Lab 1° TBC para indicar caso de TB.
+• En la fila 1°, casillero Lab 2° registre:
+    ▪ 1= para indicar que corresponde a un caso de TB sensible.
+    ▪ 2= para indicar que corresponde a un caso de TB resistente.
+
+
+
+
+                                                                                                      49
+               D.N.I.                        DISTRITO DE                       PERIM ETRO       EVALUACION ESTA- SER-                                                   TIPO DE  VALOR
+                              FINANC.                                           CEFALICO-                              DIAGNÓSTICO MOTIVO DE CONSULTA, PROCEDIMIENTO                      CÓDIGO
+ DIA      HISTORIA CLINICA                  PROCEDENCIA      EDAD       SEXO ABDOM INAL -PESO ANTROPOMETRIC BLEC VICIO                                               DIAGNÓSTICO  LAB
+                                                                                                                                   Y ACTIVIDADES DE SALUD                                CIE/CPMSS
+        GESTANTE/PUERPERA ETNIA           CENTRO POBLADO                     PREGESTACIONAL A HEMOGLOBINA                                                             P D R 1º 2º 3º
+NOMBRES Y APELLIDOS PACIENTE:
+       (*)FECHA DE NACIMIENTO: _____/____/______           FECHA ULTIMO RESULTADO DE Hb: _____/____/______           FECHA DE ULTIMA REGLA: ____/____/______
+
+             60341582                                               A         PC            PESO             N   N 1. Atención en nutrición                      P   D   R TBC 1          99209
+                                 2          POMABAMBA                    M
+                                                                                                                        Registro en el padrón de beneficiarios
+  4            13225                                        30 M             Pab            TALLA            C   C   2.                                          P   D   R               99210.06
+                                                                                                                        para acceso al PANTBC
+                                58                                  D    F   Ppreg           Hb              R   R   3.                                          P   D   R
+
+
+
+
+                                                                                                                                                                                                     50
+

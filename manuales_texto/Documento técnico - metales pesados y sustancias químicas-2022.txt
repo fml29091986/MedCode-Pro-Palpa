@@ -1,0 +1,1164 @@
+1
+Catalogación hecha por la Biblioteca del Ministerio de Salud
+
+ Documento técnico de registro y codificación de atención en la consulta externa a personas expuestas a metales pesados,
+ metaloides y otras sustancias químicas, por curso de vida, Sistema de información HIS / Ministerio de Salud. Dirección
+ General de Intervenciones Estratégicas en Salud Pública. Dirección de Prevención y Control de Enfermedades No
+ Transmisibles, Raras y Huérfanas, Unidad Funcional de Atención a Personas Expuestas a Metales Pesados y Otras Sustancias
+ Químicas - Oficina General de Tecnologías de la Información. Oficina de Gestión de la Información - Lima: Ministerio de Salud;
+ 2022.
+   18 p. ilus.
+
+ CONTAMINACIÓN AMBIENTAL / ENFERMEDADES RARAS / SUSTANCIAS PELIGROSAS / FENÓMENOS BIOQUÍMICOS /
+ SUSTANCIAS TÓXICAS / SISTEMAS DE INFORMACIÓN / SISTEMA DE REGISTROS / CLASIFICACIÓN INTERNACIONAL DE
+ ENFERMEDADES / SERVICIOS PREVENTIVOS DE SALUD / CODIFICACIÓN CLÍNICA / ATENCIÓN INTEGRAL DE SALUD /
+ EVALUACIÓN DE RESULTADOS EN LA ATENCIÓN DE SALUD / SISTEMAS DE REGISTROS MÉDICOS COMPUTARIZADOS
+
+
+“Documento Técnico de Registro y Codificación de la Atención en la Consulta Externa a Personas Expuestas a Metales
+Pesados, Metaloides y Otras Sustancias Químicas, por Curso de Vida, Sistema de Información HIS”
+
+Ministerio de Salud. Dirección General de Intervenciones Estratégicas en Salud Pública. Dirección de Prevención y Control de
+Enfermedades No Transmisibles, Raras y Huérfanas. Unidad Funcional de Atención a Personas Expuestas a Metales Pesados y
+Otras Sustancias Químicas - Oficina General de Tecnologías de la Información. Oficina de Gestión de la Información (MINSA/
+DGIESP/DENOT/ Unidad Funcional de Atención a Personas Expuestas a Metales Pesados y Otras Sustancias Químicas - OGTI/OGEI)
+
+Equipo de Trabajo:
+Dra. Tania Teresa López Zenteno, Jefe de la Unidad Funcional de Metales Pesados y Otras Sustancias Químicas.
+M.C. Jeanette Ivonne Moreno Evangelista, Equipo Técnico de la Unidad Funcional de Metales Pesados y Otras Sustancias
+Químicas.
+M.C. Luz Marina Illescas Ruiz, Equipo Técnico de la Dirección de la Unidad Funcional de Metales Pesados y Otras Sustancias
+Químicas
+M.C. Wilder Cesar Augusto Medina Mayuri, Equipo Técnico de la Unidad Funcional de Metales Pesados y Otras Sustancias
+Químicas
+Lic. Jessy Lu Chang Chang, Equipo Técnico de la Unidad Funcional de Metales Pesados y Otras Sustancias Químicas
+Lic. Luis Pedro Valeriano Arteaga, Jefe de Equipo de la Oficina General de Tecnologías de la Información.
+Ing. Adhemir Bellido Delgado, Equipo Técnico de la Oficina General de Tecnologías de la Información.
+
+Validación:
+Coordinadora de Metales Pesados y Otras Sustancias Químicas.
+Diresa Cajamarca, Diresa Áncash, Diresa Cusco, Diresa Moquegua y Diresa Puno.
+
+Diseño y Diagramación:
+Julie Guillen Ramos, Equipo Técnico de la Oficina General de Tecnologías de la Información.
+
+©MINSA – enero, 2022
+
+Ministerio de Salud
+Av. Salaverry N° 801, Lima 11, Perú
+Telf.: (51-1) 315-6600
+www.minsa.gob.pe
+webmaster@minsa.gob.pe
+
+1ª. Edición, enero 2022
+
+Versión digital disponible: https://bvs.minsa.gob.pe/local/MINSA/5800.pdf
+
+
+
+
+                                                                                                                        2
+ HERNANDO ISMAEL CEVALLOS FLORES
+                   Ministro de Salud
+
+
+ GUSTAVO MARTIN ROSELL DE ALMEIDA
+             Viceministro de Salud Pública
+
+
+AUGUSTO MAGNO TARAZONA FERNÁNDEZ
+ Viceministro de Prestaciones y Aseguramiento en Salud
+
+
+MARÍA ELENA JUSCAMAITA ARANGÜENA
+                  Secretaría General
+
+
+      ALEXIS MANUEL HOLGUÍN RUÍZ
+          Director General de Intervenciones
+                  Estratégicas en Salud Pública
+
+
+     MELVIN ANGEL GAGO RODRIGO
+       Director General de la Oficina General de
+            Tecnologías de la Información
+
+
+
+
+                                                         3
+Contenido
+
+I.      INTRODUCCIÓN ........................................................................................................................................... 5
+
+II.     FINALIDAD ................................................................................................................................................... 5
+
+III. OBJETIVOS .................................................................................................................................................... 5
+
+IV. ÁMBITO DE APLICACIÓN .............................................................................................................................. 5
+
+V.      BASE LEGAL ................................................................................................................................................. 5
+
+VI. CONTENIDO .................................................................................................................................................. 6
+
+VII. LISTA DE CÓDIGOS PARA LAS ACTIVIDADES MÁS FRECUENTES EN LA ATENCIÓN DE PERSONAS EXPUESTAS A
+
+METALES PESADOS, METALOIDES Y OTRAS SUSTANCIAS QUÍMICAS ................................................................. 7
+
+VIII. INSTRUCCIONES GENERALES PARA EL REGISTRO Y CODIFICACIÓN DE LAS ACTIVIDADES DURANTE LA ATENCIÓN
+
+INTEGRAL DE PERSONAS EXPUESTAS A METALES PESADOS Y OTRAS SUSTANCIAS QUÍMICAS ........................ 8
+
+IX. INSTRUCCIONES PARA EL REGISTRO DE LAS ATENCIONES EN EL FORMULARIO HIS EN LAS ZONAS CONSIDERADAS
+DE RIESGO POR CONTAMINACIÓN AMBIENTAL DONDE SE EVIDENCIA EXPOSICIÓN A ALGÚN METAL PESADO,
+METALOIDES Y OTRAS SUSTANCIAS QUÍMICAS .................................................................................................. 8
+
+
+X. RESPONSABILIDADES ................................................................................................................................... 18
+
+
+
+
+                                                                                                                                                                          4
+I. INTRODUCCIÓN
+   El Perú es un país de gran diversidad geográfica, geológica, étnica y cultural, con una variedad de actividades
+   productivas, extractivas y de servicios (formales e informales) que generan, aparte de sus beneficios, agentes
+   contaminantes y desechos, pasivos ambientales y otros focos de contaminación que vierten al ambiente
+   elementos tóxicos tales como el plomo, mercurio, cadmio, arsénico, aluminio, bario, cromo, cobre, hierro, que
+   se dispersan en el ambiente y llegan a los cuerpos de agua superficiales y subterráneas directa o
+   indirectamente; los cuales pueden alterar procesos bioquímicos y/o fisiológicos en el organismo, por lo que
+   brindar de manera oportuna atención integral de salud a personas expuestas a metales pesados, metaloides y
+   otras sustancias químicas y el registro en el HIS de toda acción y/o actividad realizada desde un tamizaje clínico,
+   apoyo al diagnóstico con laboratorio por medio de un dosaje, entrega y evaluación de resultados, diagnóstico,
+   tratamiento, y seguimiento, contribuirá a obtener información valiosa y exacta de la atención clínica.
+
+II. FINALIDAD
+   Contribuir a contar con información actualizada de las atenciones integrales de salud realizadas a las personas
+   expuestas a metales pesados, metaloides y otras sustancias químicas, por curso de vida.
+
+III. OBJETIVOS
+   Estandarizar el registro de las atenciones integrales realizadas por los profesionales de la salud en todas las
+   Instituciones Prestadoras de Servicios de Salud - IPRESS del sector salud, a nivel nacional, regional y local, a las
+   personas expuestas a metales pesados, metaloides y otras sustancias químicas.
+
+IV. ÁMBITO DE APLICACIÓN
+   El presente documento es de alcance nacional y de aplicación en todos los establecimientos públicos del sector
+   salud: Ministerio de Salud (MINSA), Seguro Social de Salud (EsSalud), Gobiernos Regionales, Gobiernos Locales,
+   Sanidades de las Fuerzas Armadas y Policía Nacional del Perú. Es referencial para otras instituciones.
+
+V. BASE LEGAL
+       Ley N° 26842, Ley General de Salud, y sus modificatorias.
+       Ley N° 27867, Ley Orgánica de Gobiernos Regionales, y sus modificatorias.
+       Ley N° 29733, Ley de Protección de Datos Personales.
+       Ley N° 30024, Ley que crea el Registro Nacional de Historias Clínicas Electrónicas.
+       Resolución Ministerial N° 511-2007/MINSA, que aprueba la Guía Técnica: “Guía de Práctica Clínica para
+        el Manejo de Pacientes con Intoxicación por Plomo”.
+       Resolución Ministerial N° 389-2011/MINSA, que aprueba la “Guía Técnica: Guía de Práctica Clínica para
+        el Diagnóstico y Tratamiento de la Intoxicación por Arsénico”.
+       Resolución Ministerial N° 757-2013/MINSA, que aprueba las Guías Técnicas: “Guía de Práctica Clínica
+        para el Diagnóstico y Tratamiento de la Intoxicación por Mercurio” y “Guía de Práctica Clínica para el
+        Diagnóstico y Tratamiento de la Intoxicación por Cadmio”.
+       Resolución Ministerial N° 099-2014/MINSA, que aprueba la Directiva Administrativa N° 197-
+        MINSA/DGSP-V.01, “Directiva Administrativa que establece la Cartera de Servicios de Salud”.
+       Resolución Ministerial Nº 780-2015/MINSA, que aprueba el Documento Técnico denominado “Plan de
+        Implementación del Sistema Informático HIS MINSA para el registro de atenciones en la red de
+        establecimientos de salud a nivel nacional”, así como la “Hoja de Registro Diario de Atención y otras
+        actividades del aplicativo HIS MINSA”.
+       Directiva Administrativa para el registro de la pertenencia étnica en el Sistema de Información de Salud.
+        DA 240-2017/MINSA/INS. Instituto Nacional de Salud, MINSA. 2017
+       Resolución Ministerial N° 400-2017/MINSA, que aprueba la modificación de la Guía Técnica: “Guía de
+        Práctica Clínica para el Manejo de Pacientes con Intoxicación por Plomo aprobada por Resolución
+        Ministerial N° 511-2007/MINSA”.
+       Resolución Ministerial N° 979-2018/MINSA, que aprueba el Documento Técnico: “Lineamientos de
+        Política Sectorial para la Atención Integral de las Personas Expuestas a Metales Pesados, Metaloides y
+        Otras Sustancias Químicas”.
+
+                                                                                                                    5
+            Resolución Ministerial N° 030-2020-MINSA, que aprueba el Documento Técnico: Modelo de Cuidado
+             Integral de Salud por Curso de Vida para la Persona, Familia y Comunidad (MCI.
+            Resolución Ministerial N°1023-2020-MINSA, que aprueba la Directiva Sanitaria Nº125-
+             MINSA/2020/DGIESP, Directiva Sanitaria que establece el procedimiento para el abordaje integral ante
+             el riesgo y exposición a derrame y/o fuga de hidrocarburos.
+            Resolución Ministerial N°1026-2020-MINSA, que aprueba la Directiva Sanitaria N°126-
+             MINSA/2020/DGIESP "Directiva Sanitaria que establece el procedimiento para el abordaje integral de la
+             población expuesta a metales pesados, metaloides y otras sustancias químicas".
+VI. CONTENIDO
+      6.1. Las atenciones integrales de salud a personas expuestas a metales pesados, metaloides y otras sustancias
+           químicas se realizan por Curso de vida:
+                   Periodo prenatal
+                   Niña/niño (0 a 11 años, 11 meses y 29 días).
+                   Adolescente (12 años a 17 años, 11 meses y 29 días)
+                   Adulto Joven (18 años a 29 años, 11 meses y 29 días)
+                   Adulto (30 años a 59 años, 11 meses y 29 días)
+                   Adulto mayor (60 años a más)
+      6.2. Las atenciones integrales de salud en el primer nivel de atención son realizadas por profesionales de la
+           salud: médicos o enfermeros u obstetras o nutricionistas u odontólogos o psicólogos, entre otros.
+      6.3. Las atenciones especializadas, en caso de requerirse, se brindan en una IPRESS de II o III nivel de atención;
+           en la cual la atención será registrada por el médico especialista, según corresponda.
+      6.4. Al momento de evaluar a una persona expuesta a metales pesados, metaloides y otras sustancias
+           químicas, el profesional de la salud, de acuerdo a la normatividad vigente debe tener en cuenta los
+           siguientes criterios:
+                 Criterio Ambiental y Epidemiológico: Exposición ocupacional, personal y/o ambiental a fuentes
+                  contaminantes, teniendo en cuenta la vigilancia epidemiológica y la vigilancia sanitaria realizada a
+                  nivel de Centro Poblado, Distrito, Provincia, Región o Departamento.
+                 Criterio Clínico: Cuadro clínico compatible con exposición a metales pesados, metaloides y otras
+                  sustancias químicas de acuerdo a lo señalado en las Guías de Práctica Clínica1,2,3,4,5 del MINSA:
+                  Plomo, Arsénico, Cadmio, Mercurio, y otros documentos normativos vigentes.
+      6.5. El registro y codificación de las atenciones integrales de salud en personas expuestas a metales pesados,
+           metaloides, y otras sustancias químicas, se realizará según el Diagnóstico/Actividad y códigos, que se
+           vienen utilizando de acuerdo al Manual de Atención y Codificación de la atención en la consulta externa,
+           según curso de vida, teniendo en cuenta los Manuales de Registro y Codificación correspondiente:
+                 Registro y codificación de la atención en la consulta externa. Sistema de Información HIS. Dirección
+                  Nacional de Salud Bucal. 2017.
+                 Manual de registro y codificación de actividades en la atención integral de salud de la Etapa de Vida
+                  Adulto Mujer y Varón. DGIESP/MINSA, 2018
+                 Manual de registro y codificación de la atención en la consulta externa Etapa de Vida Adolescente.
+                  DGIESP/MINSA, 2019.
+                 Manual de Registro y Codificación de Actividades en Telemedicina. Sistema de Información HIS. Red
+                  Nacional de Telesalud/MINSA, 2019.
+
+
+
+1
+    Guía de práctica Clínica para el manejo de pacientes con Intoxicación por Plomo, aprobada con Resolución Ministerial N° 511-2007/MINSA.
+2
+  Guía de práctica Clínica para el diagnóstico y tratamiento de la Intoxicación por Arsénico, aprobada con Resolución Ministerial N° 389-
+2011/MINSA.
+3
+    Guía de práctica Clínica para el diagnóstico y tratamiento de la Intoxicación por Cadmio, aprobada con Resolución Ministerial N° 757-2013/MINSA.
+4
+  Guía de práctica Clínica para el diagnóstico y tratamiento de la Intoxicación por Mercurio, aprobada con Resolución Ministerial N° 757-
+2013/MINSA.
+5
+  Resolución Ministerial N° 400-2017/MINSA, que aprueba la modificación de la Guía Técnica: “Guía de Práctica Clínica para el Manejo de
+Pacientes con Intoxicación por Plomo aprobada por Resolución Ministerial N° 511-2007/MINSA”.
+
+
+                                                                                                                                                 6
+          Manual de registro y codificación de la atención de salud en la Consulta Externa de la Etapa de Vida
+           Adulto Mayor. DGIESP/MINSA, 2020.
+          Manual de registro y codificación de la atención en la consulta externa - Atención Materno Perinatal
+           de la Dirección de Salud Sexual y Reproductiva, Dirección General de Intervenciones Estratégicas en
+           Salud Pública - Ministerio de Salud. DGIESP/MINSA, 2019.
+          3° Adenda al Manual HIS de la Dirección de Salud Bucal. 2020.
+          Manual de Registro y Codificación de Actividades en la Atención Salud Mental. Dirección de Salud
+           Mental. DGIESP/MINSA, 2021.
+          Manual de registro y codificación de la atención en la consulta externa – Etapa de Vida Niño,
+           Dirección General de Intervenciones Estratégicas en Salud Pública – DGIESP/MINSA, 2021.
+  6.6. En el caso de que la atención de salud que se brinda a la población expuesta a metales pesados,
+       metaloides y otras sustancias químicas, se realice a través de los servicios de telemedicina, se registrará
+       de acuerdo al Manual de Registro y Codificación de Actividades en Telemedicina.
+
+
+VII. LISTA DE CÓDIGOS PARA LAS ACTIVIDADES MÁS FRECUENTES EN LA ATENCIÓN DE PERSONAS
+     EXPUESTAS A METALES PESADOS, METALOIDES Y OTRAS SUSTANCIAS QUÍMICAS
+   Para el registro de la atención integral de salud por metales pesados, metaloides y otras sustancias químicas,
+   se considerarán los siguientes códigos:
+       Código            Diagnóstico/Actividad
+       Z585              Exposición a otros contaminantes del ambiente físico
+       Z579              Exposición ocupacional a factor de riesgo no especificado
+       82175             Dosaje de Arsénico
+       82300             Dosaje de Cadmio
+       83655             Dosaje de Plomo
+       83825             Dosaje de Mercurio, cuantitativo
+       83015             Dosaje de Metales pesados (arsénico, bario, berilio, bismuto, antimonio, mercurio)
+
+       T53.6             Otros derivados halogenados de hidrocarburos alifáticos
+       T53.7             Otros derivados halogenados de hidrocarburos aromáticos
+       T53.9             Derivados halogenados de hidrocarburos alifáticos y aromáticos, no especificados
+       T56.0             Efecto Tóxico de metales: Plomo y sus compuestos
+       T56.1             Efecto Tóxico de metales: Mercurio y sus compuestos
+       T56.3             Efecto Tóxico de metales: Cadmio y sus compuestos
+       T57.0             Efecto Tóxico de metales: Arsénico y sus compuestos
+       R78.7             Hallazgos de niveles anormales de metales pesados en la sangre
+       R82.6             Niveles anormales en la orina de sustancias de origen principalmente no medicinal
+                         (para el caso de resultados de dosaje de metales pesados en orina, por encima del
+                         valor de la referencia).
+       99199.11          Administración de tratamiento a criterio médico
+       99242             Interconsulta ambulatoria para la evaluación y manejo de un paciente nuevo o
+                         continuador para diagnóstico
+       99214             Evaluación Médica
+       99201             Consulta ambulatoria para la evaluación de un paciente nivel de atención I
+       99202             Consulta ambulatoria para la evaluación de un paciente nivel de atención II
+       99203             Consulta ambulatoria para la evaluación de un paciente nivel de atención III
+       99401.37          Consejería preventiva en factores de riesgo por exposición a metales pesados y otras
+                         sustancias químicas
+       99700             Derivación/Referencia a ES con capacidad resolutiva
+       99701             Contrarreferencia
+       U262              Evaluación y Entrega de resultados de Diagnóstico
+
+
+
+
+                                                                                                               7
+        Para el de registro en LAB, en el caso de Hallazgo de niveles anormales en sangre según tipo de metal pesado
+        al que está expuesto, se considerará:
+                  Pb = 1
+                  Hg = 2
+                  As = 3
+                  Cd = 4
+
+VIII.         INSTRUCCIONES GENERALES PARA EL REGISTRO Y CODIFICACIÓN DE LAS ACTIVIDADES DURANTE
+              LA ATENCIÓN INTEGRAL DE PERSONAS EXPUESTAS A METALES PESADOS Y OTRAS SUSTANCIAS
+              QUÍMICAS
+      8.1. El registro de los Datos Generales y Datos Específicos se realizan de acuerdo a la “Guía de Uso y Registro
+           Diario de Atención y Otras Actividades de Salud en la Hoja HIS Minsa”, 2020.
+      8.2. Los ítems Diagnóstico/Motivo de consulta/Actividad de Salud, Tipo de diagnóstico y Lab presentan
+           algunas particularidades que se detallarán a lo largo del documento.
+      8.3. Si son más de tres (03) los diagnósticos y/o actividades los que se van a registrar, continúe en los
+           siguientes registros y trace una línea oblicua entre los casilleros de los ítems Día y Servicio y utilice los
+           siguientes ítems del campo “diagnósticos y/o actividades” hasta un máximo de 20 actividades para
+           completar el registro de la atención.
+IX.       INSTRUCCIONES PARA EL REGISTRO DE LAS ATENCIONES EN EL FORMULARIO HIS EN LAS ZONAS
+          CONSIDERADAS DE RIESGO POR CONTAMINACIÓN AMBIENTAL DONDE SE EVIDENCIA EXPOSICIÓN
+          A ALGÚN METAL PESADO, METALOIDES Y OTRAS SUSTANCIAS QUÍMICAS
+        9.1. ATENCIÓN INTEGRAL DE SALUD DE PERSONA EXPUESTA A METALES PESADOS Y OTRAS SUSTANCIAS
+             QUÍMICAS, POR CURSO DE VIDA, EN ZONAS DE RIESGO DETERMINADAS POR VIGILANCIA SANITARIA O
+             VIGILANCIA EPIDEMIOLÓGICA (El paciente no presenta signos y síntomas asociados a metales pesados,
+             metaloides y otras sustancias químicas)
+        9.1.1. En el ítem Diagnóstico/Motivo de consulta/Actividad de Salud:
+          o       En el primer/primeros casillero, el registro y codificación HIS de las atenciones integrales de salud a
+                  personas expuestas a metales pesados y otras sustancias químicas, se realizará de acuerdo al Manual
+                  de Atención y Codificación de la atención en la consulta externa, según curso de vida, teniendo en
+                  cuenta los Manuales de Registro y Codificación correspondientes.
+          o       De requerirse, registrar en el casillero subsiguiente: Interconsulta ambulatoria, según criterio del
+                  personal de salud que realiza la atención.
+          o       En el último casillero registrar: Exposición a otros contaminantes del ambiente físico, teniendo en
+                  cuenta que la persona reside en una zona con factores de riesgo a exposición de metales pesados,
+                  metaloides y otras sustancias químicas, determinados por vigilancia sanitaria y vigilancia
+                  epidemiológica.
+        9.1.2. En el Ítem: Tipo de Diagnóstico:
+          o       En el 1.° casillero (y casilleros subsecuentes) marcar “P” únicamente cuando no existe certeza del
+                  diagnóstico y/o éste requiere de algún resultado de laboratorio, “D” cuando se tiene certeza del
+                  diagnóstico por evaluación clínica y/o por exámenes auxiliares y debe ser escrito una sola vez para el
+                  mismo evento (episodio de la enfermedad cuando se trate de enfermedades agudas y solo una vez
+                  para el caso de enfermedades crónicas) en un mismo paciente. Marcar “R” cuando el paciente vuelve
+                  a ser atendido para el seguimiento de un mismo episodio o evento de la enfermedad en cualquier
+                  otra oportunidad posterior a aquella en la que se estableció el diagnóstico definitivo; dependiendo de
+                  los criterios de la etapa de vida y los diagnósticos que se registren, de acuerdo a la etapa de vida o
+                  tipo de atención.
+          o       En el último casillero, en el cual se ha registrado Exposición a otros contaminantes del ambiente físico,
+                  marcar “D” (diagnóstico definitivo), tomando en cuenta los criterios de factores de riesgo a exposición
+                  a metales pesados y otras sustancias químicas, resultado de la vigilancia sanitaria y/o vigilancia
+                  epidemiológica.
+
+
+                                                                                                                        8
+             9.1.3. En el Ítem: Valor de LAB:
+               o          En el caso de atención a gestantes, en el LAB registrar “G” al lado del diagnóstico Exposición a otros
+                          contaminantes del ambiente físico (Z585).
+    Caso: Gestante que reside en una zona con factores de riesgo a exposición de metales pesados, metaloides y otras
+    sustancias químicas, determinados por vigilancia sanitaria y vigilancia epidemiológica; que acude a su control de
+    embarazo de riesgo, a quien le diagnostican Adecuada ganancia de peso, recibe consejería nutricional de acuerdo
+    a su edad gestacional.
+      7           8            9            11           13          14           15                16        17    18                          19                                 20                21            22
+                                        DISTRITO DE
+                D.N.I.      FINA NC.                                                                         ESTA - SER-        DIA GNÓSTICO M OTIVO DE CONSULTA                TIP O DE                        CÓDIGO
+                                       P ROCEDENCIA
+                                                                           P ERIM ETRO         EVA LUA CION                                                                                    VA LOR DE LA B
+             HISTORIA
+     DIA                      10            12          EDA D       SEXO   CEFA LICO Y     A NTROP OM ETRICA B LEC VICIO             Y/O A CTIVIDA D DE SA LUD          DIA GNÓSTICO                            CIE / CP T
+              CLINICA
+                                                                           A B DOM INA L      HEM OGLOB INA
+             GESTA NTE/                  CENTRO
+                            ETNIA                                                                                                                                           P       D      R    1º    2º   3º
+             P UERP ERA                 P OB LA DO
+
+    NOMBRES Y APELLIDOS PACIENTE:                     (*)FECHA DE NACIMIENTO: _____/____/______                    FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                                          FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                                                                                Supervi s i ón del Emba ra zo con
+                                                                A                           PESO               N     N     1.                                               P      D       R    3                Z3592
+                               2         OROYA                       M     PC                                                   ri es go de 16 s ema na s
+             46724120
+                                                       28     M                             TALLA              C     C     2. Adecua da ga na nci a de pes o                P      D       R                      Z006
+
+                              54                                     F     Pa b
+               1234                                            D                             Hb                R     R     3. Cons ejería nutri ci ona l                    P      D       R    3                99403
+
+    NOMBRES Y APELLIDOS PACIENTE:                     (*)FECHA DE NACIMIENTO: _____/____/______                    FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                                          FECHA DE ULTIMA REGLA: ____/____/______
+                                                                                                                              Expos i ci ón a otros
+                                                                A                           PESO               N     N     1. contami na ntes del a mbi ente                P      D       R    G                 Z585
+                                                                     M     PC                                                 fís i co
+
+                                                              M                             TALLA              C     C     2.                                               P      D       R
+
+                                                                     F     Pa b
+                                                               D                             Hb                R     R     3.                                               P      D       R
+
+
+
+
+    Caso: Adolescente que reside en una zona con factores de riesgo a exposición de metales pesados, metaloides y
+    otras sustancias químicas, determinados por vigilancia sanitaria y vigilancia epidemiológica; que acude a su control
+    de Estado de Desarrollo del Adolescente, a quien le diagnostican Talla baja, por lo cual le realizan una
+    interconsulta.
+2    AÑO 3      MES        4
+                          NOMBRE DE ESTABLECIMIENTO DE SALUD (IPRESS)                  5                  UNIDAD PRODUCTORA DE SERVICIOS (UPSS)                         6        NOMBRE DEL RESPONSABLE DE LA ATENCION
+
+                                                                                                                                                                        DNI
+
+      7           8            9            11           13          14           15                16        17    18                          19                                 20                21            22
+                                        DISTRITO DE
+               D.N.I.       FINANC.                                                                          ESTA- SER-         DIAGNÓSTICO MOTIVO DE CONSULTA                  TIPO DE                         CÓDIGO
+                                       PROCEDENCIA
+                                                                           PERIMETRO         EVALUACION                                                                                        VALOR DE LAB
+              HISTORIA
+     DIA                      10            12          EDAD        SEXO   CEFALICO Y      ANTROPOMETRICA     BLEC VICIO             Y/O ACTIVIDAD DE SALUD             DIAGNÓSTICO                             CIE / CPT
+              CLINICA
+                                                                           ABDOMINAL        HEMOGLOBINA
+             GESTANTE/                    CENTRO
+                             ETNIA                                                                                                                                          P       D      R   1º     2º   3º
+             PUERPERA                    POBLADO
+    NOMBRES Y APELLIDOS PACIENTE:                     (*)FECHA DE NACIMIENTO: _____/____/______                    FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                                          FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                                                                                Exa men del es tado de des a rrol l o
+                                                                A                           PESO               N     N     1.                                               P      D       R    3                 Z003
+                               2         OROYA                       M     PC                                                   del a dol es cente
+             46724120
+                                                              M                             TALLA              C     C     2. Ta l l a ba ja                                P      D       R                      E45X
+                                                       16
+                                                                                                                                Intercons ul ta a mbul a tori a pa ra
+                              54                                     F     Pa b                                                 l a eva l ua ci ón y ma nejo de un
+               1234                                            D                             Hb                R     R     3.                                               P      D       R    3                99242
+                                                                                                                                pa ci ente nuevo o continua dor,
+                                                                                                                                pa ra di a gnós tico
+
+    NOMBRES Y APELLIDOS PACIENTE:                     (*)FECHA DE NACIMIENTO: _____/____/______                    FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                                          FECHA DE ULTIMA REGLA: ____/____/______
+                                                                                                                              Expos i ci ón a otros
+                                                                A                           PESO               N     N     1. contami na ntes del a mbi ente                P      D       R                      Z585
+                                                                     M     PC                                                 fís i co
+
+                                                              M                             TALLA              C     C     2.                                               P      D       R
+                                                                     F     Pa b
+                                                               D                             Hb                R     R     3.                                               P      D       R
+
+
+
+
+    Caso: Niño de 2 años de edad, que reside en una zona con factores de riesgo a exposición de metales pesados,
+    metaloides y otras sustancias químicas, determinados por vigilancia sanitaria y vigilancia epidemiológica; que
+    acude a su control de Crecimiento y Desarrollo (menor de 1 a 4 años) que presenta retardo en el desarrollo.
+
+
+
+
+                                                                                                                                                                                                                             9
+2    AÑO 3       MES        4
+                           NOMBRE DE ESTABLECIMIENTO DE SALUD (IPRESS)                  5                 UNIDAD PRODUCTORA DE SERVICIOS (UPSS)                        6         NOMBRE DEL RESPONSABLE DE LA ATENCION
+
+                                                                                                                                                                       DNI
+
+      7            8            9            11             13        14           15                16        17    18                          19                               20                21             22
+                                         DISTRITO DE
+                 D.N.I.      FINA NC.                                                                         ESTA - SER-        DIA GNÓSTICO M OTIVO DE CONSULTA              TIP O DE                         CÓDIGO
+                                        P ROCEDENCIA
+                                                                            P ERIM ETRO         EVA LUA CION                                                                                  VA LOR DE LA B
+              HISTORIA
+     DIA                       10            12          EDA D       SEXO   CEFA LICO Y     A NTROP OM ETRICA B LEC VICIO             Y/O A CTIVIDA D DE SA LUD        DIA GNÓSTICO                             CIE / CP T
+               CLINICA
+                                                                            A B DOM INA L      HEM OGLOB INA
+              GESTA NTE/                  CENTRO
+                             ETNIA                                                                                                                                         P       D      R    1º    2º    3º
+              P UERP ERA                 P OB LA DO
+
+    NOMBRES Y APELLIDOS PACIENTE:                      (*)FECHA DE NACIMIENTO: _____/____/______                    FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                                           FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                                                                                  Control de Sa l ud de rutina del
+                                                                 A                           PESO               N     N     1.                                             P      D       R                      Z00.1
+                                2           OROYA                     M     PC                                                    ni ño
+              46724120
+                                                        2        M                           TALLA              C     C     2. AIS CRED menor de 1 a 4 a ños               P      D       R    1                 99381
+
+                               54                                     F     Pa b
+                1234                                             D                            Hb                R     R     3. Ta mi za je de des a rrol l o               P      D       R                      96110
+
+    NOMBRES Y APELLIDOS PACIENTE:                      (*)FECHA DE NACIMIENTO: _____/____/______                    FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                                           FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                 A                           PESO               N     N     1. Retardo del des a rrol l o                  P      D       R   MOT   LEN          R62.0
+                                                                      M     PC
+                                                                                                                               Intercons ul ta a mbul a tori a pa ra
+                                                                 M                           TALLA              C     C     2. l a eva l ua ci on y ma nejo de un          P      D       R                      99242
+                                                                                                                               pa ci ente nuevo o continua dor.
+                                                                      F     Pa b                                               Expos i ci ón a otros
+                                                                 D                            Hb                R     R     3. contami na ntes del a mbi ente              P      D       R                       Z585
+                                                                                                                               fís i co
+
+
+             9.2. ATENCIÓN ESPECIALIZADA DE SALUD DE PERSONA EXPUESTA A METALES PESADOS Y OTRAS SUSTANCIAS
+                  QUÍMICAS (POR CURSO DE VIDA) CON SIGNOS Y SÍNTOMAS POR EXPOSICIÓN A METALES PESADOS,
+                  METALOIDES Y OTRAS SUSTANCIAS QUÍMICAS
+                    Para el registro de las Actividades, intervenciones y procedimientos que se brinda a la persona que
+                    presenta signos y síntomas por exposición a metales pesados, metaloides y otras sustancias químicas, y
+                    tiene resultados de toma de muestras biológicas por encima del valor de referencia para metales pesado,
+                    metaloides y otras sustancias químicas, se realiza en el II o III nivel de atención, de acuerdo a la
+                    especialidad que requiera:
+                    9.2.1.              En el ítem Diagnóstico/Motivo de consulta/Actividad de Salud:
+                                        o         En el 1.° casillero registrar uno de los siguientes diagnósticos, según corresponda el tipo de
+                                                  metal pesado al cual, por resultados de toma de muestra biológica, está expuesto la
+                                                  persona:
+                                                       Efecto Tóxico de Metales: Plomo y sus compuestos
+                                                       Efecto Tóxico de Metales: Mercurio y sus compuestos
+                                                       Efecto Tóxico de Metales: Arsénico y sus compuestos
+                                                       Efecto Tóxico de Metales: Cadmio y sus compuestos
+                    o         En el 2.° casillero anotar otro tipo de diagnóstico relacionado a los efectos en la salud por exposición
+                              a metales pesados, si hubiera, con el código que corresponda de acuerdo a la especialidad.
+                    9.2.2.              En el Ítem: Tipo de Diagnóstico:
+                                        o         En el 1.° casillero (y casilleros subsecuentes) marcar “D” si es la primera consulta y “R” si es
+                                                  reevaluación.
+                                        o         En el siguiente casillero marcar “D” si es la primera consulta y “R” si es reevaluación.
+              Caso: Persona expuesta a vapores de mercurio en la minería aurífera artesanal y de pequeña escala (MAPE)
+              acude a establecimiento de salud de II o III nivel donde haya médico oftalmólogo, por presentar irritación y
+              sensibilización en los ojos (ojo rojo).
+
+
+
+
+                                                                                                                                                                                                                             10
+2    AÑO 3     MES        4
+                         NOMBRE DE ESTABLECIMIENTO DE SALUD (IPRESS)                    5                UNIDAD PRODUCTORA DE SERVICIOS (UPSS)                    6        NOMBRE DEL RESPONSABLE DE LA ATENCION
+
+                                                                                                                                                                  DNI
+
+      7          8              9             11           13         14           15               16        17    18                        19                            20               21            22
+                                          DISTRITO DE
+               D.N.I.        FINANC.                                                                         ESTA- SER-        DIAGNÓSTICO MOTIVO DE CONSULTA             TIPO DE                        CÓDIGO
+                                         PROCEDENCIA                        PERIMETRO         EVALUACION                                                                                VALOR DE LAB
+             HISTORIA
+     DIA                       10            12           EDAD       SEXO   CEFALICO Y      ANTROPOMETRICA   BLEC VICIO             Y/O ACTIVIDAD DE SALUD        DIAGNÓSTICO                            CIE / CPT
+              CLINICA
+             GESTANTE/                     CENTRO                           ABDOMINAL        HEMOGLOBINA
+                             ETNIA                                                                                                                                    P      D      R   1º   2º   3º
+             PUERPERA                     POBLADO
+    NOMBRES Y APELLIDOS PACIENTE:                       (*)FECHA DE NACIMIENTO: _____/____/______                  FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                                          FECHA DE ULTIMA REGLA: ____/____/______
+                                                                                                                               Efecto Tóxi co de metal es :
+                                                                 A                          PESO              N     N     1.                                          P      D      R                     T561
+                                                                                                                               Mercuri o y s us compues tos
+                                2          OROYA                      M     PC
+             46724120
+                                                         28     M                           TALLA             C     C     2. Conjuntivi tis no es peci fi ca da       P      D      R                     H10.9
+
+
+                               54                                     F     Pa b
+               1234                                              D                           Hb               R     R     3.                                          P      D      R
+
+
+
+          Nótese que el tipo de diagnóstico de exposición a mercurio es definitivo, pues se conoce el resultado de
+          dosaje de mercurio en muestra biológica (orina); y se han confirmado los factores de riesgo de exposición
+          a este metal pesado a través de la vigilancia sanitaria y vigilancia epidemiológica.
+    Caso: Persona con diagnóstico presuntivo de efectos tóxicos por exposición a metales pesados (sin resultado
+    de toma de muestra biológica –Dosaje, o no se le realizó dosaje), pero presenta signos y síntomas asociados
+    a exposición a metales pesados, metaloides y otras sustancias químicas:
+          9.2.3.         En el ítem Diagnóstico/Motivo de consulta/Actividad de Salud:
+                         o           En el 1.° casillero registrar:
+                                     Exposición a otros contaminantes del ambiente físico, teniendo en cuenta que la persona
+                                     reside en una zona con factores de riesgo a exposición de metales pesados, metaloides y
+                                     otras sustancias químicas, determinados por vigilancia sanitaria y vigilancia epidemiológica;
+                                     o,
+                                     Exposición ocupacional a factor de riesgo no especificado, teniendo en cuenta que la
+                                     persona labora en centros de metalurgia primaria o secundaria, en la minería extractiva
+                                     formal o informal, minería artesanal y de pequeña escala, industria de fabricación de
+                                     acumuladores eléctricos, entre otros. Así como las actividades de reciclaje en la cual se
+                                     extrae secundariamente plomo a partir de baterías usadas.
+                         o           En el 2.° casillero registrar uno de los siguientes diagnósticos, según corresponda el tipo de
+                                     metal pesado al cual está expuesto la persona:
+                                                 Efecto Tóxico de Metales: Plomo y sus compuestos
+                                                 Efecto Tóxico de Metales: Mercurio y sus compuestos
+                                                 Efecto Tóxico de Metales: Arsénico y sus compuestos
+                                                 Efecto Tóxico de Metales: Cadmio y sus compuestos
+                         o           En el 3.° casillero o casilleros subsecuentes, registrar otro tipo de diagnóstico relacionado
+                                     a los efectos en la salud por exposición a metales pesados, con el código que corresponda.
+          9.2.4.         En el Ítem: Tipo de Diagnóstico:
+                         o           En el 1.° casillero, en el cual se ha registrado Exposición a otros contaminantes del ambiente
+                                     físico, o Exposición ocupacional a factor de riesgo no especificado, marcar “D” (diagnóstico
+                                     definitivo), tomando en cuenta los criterios de factores de riesgo a exposición a metales
+                                     pesados y otras sustancias químicas, resultado de la vigilancia sanitaria y/o vigilancia
+                                     epidemiológica.
+                         o           En el 2.° casillero, marcar “P” porque no existe certeza de que el paciente se encuentre con
+                                     efectos tóxicos por metales pesados, metaloides y otras sustancias químicas.
+                         o           En el 3.° casillero (y casilleros subsecuentes), marcar “P” únicamente cuando no existe
+                                     certeza del diagnóstico y/o éste requiere de algún resultado de laboratorio (ej. Muestra
+                                     biológica para determinar exposición a metales pesados), “D” cuando se tiene certeza del
+                                     diagnóstico por evaluación clínica y/o por exámenes auxiliares (ej. Muestra biológica para
+                                     determinar exposición a metales pesados) y debe ser escrito una sola vez para el mismo
+                                     evento (episodio de la enfermedad cuando se trate de enfermedades agudas y solo una
+
+                                                                                                                                                                                                                  11
+                              vez para el caso de enfermedades crónicas) en un mismo paciente, y “R” cuando el
+                              paciente vuelve a ser atendido para el seguimiento de un mismo episodio o evento de la
+                              enfermedad en cualquier otra oportunidad posterior a aquella en que se estableció el
+                              diagnóstico definitivo; dependiendo de los criterios de la etapa de vida y los diagnósticos
+                              que se registren, de acuerdo a la etapa de vida o tipo de atención.
+ Ejemplo: Persona expuesta a plomo que habita en zona cercana donde se realiza reciclaje de baterías, acude
+ a establecimiento de salud por presentar dolores de cabeza y mareos.
+   7          8          9           11           13         14           15            16        17    18                         19                             20               21          22
+                                 DISTRITO DE
+            D.N.I.    FINANC.                                                                    ESTA- SER-        DIAGNÓSTICO MOTIVO DE CONSULTA               TIPO DE                      CÓDIGO
+                                PROCEDENCIA
+                                                                   PERIMETRO      EVALUACION                                                                                  VALOR DE LAB
+          HISTORIA
+  DIA                   10          12           EDAD       SEXO   CEFALICO Y   ANTROPOMETRICA   BLEC VICIO             Y/O ACTIVIDAD DE SALUD              DIAGNÓSTICO                      CIE / CPT
+          CLINICA
+                                                                   ABDOMINAL     HEMOGLOBINA
+          GESTANTE/               CENTRO
+                      ETNIA                                                                                                                                 P      D      R   1º   2º   3º
+          PUERPERA               POBLADO
+ NOMBRES Y APELLIDOS PACIENTE:                 (*)FECHA DE NACIMIENTO: _____/____/______               FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                              FECHA DE ULTIMA REGLA: ____/____/______
+                                                                                                                 Expos i ci ón a otros
+                                                        A                       PESO              N     N     1. contami na ntes del a mbi ente             P      D      R                   Z58.5
+                                                                                                                 fís i co
+                         2        OROYA                      M     PC
+          46724120
+                                                                                                                   Efecto tóxi co de metal es : Pl omo y
+                                                28     M                        TALLA             C     C     2.                                            P      D      R                   T560
+                                                                                                                   s us compues tos
+
+
+                        54                                   F     Pa b
+                                                                                                                   Hi pertens i ón s ecunda ri a , no
+            1234                                        D                        Hb               R     R     3.                                            P      D      R                   I15.9
+                                                                                                                   es peci fi ca da
+
+
+
+ Nótese que el tipo de diagnóstico de exposición al plomo es presuntivo (no se conoce o no se cuenta con
+ los resultados de dosaje de plomo en muestra biológica); y se han confirmado los factores de riesgo de
+ exposición a este metal pesado a través de la vigilancia sanitaria y vigilancia epidemiológica.
+ Ejemplo: Persona expuesta a mercurio que desarrolla labores en minería artesanal y de pequeña escala,
+ acude a establecimiento de salud por presentar dolores de cabeza y mareos.
+   7          8          9           11           13         14           15            16        17    18                         19                             20               21          22
+                                 DISTRITO DE
+            D.N.I.    FINANC.                                                                    ESTA- SER-        DIAGNÓSTICO MOTIVO DE CONSULTA               TIPO DE                      CÓDIGO
+                                PROCEDENCIA
+                                                                   PERIMETRO      EVALUACION                                                                                  VALOR DE LAB
+          HISTORIA
+  DIA                   10          12           EDAD       SEXO   CEFALICO Y   ANTROPOMETRICA   BLEC VICIO             Y/O ACTIVIDAD DE SALUD              DIAGNÓSTICO                      CIE / CPT
+          CLINICA
+                                                                   ABDOMINAL     HEMOGLOBINA
+          GESTANTE/               CENTRO
+                      ETNIA                                                                                                                                 P      D      R   1º   2º   3º
+          PUERPERA               POBLADO
+ NOMBRES Y APELLIDOS PACIENTE:                 (*)FECHA DE NACIMIENTO: _____/____/______               FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                              FECHA DE ULTIMA REGLA: ____/____/______
+                                                                                                                   Expos i ci ón ocupa ci ona l a fa ctor
+                                                        A                       PESO              N     N     1.                                            P      D      R                   Z579
+                                                                                                                   de ri es go no es peci fi ca do
+                         2        OROYA                      M     PC
+          46724120
+                                                                                                                   Efecto tóxi co de metal es :
+                                                28     M                        TALLA             C     C     2.                                            P      D      R                   T561
+                                                                                                                   Mercuri o y s us compues tos
+
+
+                        54                                   F     Pa b
+                                                                                                                   Hi pertens i ón s ecunda ri a , no
+            1234                                        D                        Hb               R     R     3.                                            P      D      R                   I15.9
+                                                                                                                   es peci fi ca da
+
+
+
+ Nótese que el tipo de diagnóstico de exposición al mercurio es presuntivo (no se conoce o no se cuenta con
+ los resultados de dosaje de mercurio en muestra biológica); y se han confirmado los factores de riesgo de
+ exposición a este metal pesado a través de la vigilancia sanitaria y vigilancia epidemiológica.
+9.3. ATENCIÓN DE SALUD AMBULATORIA POR MÉDICO CON SIGNOS Y SÍNTOMAS POR EXPOSICIÓN A METALES
+     PESADOS, METALOIDES Y OTRAS SUSTANCIAS QUÍMICAS
+       En el caso que la persona (gestante, recién nacido, niño/niña, adolescente, joven, adulto o adulto mayor)
+       acuda a la consulta médica ambulatoria, en zona con factores de riesgo a exposición a metales pesados,
+       metaloides y otras sustancias químicas determinadas por vigilancia sanitaria o vigilancia epidemiológica.
+       Durante la consulta, el médico que realiza la atención de salud busca síntomas o signos asociados a
+       exposición a metales pesados y otras sustancias químicas.
+
+
+       9.3.1. En el ítem: Diagnóstico/Motivo de Consulta y/o Actividad de Salud:
+              o     En el 1.° casillero registrar, según corresponda:
+                         -      Evaluación Médica (corresponde a consulta ambulatoria por médico).
+                         -      Consulta ambulatoria para la evaluación de un paciente nuevo en el nivel de atención I
+                                (corresponde a consulta ambulatoria por médico o consulta ambulatoria por médico(a)
+                                especialista en pediatría, medicina interna, neurología, dermatología, hematología, entre
+                                otras).
+
+                                                                                                                                                                                                      12
+                                           -     Consulta ambulatoria para la evaluación de un paciente nuevo en el nivel de atención II
+                                                 (corresponde a consulta ambulatoria por médico(a) especialista en pediatría, medicina
+                                                 interna, neurología, dermatología, hematología, entre otras).
+                                           -     Consulta ambulatoria para la evaluación de un paciente nuevo en el nivel de atención III
+                                                 (corresponde a consulta ambulatoria por médico(a) especialista en pediatría, medicina
+                                                 interna, neurología, dermatología, hematología, entre otras).
+                                  o        En el 2.° casillero, de requerirse, registrar: El diagnóstico que corresponda (registrar código
+                                           correspondiente al diagnóstico emitido por el médico tratante) o Interconsulta ambulatoria
+                                           para la evaluación y manejo de un paciente nuevo o continuador para diagnóstico.
+                                  o        En el 3.° casillero, si la atención de salud es realizada a través de los servicios de telemedicina;
+                                           ésta se registra de acuerdo a lo señalado en el Manual de Registro y Codificación de
+                                           Actividades en Telemedicina.
+                                  o        En el último casillero o casillero subsiguiente registrar:
+                                           Exposición a otros contaminantes del ambiente físico;
+                                           o, Exposición ocupacional a factor de riesgo no especificado.
+                  9.3.2. En el Ítem: Tipo de Diagnóstico:
+                                  o        En el 1.° casillero (y casilleros subsecuentes) marcar “P” únicamente cuando no existe certeza
+                                           del diagnóstico y/o éste requiere de algún resultado de laboratorio, “D” cuando se tiene
+                                           certeza del diagnóstico por evaluación clínica y/o por exámenes auxiliares y debe ser escrito
+                                           una sola vez para el mismo evento (episodio de la enfermedad cuando se trate de
+                                           enfermedades agudas y solo una vez para el caso de enfermedades crónicas) en un mismo
+                                           paciente, y “R” cuando el paciente vuelve a ser atendido para el seguimiento de un mismo
+                                           episodio o evento de la enfermedad en cualquier otra oportunidad posterior a aquella en
+                                           que se estableció el diagnóstico definitivo; dependiendo de los criterios de la etapa de vida
+                                           y los diagnósticos que se registren, de acuerdo a la etapa de vida o tipo de atención.
+                                  o        En el último casillero, en el cual se ha registrado Exposición a otros contaminantes del
+                                           ambiente físico o Exposición ocupacional a factor de riesgo no especificado, marcar “D”
+                                           (diagnóstico definitivo), tomando en cuenta los criterios de factores de riesgo a exposición a
+                                           metales pesados y otras sustancias químicas, resultado de la vigilancia sanitaria y/o vigilancia
+                                           epidemiológica.
+                                           Ej. por Exposición a otros contaminantes del ambiente físico:
+2    AÑO 3     MES        4
+                         NOMBRE DE ESTABLECIMIENTO DE SALUD (IPRESS)                 5                UNIDAD PRODUCTORA DE SERVICIOS (UPSS)                         6        NOMBRE DEL RESPONSABLE DE LA ATENCION
+                                                                                                                                                                    DNI
+      7          8            9            11           13         14           15               16        17    18                         19                                20               21            22
+                                       DISTRITO DE
+               D.N.I.      FINANC.                                                                        ESTA- SER-        DIAGNÓSTICO MOTIVO DE CONSULTA                  TIPO DE                        CÓDIGO
+                                      PROCEDENCIA
+                                                                         PERIMETRO         EVALUACION                                                                                     VALOR DE LAB
+             HISTORIA
+     DIA                     10           12           EDAD       SEXO   CEFALICO Y      ANTROPOMETRICA   BLEC VICIO             Y/O ACTIVIDAD DE SALUD             DIAGNÓSTICO                            CIE / CPT
+              CLINICA
+                                                                         ABDOMINAL        HEMOGLOBINA
+             GESTANTE/                  CENTRO
+                            ETNIA                                                                                                                                       P      D      R   1º   2º   3º
+             PUERPERA                  POBLADO
+    NOMBRES Y APELLIDOS PACIENTE:                    (*)FECHA DE NACIMIENTO: _____/____/______                  FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                                       FECHA DE ULTIMA REGLA: ____/____/______
+                                                                                                                          Cons ul ta a mbul a tori a pa ra l a
+                                                              A                          PESO              N     N     1. eva l ua ci ón de un pa ci ente nuevo         P      D      R                    99202
+                              2         OROYA                      M     PC                                               ni vel de a tenci ón II
+             46724120                                                                                                       Intercons ul ta a mbul a tori a pa ra
+                                                      28                                                                    l a eva l ua ci ón y ma nejo de un
+                                                             M                           TALLA             C     C     2.                                               P      D      R                    99242
+                                                                                                                            pa ci ente nuevo o continua dor,
+                                                                                                                            pa ra di a gnós tico
+                             54                                    F     Pa b
+               1234                                           D                           Hb               R     R     3. Tel econs ul ta en Li nea                     P      D      R                   99499.01
+
+    NOMBRES Y APELLIDOS PACIENTE:                    (*)FECHA DE NACIMIENTO: _____/____/______                  FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                                       FECHA DE ULTIMA REGLA: ____/____/______
+                                                                                                                        Expos i ci ón a otros
+                                                              A                          PESO              N      N 1. contami na ntes del a mbi ente    P   D   R                       Z585
+                                                                   M     PC
+                                                                                                                        fís i co
+                                                             M                           TALLA             C     C     2.                                               P      D      R
+                                                                   F     Pa b
+                                                              D                           Hb               R     R     3.                                               P      D      R
+
+
+
+
+                                                                                                                                                                                                                       13
+2    AÑO 3     MES        4
+                         NOMBRE DE ESTABLECIMIENTO DE SALUD (IPRESS)                   5                 UNIDAD PRODUCTORA DE SERVICIOS (UPSS)                             6        NOMBRE DEL RESPONSABLE DE LA ATENCION
+                                                                                                                                                                           DNI
+      7          8            9            11              13        14           15                16        17     18                            19                                20               21             22
+                                       DISTRITO DE
+               D.N.I.      FINANC.                                                                           ESTA- SER-           DIAGNÓSTICO MOTIVO DE CONSULTA                   TIPO DE                         CÓDIGO
+                                      PROCEDENCIA
+                                                                            PERIMETRO        EVALUACION                                                                                          VALOR DE LAB
+             HISTORIA
+     DIA                     10            12          EDAD         SEXO    CEFALICO Y     ANTROPOMETRICA    BLEC VICIO                Y/O ACTIVIDAD DE SALUD              DIAGNÓSTICO                            CIE / CPT
+              CLINICA
+                                                                            ABDOMINAL       HEMOGLOBINA
+             GESTANTE/                   CENTRO
+                            ETNIA                                                                                                                                              P      D      R   1º   2º    3º
+             PUERPERA                   POBLADO
+    NOMBRES Y APELLIDOS PACIENTE:                    (*)FECHA DE NACIMIENTO: _____/____/______                     FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                                        FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                A                           PESO               N     N       1. Evaluación Médica                              P      D      R                     99214
+                              2                                      M      PC
+             46724120
+                                                      28        M                           TALLA              C        C    2. Enfermedad de Bowen                            P      D      R                      D04
+
+                             54                                       F    Pa b                                                    Exposición a otros contaminantes
+               1234                                             D                            Hb                R     R       3.                                                P      D      R                      Z585
+                                                                                                                                   del ambiente físico
+
+
+
+
+    Ej. por Exposición ocupacional a factor de riesgo no identificado:
+2    AÑO 3     MES        4
+                         NOMBRE DE ESTABLECIMIENTO DE SALUD (IPRESS)                   5                 UNIDAD PRODUCTORA DE SERVICIOS (UPSS)                             6         NOMBRE DEL RESPONSABLE DE LA ATENCION
+
+                                                                                                                                                                           DNI
+
+      7          8            9            11           13           14           15               16        17     18                            19                                  20              21             22
+                                       DISTRITO DE
+               D.N.I.      FINANC.                                                                          ESTA- SER-            DIAGNÓSTICO MOTIVO DE CONSULTA                   TIPO DE                         CÓDIGO
+                                      PROCEDENCIA
+                                                                           PERIMETRO         EVALUACION                                                                                          VALOR DE LAB
+             HISTORIA
+     DIA                     10           12           EDAD         SEXO   CEFALICO Y      ANTROPOMETRICA   BLEC VICIO                 Y/O ACTIVIDAD DE SALUD                  DIAGNÓSTICO                         CIE / CPT
+             CLINICA
+                                                                           ABDOMINAL        HEMOGLOBINA
+             GESTANTE/                  CENTRO
+                            ETNIA                                                                                                                                              P       D     R   1º    2º   3º
+             PUERPERA                  POBLADO
+    NOMBRES Y APELLIDOS PACIENTE:                    (*)FECHA DE NACIMIENTO: _____/____/______                     FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                                          FECHA DE ULTIMA REGLA: ____/____/______
+                                                                                                                               Cons ul ta a mbul a tori a pa ra l a
+                                                                A                          PESO               N     N       1. eva l ua ci ón de un pa ci ente nuevo           P      D      R                     99202
+                              2         OROYA                        M     PC                                                  ni vel de a tenci ón II
+             46724120                                                                                                          Intercons ul ta a mbul a tori a pa ra
+                                                                                                                               l a eva l ua ci ón y ma nejo de un
+                                                      28        M                          TALLA              C     C       2.                                                 P      D      R                     99242
+                                                                                                                               pa ci ente nuevo o continua dor,
+                                                                                                                               pa ra di a gnós tico
+                             54                                      F     Pa b
+                                                                                                                                  Expos i ci ón ocupa ci ona l a fa ctor
+               1234                                             D                           Hb                R     R       3.                                                 P      D      R                      Z579
+                                                                                                                                  de ri es go no es peci fi ca do
+
+
+
+
+           9.4. TOMA DE MUESTRA BIOLÓGICA PARA DETERMINACIÓN (DOSAJE) DE METALES PESADOS, METALOIDES Y
+                OTRAS SUSTANCIAS QUÍMICAS
+                  En el caso que se requiera, por indicación médica, la Toma de Muestra biológica para la determinación
+                  (Dosaje) de metales pesados:
+                  9.4.1. En el Ítem: Diagnóstico / Motivo de Consulta y/o Actividad de Salud:
+                                  o        En el 1.° casillero registrar, según corresponda:
+                                           -      Evaluación Médica (corresponde a consulta ambulatoria por médico).
+                                           -      Consulta ambulatoria para la evaluación de un paciente nuevo en el nivel de atención I
+                                                  (corresponde a consulta ambulatoria por médico o consulta ambulatoria por médico(a)
+                                                  especialista en pediatría, medicina interna, neurología, dermatología, hematología, entre
+                                                  otras).
+                                  -     Consulta ambulatoria para la evaluación de un paciente nuevo en el nivel de atención II
+                                        (corresponde a consulta ambulatoria por médico(a) especialista en pediatría, medicina interna,
+                                        neurología, dermatología, hematología, entre otras).
+                                  -     Consulta ambulatoria para la evaluación de un paciente nuevo en el nivel de atención III
+                                        (corresponde a consulta ambulatoria por médico(a) especialista en pediatría, medicina interna,
+                                        neurología, dermatología, hematología, entre otras).
+                            o           En el 2.° casillero registrar: Dosaje de Arsénico / Dosaje de plomo / Dosaje de cadmio / Dosaje
+                                        de mercurio / o Dosaje de Metales pesados (arsénico, bario, berilio, bismuto, antimonio,
+                                        mercurio) en caso de otros metales pesados, según corresponda.
+                                        En el caso de realizar dos o más dosajes, estos se registran sucesivamente.
+                            o           En el 3.° casillero o casillero subsecuente registrar:
+                                        Exposición a otros contaminantes del ambiente físico;
+                                        o, Exposición ocupacional a factor de riesgo no especificado.
+
+
+
+
+                                                                                                                                                                                                                               14
+             9.4.2. En el Ítem: Tipo de Diagnóstico:
+                         o           En el 1.° casillero (y casilleros subsecuentes) marcar “P” únicamente cuando no existe certeza
+                                     del diagnóstico y/o éste requiere de algún resultado de laboratorio, “D” cuando se tiene certeza
+                                     del diagnóstico por evaluación clínica y/o por exámenes auxiliares y debe ser escrito una sola
+                                     vez para el mismo evento (episodio de la enfermedad cuando se trate de enfermedades agudas
+                                     y solo una vez para el caso de enfermedades crónicas) en un mismo paciente, y “R” cuando el
+                                     paciente vuelve a ser atendido para el seguimiento de un mismo episodio o evento de la
+                                     enfermedad en cualquier otra oportunidad posterior a aquella en que se estableció el
+                                     diagnóstico definitivo; dependiendo de los criterios de la etapa de vida y los diagnósticos que se
+                                     registren, de acuerdo a la etapa de vida o tipo de atención.
+                         o           Para este caso, en el 2.° casillero o casillero subsecuente que corresponda, para el Dosaje de
+                                     arsénico / plomo / cadmio / mercurio / u otros marcar “D”, en caso de que sea la primera toma
+                                     de muestra biológica para determinar metales pesados; o marcar “R” en caso de que el médico
+                                     tratante, como parte del seguimiento (dosaje de seguimiento), solicite una nueva muestra
+                                     biológica para determinar metales pesados.
+                         o           En el último casillero, en el cual se ha registrado Exposición a otros contaminantes del ambiente
+                                     físico, marcar “D” (diagnóstico definitivo), tomando en cuenta los criterios de factores de riesgo
+                                     a exposición a metales pesados y otras sustancias químicas, resultado de la vigilancia sanitaria
+                                     y/o vigilancia epidemiológica.
+    Ejemplos:
+2    AÑO 3      MES       4
+                         NOMBRE DE ESTABLECIMIENTO DE SALUD (IPRESS)                  5                UNIDAD PRODUCTORA DE SERVICIOS (UPSS)                  6        NOMBRE DEL RESPONSABLE DE LA ATENCION
+                                                                                                                                                              DNI
+      7          8            9           11           13           14           15               16        17    18                       19                           20               21            22
+                                      DISTRITO DE
+               D.N.I.      FINANC.                                                                         ESTA- SER-        DIAGNÓSTICO MOTIVO DE CONSULTA           TIPO DE                        CÓDIGO
+                                     PROCEDENCIA
+                                                                          PERIMETRO         EVALUACION                                                                              VALOR DE LAB
+              HISTORIA
+     DIA                     10          12           EDAD         SEXO   CEFALICO Y      ANTROPOMETRICA   BLEC VICIO            Y/O ACTIVIDAD DE SALUD       DIAGNÓSTICO                            CIE / CPT
+              CLINICA
+                                                                          ABDOMINAL        HEMOGLOBINA
+             GESTANTE/                 CENTRO
+                            ETNIA                                                                                                                                 P      D      R   1º   2º   3º
+             PUERPERA                 POBLADO
+    NOMBRES Y APELLIDOS PACIENTE:                   (*)FECHA DE NACIMIENTO: _____/____/______                    FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                                        FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                               A                          PESO              N     N     1. Eva l ua ci ón Médi ca                 P      D      R                    99214
+                              2                                     M     PC
+             46724120
+
+                                                     28        M                          TALLA             C     C     2. Dos a je de Ars éni co                 P      D      R                    82175
+
+
+                             54                                     F     Pa b                                             Expos i ci ón a otros
+               1234                                            D                           Hb               R     R     3. contami na ntes del a mbi ente         P      D      R                     Z58.5
+                                                                                                                           fís i co
+
+
+
+
+    Ejemplo: dosaje de dos o más metales pesados:
+2    AÑO 3      MES       4
+                         NOMBRE DE ESTABLECIMIENTO DE SALUD (IPRESS)                  5                UNIDAD PRODUCTORA DE SERVICIOS (UPSS)                  6        NOMBRE DEL RESPONSABLE DE LA ATENCION
+                                                                                                                                                              DNI
+      7          8            9           11              13        14           15               16        17    18                       19                           20               21             22
+                                      DISTRITO DE
+               D.N.I.      FINANC.                                                                         ESTA- SER-        DIAGNÓSTICO MOTIVO DE CONSULTA           TIPO DE                        CÓDIGO
+                                     PROCEDENCIA
+                                                                          PERIMETRO         EVALUACION                                                                              VALOR DE LAB
+              HISTORIA
+     DIA                     10          12           EDAD         SEXO   CEFALICO Y      ANTROPOMETRICA   BLEC VICIO            Y/O ACTIVIDAD DE SALUD       DIAGNÓSTICO                            CIE / CPT
+              CLINICA
+                                                                          ABDOMINAL        HEMOGLOBINA
+             GESTANTE/                 CENTRO
+                            ETNIA                                                                                                                                 P      D      R   1º   2º   3º
+             PUERPERA                 POBLADO
+    NOMBRES Y APELLIDOS PACIENTE:                   (*)FECHA DE NACIMIENTO: _____/____/______                    FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                                        FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                               A                          PESO              N     N     1. Eva l ua ci ón Médi ca                 P      D      R                    99214
+                              2                                     M     PC
+             46724120
+
+                                                     28        M                          TALLA             C     C     2. Dos a je de Ca dmi o                   P      D      R                    82300
+
+
+                             54                                     F     Pa b
+               1234                                            D                           Hb               R     R     3. Dosaje de Plomo                        P      D      R                    83655
+
+
+    NOMBRES Y APELLIDOS PACIENTE:                   (*)FECHA DE NACIMIENTO: _____/____/______                    FECHA ULTIMO RESULTADO DE Hb: _____/____/______FECHA DE ULTIMA REGLA: ____/____/______
+                                                                                                                         Expos i ci ón ocupa ci ona l a fa ctor
+                                                               A                           PESO             N      N 1.                                           P   D   R                       Z579
+                                                                    M     PC                                             de ri es go no es peci fi ca do
+                                                               M                          TALLA             C     C     2.                                        P      D      R
+                                                                    F     Pa b
+                                                               D                           Hb               R     R     3.                                        P      D      R
+
+
+
+
+    El registro del dosaje debe ser llenado por el responsable de la actividad en la región donde se realiza (personal
+    capacitado en toma de muestras biológicas para dosaje de metales pesados de la IPRESS o del INS - CENSOPAS).
+
+
+
+                                                                                                                                                                                                                 15
+9.5. ENTREGA DE RESULTADOS DE TOMA DE MUESTRA BIOLÓGICA (DOSAJE) PARA DETERMINACIÓN DE
+     METALES PESADOS.
+    Es el procedimiento mediante el cual, a través de una atención médica, se informa a la persona expuesta
+    a metales pesados (o a padres o apoderados), los resultados obtenidos del análisis de muestras biológicas,
+    de manera individualizada con enfoque de interculturalidad, género y derechos humanos, de acuerdo a
+    la normatividad vigente.
+    En el caso de consulta o atención médica de seguimiento y Entrega de Resultados de Dosaje:
+
+
+    9.5.1. En el Ítem: Diagnóstico Motivo de Consulta y/o Actividad de Salud:
+             o       En el 1.° casillero registrar: Evaluación Médica.
+             o       En el 2.° casillero registrar: Evaluación y Entrega de resultados de Diagnóstico.
+             o       En el 3.° casillero, en caso de encontrar los resultados de toma de muestra biológica (dosaje),
+                     por encima de los valores de referencia, de acuerdo a las Guías de Práctica clínica, registrar
+                     según corresponda:
+                 -   Hallazgo de niveles anormales de metales pesados en la sangre; o
+                 -   Niveles anormales en la orina de sustancias de origen principalmente no medicinal (para el
+                     caso de hallazgo de Niveles anormales de metales pesados en la orina).
+                     Nota: En caso de encontrar los resultados de dosaje, dentro de los valores referenciales de
+                     acuerdo a las Guías de Práctica clínica, omitir este registró en el tercer casillero.
+             o       En el 4.° casillero registrar, según corresponda:
+                 -   Administración de tratamiento a criterio médico, de acuerdo a patologías encontradas.
+                     Nota: En el caso que los resultados de dosaje superen los valores de referencia, pero no
+                     amerite administración de tratamiento quelante, el manejo será de soporte, según criterio
+                     médico.
+                 -   Interconsulta ambulatoria para la evaluación y manejo de un paciente nuevo o continuador,
+                     para diagnóstico por especialista, de acuerdo a signos y síntomas asociados a exposición a
+                     metales pesados, metaloides y otras sustancias químicas, encontrados;
+                 -   Consejería preventiva en factores de riesgo por exposición a metales pesados y otras
+                     sustancias químicas.
+             o       En el último casillero o casillero subsecuente, anotar Exposición a otros contaminantes del
+                     ambiente físico.
+
+
+    9.5.2. En el Ítem: Tipo de Diagnóstico marcar:
+     o       En el 1.° casillero marcar siempre “R”, por ser re-evaluación.
+     o       En el 2.° casillero para la evaluación y entrega de resultados marcar “D”.
+     o       En el 3.° casillero marcar “D”.
+     o       En el 4° casillero marcar “D” si es la primera actividad de consejería o “R” si se han realizado otras
+             actividades de consejería.
+     o       En el último casillero o casillero subsecuente, en el cual se ha registrado Exposición a otros
+             contaminantes del ambiente físico o Exposición ocupacional a factor de riesgo no especificado,
+             marcar “D” si es la primera consulta y “R” si es reevaluación, tomando en cuenta los criterios de
+             factores de riesgo a exposición a metales pesados y otras sustancias químicas, resultado de la
+             vigilancia sanitaria y/o vigilancia epidemiológica.
+    9.5.3.       En el Ítem: Valor de Lab, marcar:
+         o       Para el casillero que corresponda al Hallazgo de niveles anormales de metales pesados en la
+                 sangre, registrar el símbolo del metal pesado que corresponda: 1(para plomo), 2 (para
+                 mercurio), 3 (para arsénico) y 4 (para cadmio).
+
+
+
+
+                                                                                                               16
+2    AÑO 3      MES           4
+                             NOMBRE DE ESTABLECIMIENTO DE SALUD (IPRESS)                   5                UNIDAD PRODUCTORA DE SERVICIOS (UPSS)                          6        NOMBRE DEL RESPONSABLE DE LA ATENCION
+                                                                                                                                                                           DNI
+      7           8                 9            11           13         14           15               16        17    18                        19                                  20               21            22
+                                             DISTRITO DE
+                D.N.I.           FINANC.                                                                        ESTA- SER-        DIAGNÓSTICO MOTIVO DE CONSULTA                   TIPO DE                        CÓDIGO
+                                            PROCEDENCIA
+                                                                               PERIMETRO         EVALUACION                                                                                      VALOR DE LAB
+              HISTORIA
+     DIA                           10           12           EDAD       SEXO   CEFALICO Y      ANTROPOMETRICA   BLEC VICIO             Y/O ACTIVIDAD DE SALUD              DIAGNÓSTICO                            CIE / CPT
+               CLINICA
+                                                                               ABDOMINAL        HEMOGLOBINA
+              GESTANTE/                       CENTRO
+                                 ETNIA                                                                                                                                         P      D      R   1º   2º   3º
+              PUERPERA                       POBLADO
+    NOMBRES Y APELLIDOS PACIENTE:                          (*)FECHA DE NACIMIENTO: _____/____/______                  FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                                             FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                    A                          PESO              N     N     1. Eva l ua ci ón Médi ca                         P      D      R                    99214
+                                    2         OROYA                      M     PC
+              46724120                                                                                                          Eva l ua ci ón y Entrega de
+                                                            28     M                           TALLA             C     C     2. Res ul tados                                   P      D      R                     U262
+                                                                                                                                de Di a gnós tico
+                                   54                                    F     Pa b                                               Ha l l a zgo de ni vel es a norma l es
+                1234                                                D                           Hb               R     R     3.                                                P      D      R   1                 R78.7
+                                                                                                                                  de metal es pes a dos en l a s a ngre
+    NOMBRES Y APELLIDOS PACIENTE:                          (*)FECHA DE NACIMIENTO: _____/____/______                  FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                                                  FECHA DE ULTIMA REGLA: ____/____/______
+                                                                                                                              Cons ejería preventiva en fa ctores
+                                                                                                                              de ri es go por expos i ci ón a
+                                                                    A                          PESO              N      N 1.                                        P   D   R                     99401.37
+                                                                         M     PC                                             metal es pes a dos y otra s
+                                                                                                                              s us tanci a s quími ca s
+                                                                                                                              Exposición a otros contaminantes
+                                                                   M                           TALLA             C      C 2.                                        P   D   R                       Z585
+                                                                                                                              del ambiente físico
+                                                                         F     Pa b
+                                                                    D                           Hb               R     R     3.                                                P      D      R
+
+
+             9.6. INDICACIÓN DE TRATAMIENTO EN CASOS DE INTOXICACIÓN AGUDA O CRÓNICA
+                   En caso de Intoxicación aguda y crónica por intoxicación de metales pesados (arsénico, mercurio, plomo,
+                   cadmio), el tratamiento con quelantes se realiza en el III nivel de atención.
+                   9.6.1. En el Ítem: Diagnóstico Motivo de Consulta y/o Actividad de Salud:
+                         o              En el 1.° casillero registrar: Evaluación Médica.
+                         o              En el 2.° casillero registrar: Efecto Tóxico de metales: Plomo y sus compuestos /arsénico y sus
+                                        compuestos/ cadmio y sus compuestos / mercurio y sus compuestos / o Dosaje de Metales
+                                        pesados (arsénico, bario, berilio, bismuto, antimonio, mercurio) en caso de otros metales pesados,
+                                        según corresponda.
+                         o              En el 3.° casillero, en caso de encontrar los resultados de dosaje, por encima de los valores
+                                        referenciales de acuerdo a las Guías de Práctica clínica, registrar según corresponda:
+                                        -     Hallazgo de niveles anormales de metales pesados en la sangre; o
+                                        -     Niveles anormales en la orina de sustancias de origen principalmente no medicinal (para el
+                                              caso de hallazgo de Niveles anormales de metales pesados en la orina).
+                                              Nota: En caso de encontrar los resultados de dosaje, por debajo de los valores referenciales de
+                                              acuerdo a las Guías de Práctica clínica, omitir este registro en el tercer casillero.
+                         o              En el 4.° y 5.°casillero registrar el diagnóstico con signos y síntomas asociado a enfermedad por
+                                        algún metal, metaloide y otras sustancias químicas u otra patología a criterio médico.
+                         o              En el 6.° casillero registrar, según corresponda:
+                             -          Administración de tratamiento a criterio médico, de acuerdo a patologías encontradas, terapia de
+                                        quelación, según corresponda.
+                                  Nota: En el caso que los resultados de dosaje superen los valores de referencia, pero no amerite
+                                  administración de tratamiento quelante, el manejo será de soporte, según criterio médico.
+                         -        Interconsulta ambulatoria para la evaluación y manejo de un paciente nuevo o continuador, para
+                                  diagnóstico por especialista, de acuerdo a signos y síntomas encontrados;
+                         -        Consejería preventiva en factores de riesgo por exposición a metales pesados y otras sustancias
+                                  químicas.
+             9.6.2. En el Ítem: Tipo de Diagnóstico marcar:
+                             o              En el 1.° casillero marcar siempre “R” por tratarse de una reevaluación.
+                             o              En el 2.° casillero marcar “D”, o “R” en caso de ser reevaluación.
+                             o              En el 3.° casillero marcar “D” en caso de encontrar metales pesados en el resultado de la toma
+                                            de muestra biológica
+                             o              En el 4.° y 5.° casillero marcar “P” o “D”, según el criterio del médico.
+                             o              En el 6.° casillero marcar “D”.
+
+
+
+
+                                                                                                                                                                                                                              17
+             9.6.3. En el Ítem: Valor de Lab, marcar:
+                         o           Para el casillero que corresponda a Efecto Tóxico de metales pesados: Plomo y sus compuestos
+                                     o el que corresponda, registrar el símbolo del metal pesado que corresponda: Pb (para plomo),
+                                     Hg (para mercurio), As (para arsénico) y Cd (para cadmio).
+                         o           Para el casillero que corresponda al Hallazgo de niveles anormales de metales pesados en la
+                                     sangre, registrar el símbolo del metal pesado que corresponda: 1 (para plomo), 2 (para
+                                     mercurio), 3 (para arsénico) y 4 (para cadmio).
+                         o           Para el casillero que corresponda a Administración de tratamiento, en Valor de Lab, registrar
+                                     “RF” si el paciente requiere Referencia a una IPRESS de mayor complejidad.
+2    AÑO 3     MES        4
+                         NOMBRE DE ESTABLECIMIENTO DE SALUD (IPRESS)                5                UNIDAD PRODUCTORA DE SERVICIOS (UPSS)                      6        NOMBRE DEL RESPONSABLE DE LA ATENCION
+                                                                                                                                                                DNI
+      7          8             9          11           13         14           15               16        17    18                        19                              20               21            22
+                                      DISTRITO DE
+               D.N.I.      FINANC.                                                                       ESTA- SER-        DIAGNÓSTICO MOTIVO DE CONSULTA               TIPO DE                        CÓDIGO
+                                     PROCEDENCIA
+                                                                        PERIMETRO         EVALUACION                                                                                  VALOR DE LAB
+             HISTORIA
+     DIA                      10         12           EDAD       SEXO   CEFALICO Y      ANTROPOMETRICA   BLEC VICIO             Y/O ACTIVIDAD DE SALUD          DIAGNÓSTICO                            CIE / CPT
+              CLINICA
+                                                                        ABDOMINAL        HEMOGLOBINA
+             GESTANTE/                 CENTRO
+                             ETNIA                                                                                                                                  P      D      R   1º   2º   3º
+             PUERPERA                 POBLADO
+    NOMBRES Y APELLIDOS PACIENTE:                   (*)FECHA DE NACIMIENTO: _____/____/______                  FECHA ULTIMO RESULTADO DE Hb: _____/____/______
+                                                                                                                                                    FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                             A                          PESO               N    N     1. Eva l ua ci ón Médi ca                     P      D      R                    99214
+                               2       OROYA                      M     PC
+             46724120
+                                                                                                                            Efecto tóxi co de metal es :
+                                                     28     M                           TALLA              C    C     2.                                            P      D      R                     T560
+                                                                                                                            Pl omo y s us compues tos
+
+                              54                                  F     Pa b                                           Ha l l a zgo de ni vel es a norma l es
+               1234                                          D                           Hb                R     R 3. de metal es pes a dos en l a              P   D   R    1                  R78.7
+                                                                                                                       s a ngre
+    NOMBRES Y APELLIDOS PACIENTE:                   (*)FECHA DE NACIMIENTO: _____/____/______                  FECHA ULTIMO RESULTADO DE Hb: _____/____/______FECHA DE ULTIMA REGLA: ____/____/______
+                                                                                                                       Pol i neuropa tia debi da a otro
+                                                             A                          PESO               N     N 1.                                           P   D   R                       G62.2
+                                                                  M     PC                                             a gente tóxi co
+                                                            M                           TALLA              C    C     2. Admi ni s tra ci ón de tra tami ento       P      D      R   RF              99199.11
+                                                                  F     Pa b
+                                                             D                           Hb                R    R     3.                                            P      D      R
+
+
+
+
+           Nota: El tratamiento farmacológico específico (terapia de quelación) solamente se brinda en casos de
+           personas con intoxicación por metales pesados con toxicidad sistémica según evaluación médica, de
+           acuerdo a la normatividad vigente. El proceso de quelación solo se realizará en IPRESS del Tercer Nivel de
+           atención de referencia nacional (Hospitales e Institutos Especializados), por personal de salud capacitado y
+           entrenado.
+           En aquellos casos que los resultados de dosaje superen los valores de referencia, pero no amerite
+           administración de tratamiento quelante, el manejo será de soporte, según criterio médico.
+
+
+    X. RESPONSABILIDADES
+           10.1. Nivel nacional:
+                        El Ministerio de Salud, a través de la Dirección General de Intervenciones Estratégicas en Salud Pública
+                        –DGIESP/MINSA, es responsable de su difusión a nivel nacional, brindar la asistencia técnica necesaria
+                        para su implementación, y realizar la supervisi6n y evaluación de su cumplimiento.
+           10.2. Nivel regional:
+                        La DIRESA/GERESA/DIRIS o la que haga sus veces en el ámbito regional, es responsable de la difusión
+                        del presente Documento Técnico en las IPRESS de su jurisdicción, así como de implementarla, brindar
+                        asistencia técnica y de supervisar e informar al Ministerio de Salud sobre su cumplimiento.
+           10.3. Nivel local:
+                        Las IPRESS son responsables de implementar y aplicar lo dispuesto en el presente Documento Técnico,
+                        en lo que les corresponda, de acuerdo a su asignación de funciones.
+
+
+
+
+                                                                                                                                                                                                                   18
+19
+

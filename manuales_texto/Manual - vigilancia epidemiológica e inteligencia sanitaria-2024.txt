@@ -1,0 +1,1091 @@
+MANUAL DE
+REGISTRO Y
+CODIFICACIÓN DE LAS
+ACTIVIDADES DE
+VIGILANCIA
+EPIDEMIOLÓGICA E
+INTELIGENCIA
+SANITARIA
+
+
+
+
+        2024
+MANUAL DE REGISTRO Y CODIFICACIÓN
+ DE LAS ACTIVIDADES DE VIGILANCIA
+  EPIDEMIOLÓGICA E INTELIGENCIA
+             SANITARIA
+
+
+       Sistema de Información HIS
+
+
+    CENTRO NACIONAL DE EPIDEMIOLOGÍA,
+         PREVENCIÓN Y CONTROL DE
+              ENFERMEDADES
+
+
+               Lima - Perú
+
+
+                  2024
+Catalogación hecha por la Biblioteca Central del Ministerio de Salud
+ Manual de registro y codificación de las actividades de vigilancia epidemiológica e inteligencia sanitaria /
+Ministerio de Salud. Centro Nacional de Vigilancia Epidemiológica, Prevención y Control de
+Enfermedades. Oficina General de Tecnologías de la Información - Lima: Ministerio de Salud; 2024.
+  17 p. ilus.
+
+MONITOREO EPIDEMIOLÓGICO / VIGILANCIA SANITARIA / INTELIGENCIA / SISTEMAS DE INFORMACIÓN /
+SISTEMA DE REGISTROS / CLASIFICACIÓN INTERNACIONAL DE ENFERMEDADES / SERVICIOS PREVENTIVOS
+DE SALUD / CODIFICACIÓN CLÍNICA / ATENCIÓN INTEGRAL DE SALUD / SISTEMAS DE REGISTROS MÉDICOS
+COMPUTARIZADOS
+Hecho el Depósito Legal en la Biblioteca Nacional del Perú N° 2024-05502
+
+Manual de Registro y Codificación de las actividades de Vigilancia Epidemiológica e Inteligencia
+Sanitaria. Sistema de información HIS.
+
+Ministerio de Salud. Oficina General de Tecnologías de la Información. Oficina de Gestión de la
+Información – Centro Nacional de Epidemiología, Prevención y Control de Enfermedades (MINSA / OGTI /
+OGEI - CDC)
+
+Compilador:
+César Vladimir Munayco Escate, Director General del Centro Nacional de Epidemiología, Prevención y
+Control de Enfermedades
+
+Equipo técnico de trabajo:
+Mary Felissa Reyes Vegas, CDC / DVSP                   Jose Lionel Medina Osis, CDC / UTIC
+Mirtha Gabriela Soto Cabezas, CDC / DIS                Gladys María Garro Nuñez, CDC / DIS
+Carlos Enrique Martínez Paredes, CDC / DARE
+
+Revisión y validación:
+Luis Pedro Valeriano Arteaga, OGTI / OGEI
+Adhemir Reynel Bellido Delgado, OGTI / OGEI
+
+Colaboradores:
+Luz Paola Quevedo Ramos, CDC / UGA
+Ohmayda Vereniss Sandoval Flores
+Natalie Luz Bustamante Díaz
+
+©MINSA – mayo, 2024                                    ©CDC – mayo, 2024
+Ministerio de Salud                                    Centro Nacional de Epidemiología,
+Av. Salaverry 801, Lima 11, Lima - Perú                Prevención y Control de Enfermedades
+Telf.: (51-1) 315-6600                                 Calle Daniel Olaechea N° 199, Jesús María,
+www.gob.pe/minsa                                       Lima 11, Perú
+webmaster@minsa.gob.pe                                 Telf.: (51-1) 631-4500
+                                                       https://www.dge.gob.pe
+                                                       postmaster@dge.gob.pe
+
+1ª. Edición, mayo 2024
+Versión digital disponible: https://bvs.minsa.gob.pe/local/MINSA/7387.pdf
+         CÉSAR HENRY VÁSQUEZ SÁNCHEZ
+                  Ministro de Salud
+
+          ERIC RICARDO PEÑA SÁNCHEZ
+           Viceministro de Salud Pública
+
+            CIRO ABEL MESTAS VALERO
+Viceministro de Prestaciones y Aseguramiento en Salud
+
+        MOISÉS IVÁN GUILLÉN CÁRDENAS
+                 Secretario General
+
+       CÉSAR VLADIMIR MUNAYCO ESCATE
+Director General del Centro Nacional de Epidemiología,
+        Prevención y Control de Enfermedades
+
+              JOSÉ ENRIQUE PÉREZ LU
+Director General de la Oficina General de Tecnologías
+                  de la Información
+
+          PAUL MICHEL TRAUCO GALÁN
+   Director Ejecutivo de la Oficina de Gestión de la
+                     Información
+Manual de registro y codificación de las actividades de vigilancia epidemiológica e
+inteligencia sanitaria
+
+
+
+
+                                                  Tabla de Contenido
+
+   CÓDIGOS DE PROCEDIMIENTOS DE VIGILANCIA EPIDEMIOLÓGICA                             2
+
+
+   INSTRUCCIONES GENERALES PARA EL REGISTRO Y CODIFICACIÓN DE LAS ACTIVIDADES
+                                                                                      3
+   VIGILANCIA EPIDEMIOLÓGICA E INTELIGENCIA SANITARIA
+
+
+   ACTIVIDADES RELACIONADAS A VIGILANCIA EPIDEMIOLÓGICA E INTELIGENCIA SANITARIA
+   A REGISTRAR
+
+
+           NOTIFICACIÓN DE CASOS                                                      4
+
+
+           INVESTIGACIÓN EPIDEMIOLÓGICA DEL CASO NOTIFICADO EN ESTABLECIMIENTOS
+                                                                                      5
+           DE SALUD
+
+
+           VIGILANCIA ACTIVA DE ENFERMEDADES Y OTROS EVENTOS DE IMPORTANCIA EN
+                                                                                      6
+           SALUD PÚBLICA EN SERVICIOS DE SALUD
+
+
+           BÚSQUEDA ACTIVA INSTITUCIONAL (BAI)                                        7
+
+
+           INTERCONSULTA DE EPIDEMIOLOGÍA                                             8
+
+
+           SEGUIMIENTO DE CASO NOTIFICADO                                             9
+
+
+           VISITA EXTRAMURAL PARA AMPLIAR LA INVESTIGACIÓN DE CASO                    10
+
+
+           BÚSQUEDA ACTIVA COMUNITARIA (BAC)                                          11
+
+
+           MONITOREO RÁPIDO DE VACUNADOS (MRV)                                        12
+
+
+           SEGUIMIENTO DE CONTACTO DE CASO NOTIFICADO                                 13
+
+
+           NOTIFICACIÓN DE BROTES U OTROS EVISAP                                      14
+
+
+           INVESTIGACIÓN DE BROTES                                                    15
+
+
+           CAPACITACIÓN EN VIGILANCIA EPIDEMIOLÓGICA                                  16
+
+
+           COORDINACIÓN CON ACTORES SOCIALES PARA EL ANÁLISIS DE SITUACIÓN LOCAL      17
+Manual de registro y codificación de las actividades de vigilancia
+epidemiológica e inteligencia sanitaria
+
+
+
+
+         CÓDIGOS DE PROCEDIMIENTOS DE VIGILANCIA EPIDEMIOLÓGICA
+         Según el Listado de Procedimientos Médicos y Sanitarios del Salud del Documento
+         Técnico "Catálogo de Procedimientos Médicos y Sanitarios del Sector Salud", aprobado
+         por Resolución Ministerial N° 550-2023-MINSA
+
+           Código procedimiento   Denominación de procedimiento
+
+           C0009                  Sesión educativa
+
+           C0041                  Vigilancia epidemiológica
+
+           C0061                  Vigilancia de los servicios de salud
+
+                                  Análisis de la situación de salud; identificación de necesidades de salud de la población
+           C0071
+                                  con participación de la comunidad
+
+           C0081                  Investigación de brotes
+
+           99199.10               Seguimiento de contacto
+
+
+
+
+         LISTADO DE CÓDIGOS LAB
+         Listado de códigos LAB utilizados en el “Manual de registro y codificación de las
+         actividades de vigilancia epidemiológica e inteligencia sanitaria”
+
+           CÓDIGO LAB             DENOMINACIÓN LAB
+
+                      454         Seguimiento de caso
+
+                      455         Investigación en comunidad
+
+                      456         Búsqueda activa comunitaria
+
+                      457         Monitoreo Rápido de Vacunados (MRV)
+
+                      458         Notificación de caso
+
+                      459         Investigación de caso
+
+                      460         Vigilancia Activa
+
+                      461         Búsqueda activa Institucional
+
+                      462         Interconsulta epidemiológica
+
+                      463         Seguimiento epidemiológico
+
+                      464         Notificación de brote
+
+                      465         Investigación de brote
+
+                      467         Capacitación en vigilancia epidemiológica
+
+
+
+
+                                                                                                                              2
+Manual de registro y codificación de las actividades de vigilancia
+epidemiológica e inteligencia sanitaria
+
+
+
+
+      INSTRUCCIONES GENERALES PARA EL REGISTRO Y CODIFICACIÓN DE LAS
+      ACTIVIDADES VIGILANCIA EPIDEMIOLÓGICA E INTELIGENCIA SANITARIA
+
+
+SISTEMA DE INFORMACIÓN – NOTI WEB / SIEPIBROTES
+El presente manual detalla cómo el personal de epidemiología de los establecimientos de salud
+debe registrar las actividades que realiza a través del HIS MINSA. Sin embargo, este registro no
+reemplaza la notificación obligatoria mediante los sistemas de información de vigilancia
+epidemiológica e investigación de brotes, según lo establecido en la normativa vigente.
+
+ORGANIZACIÓN DE LA HOJA HIS
+El registro de los datos generales se hace siguiendo las indicaciones pertinentes y no presenta
+características especiales.
+Datos Generales
+Los datos constituyen la información básica similar para cada atención y/o actividades de salud
+realizadas.
+
+El registro de los datos generales, historia clínica, DNI, financiador, distrito de procedencia, edad,
+sexo, establecimiento y servicio se hace siguiendo las indicaciones pertinentes y no presenta
+características especiales.
+Datos Específicos
+Son datos particulares a cada atención o actividad de salud, que cambian según las características
+individuales de cada paciente en el caso de las atenciones o de los grupos de pacientes en las
+actividades de salud.
+En el ítem: Tipo de diagnóstico
+    Para registrar las actividades, marcar con un aspa (X) “D”
+En el ítem Diagnóstico motivo de consulta y/o actividad de salud:
+    Registre todos los procedimientos realizados.
+
+
+
+
+                                                                                                         3
+  Manual de registro y codificación de las actividades de vigilancia
+  epidemiológica e inteligencia sanitaria
+
+
+
+       ACTIVIDADES RELACIONADAS A VIGILANCIA EPIDEMIOLÓGICA E INTELIGENCIA
+                             SANITARIA A REGISTRAR
+
+ NOTIFICACIÓN DE CASOS
+ Es la comunicación oficial y obligatoria que realiza el responsable de la vigilancia epidemiológica,
+ o quien haga sus veces, tras detectar o recibir y verificar un reporte de una enfermedad u otro
+ evento sujeto a vigilancia epidemiológica.
+
+ En el ítem HISTORIA CLÍNICA, anote:
+     APP100 (Correspondiente a ESTABLECIMIENTO DE SALUD)
+
+ En el ítem DIAGNÓSTICO MOTIVO DE CONSULTA Y/O ACTIVIDAD DE SALUD, anote:
+     En el 1º casillero: Vigilancia en los servicios de salud
+
+ En el ítem LAB, anote:
+     En el 1º casillero: 458
+     En el 2º casillero: Registrar el N° de casos notificados
+
+ En el ítem CÓDIGO, anote: Código CPMS
+     En el 1º casillero: C0061
+
+              D.N.I.
+                                                                                                                                                                      TIPO DE          VALOR
+                            FINANC.   DISTRITO DE PROCEDENCIA
+                                                                              PERIMETRO    EVALUACION   ESTA- SER-                                                  DIAGNÓSTICO         LAB
+                                                                                                                              DIAGNÓSTICO MOTIVO DE CONSULTA                                         CÓDIGO
+ DIA     HISTORIA CLINICA                                       EDAD   SEXO    CEFALICO- ANTROPOMETRICA BLEC VICIO
+                                                                                                                                   Y/O ACTIVIDAD DE SALUD                                           CIE/CPMSS
+                                                                              ABDOMINAL   HEMOGLOBINA
+
+       GESTANTE/PUERPERA    ETNIA        CENTRO POBLADO                                                                                                             P   D   R     1º    2º     3º
+
+
+NOMBRES Y APELLIDOS PACIENTE:
+
+
+(*)FECHA DE NACIMIENTO: _____/____/______                          FECHA ULTIMO RESULTADO DE Hb: _____/____/_____         FECHA DE ULTIMA REGLA: ____/____/______
+
+
+                                                                   A            PC         PESO           N     N    1. Vigilancia en los servicios de salud        P   D   R     458    2           C0061
+                                               Junín                    M
+             APP100                                                M           Pab        TALLA           C     C    2.                                             P   D   R
+
+                                               Junín               D     F    Ppreg         Hb            R     R    3.                                             P   D   R
+
+
+
+
+                                                                                                                                                                                                                4
+  Manual de registro y codificación de las actividades de vigilancia
+  epidemiológica e inteligencia sanitaria
+
+
+
+ INVESTIGACIÓN EPIDEMIOLÓGICA DEL CASO NOTIFICADO EN ESTABLECIMIENTOS DE
+ SALUD
+
+ Actividad realizada en los establecimientos de salud tras recibir notificación de una enfermedad u
+ otro evento sujeto a vigilancia epidemiológica. Esta actividad es desarrollada dentro de las 48
+ horas siguientes a la notificación con el objetivo de obtener información detallada del caso e
+ implementar medidas de control para prevenir su diseminación, en especial, en enfermedades
+ infecciosas por la probabilidad de nuevos casos o la existencia de otros aún no identificados.
+
+ La investigación es dirigida por el responsable de vigilancia epidemiológica, o quien haga sus
+ veces, en coordinación con otras áreas para la intervención e incluye el llenado de la ficha clínica
+ epidemiológica.
+
+ En el ítem HISTORIA CLÍNICA, anote:
+     APP100 (Correspondiente a ESTABLECIMIENTO DE SALUD)
+
+ En el ítem DIAGNÓSTICO MOTIVO DE CONSULTA Y/O ACTIVIDAD DE SALUD, anote:
+     En el 1º casillero: Vigilancia en los servicios de salud
+
+ En el ítem LAB, anote:
+     En el 1º casillero: 459
+     En el 2º casillero: N° de casos investigados
+
+ En el ítem CÓDIGO, anote: Código CPMS
+     En el 1º casillero: C0061
+
+              D.N.I.
+                                                                                                                                                                      TIPO DE          VALOR
+                            FINANC.   DISTRITO DE PROCEDENCIA
+                                                                              PERIMETRO    EVALUACION   ESTA- SER-                                                  DIAGNÓSTICO         LAB
+                                                                                                                              DIAGNÓSTICO MOTIVO DE CONSULTA                                         CÓDIGO
+ DIA     HISTORIA CLINICA                                       EDAD   SEXO    CEFALICO- ANTROPOMETRICA BLEC VICIO
+                                                                                                                                   Y/O ACTIVIDAD DE SALUD                                           CIE/CPMSS
+                                                                              ABDOMINAL   HEMOGLOBINA
+
+       GESTANTE/PUERPERA    ETNIA        CENTRO POBLADO                                                                                                             P   D   R     1º    2º     3º
+
+
+NOMBRES Y APELLIDOS PACIENTE:
+
+
+(*)FECHA DE NACIMIENTO: _____/____/______                          FECHA ULTIMO RESULTADO DE Hb: _____/____/_____         FECHA DE ULTIMA REGLA: ____/____/______
+
+
+                                                                   A            PC         PESO           N     N    1. Vigilancia en los servicios de salud        P   D   R     459    5           C0061
+                                               Junín                    M
+             APP100                                                M           Pab        TALLA           C     C    2.                                             P   D   R
+
+                                               Junín               D     F    Ppreg         Hb            R     R    3.                                             P   D   R
+
+
+
+
+                                                                                                                                                                                                                5
+ Manual de registro y codificación de las actividades de vigilancia
+ epidemiológica e inteligencia sanitaria
+
+
+
+VIGILANCIA ACTIVA DE ENFERMEDADES Y OTROS EVENTOS DE IMPORTANCIA EN
+SALUD PÚBLICA EN SERVICIOS DE SALUD
+
+Proceso de búsqueda intencional y/o dirigida realizado en los servicios de salud para la detección
+temprana de casos compatibles con enfermedades o eventos sujetos a notificación. Incluye el
+llenado de los formatos de la notificación u otros, según normativa vigente
+
+En el ítem HISTORIA CLÍNICA, anote:
+    APP100 (Correspondiente a ESTABLECIMIENTO DE SALUD)
+
+En el ítem DIAGNÓSTICO MOTIVO DE CONSULTA Y/O ACTIVIDAD DE SALUD, anote:
+    En el 1º casillero: Vigilancia en los servicios de salud
+
+En el ítem LAB, anote:
+    En el 1º casillero: 460
+    En el 2º casillero: N° de casos evaluados en la vigilancia activa
+
+En el ítem CÓDIGO, anote: Código CPMS
+    En el 1º casillero: C0061
+
+              D.N.I.
+                                                                                                                                                                      TIPO DE          VALOR
+                            FINANC.   DISTRITO DE PROCEDENCIA
+                                                                              PERIMETRO    EVALUACION   ESTA- SER-                                                  DIAGNÓSTICO         LAB
+                                                                                                                              DIAGNÓSTICO MOTIVO DE CONSULTA                                         CÓDIGO
+ DIA     HISTORIA CLINICA                                       EDAD   SEXO    CEFALICO- ANTROPOMETRICA BLEC VICIO
+                                                                                                                                   Y/O ACTIVIDAD DE SALUD                                           CIE/CPMSS
+                                                                              ABDOMINAL   HEMOGLOBINA
+
+       GESTANTE/PUERPERA    ETNIA        CENTRO POBLADO                                                                                                             P   D   R     1º    2º     3º
+
+
+NOMBRES Y APELLIDOS PACIENTE:
+
+
+(*)FECHA DE NACIMIENTO: _____/____/______                          FECHA ULTIMO RESULTADO DE Hb: _____/____/_____         FECHA DE ULTIMA REGLA: ____/____/______
+
+
+                                                                   A            PC         PESO           N     N    1. Vigilancia en los servicios de salud        P   D   R     460 10             C0061
+                                                                        M
+             APP100                                                M           Pab        TALLA           C     C    2.                                             P   D   R
+
+                                                                   D     F    Ppreg         Hb            R     R    3.                                             P   D   R
+
+
+
+
+                                                                                                                                                                                                                6
+  Manual de registro y codificación de las actividades de vigilancia
+  epidemiológica e inteligencia sanitaria
+
+
+
+ BÚSQUEDA ACTIVA INSTITUCIONAL (BAI)
+ Estrategia desarrollada en los establecimientos de salud con el objetivo de detectar
+ enfermedades u otros eventos sujetos a notificación que no hayan podido ser identificados
+ durante la atención médica y, por lo tanto, no fueron notificados al Sistema Nacional de
+ Vigilancia Epidemiológica en Salud Pública.
+
+ Esta actividad incluye la revisión de historias clínicas y visitas domiciliarias para establecer si el
+ diagnóstico registrado cumple con la definición de caso establecida. Está a cargo del responsable
+ de epidemiología o quien haga sus veces y, debe contar con el apoyo técnico del equipo
+ constituido y designado para tal fin.
+
+ Además, comprende el llenado de los formatos relacionados al proceso según normativa vigente,
+ los mismos que serán remitidos al nivel superior.
+
+ En el ítem HISTORIA CLÍNICA, anote:
+     APP100 (Correspondiente a ESTABLECIMIENTO DE SALUD)
+
+ En el ítem DIAGNÓSTICO MOTIVO DE CONSULTA Y/O ACTIVIDAD DE SALUD, anote:
+     En el 1º casillero: Vigilancia en los servicios de salud
+
+ En el ítem LAB, anote:
+     En el 1º casillero:
+          En el 1° valor LAB: 461
+          En el 2° valor LAB: N° de registros revisados
+
+ En el ítem CÓDIGO, anote: Código CPMS
+     En el 1º casillero: C0061
+
+              D.N.I.
+                                                                                                                                                                         TIPO DE          VALOR
+                            FINANC.   DISTRITO DE PROCEDENCIA
+                                                                              PERIMETRO    EVALUACION     ESTA- SER-                                                   DIAGNÓSTICO         LAB
+                                                                                                                                DIAGNÓSTICO MOTIVO DE CONSULTA                                          CÓDIGO
+ DIA     HISTORIA CLINICA                                       EDAD   SEXO    CEFALICO- ANTROPOMETRICA   BLEC VICIO
+                                                                                                                                     Y/O ACTIVIDAD DE SALUD                                            CIE/CPMSS
+                                                                              ABDOMINAL   HEMOGLOBINA
+
+       GESTANTE/PUERPERA    ETNIA        CENTRO POBLADO                                                                                                                P   D    R    1º    2º     3º
+
+
+NOMBRES Y APELLIDOS PACIENTE:
+
+
+(*)FECHA DE NACIMIENTO: _____/____/______                          FECHA ULTIMO RESULTADO DE Hb: _____/____/_____            FECHA DE ULTIMA REGLA: ____/____/______
+
+
+                                                                   A            PC       PESO              N     N      1. Vigilancia en los servicios de salud        P   D    R    458 300            C0061
+                                                                        M
+             APP100                                                M           Pab       TALLA             C        C   2.                                             P   D    R
+
+                                                                   D    F     Ppreg       Hb               R        R   3.                                             P   D    R
+
+
+
+
+                                                                                                                                                                                                                   7
+  Manual de registro y codificación de las actividades de vigilancia
+  epidemiológica e inteligencia sanitaria
+
+
+
+ INTERCONSULTA DE EPIDEMIOLOGÍA
+
+ Evaluación del paciente por un profesional especialista en epidemiología no tratante, del mismo
+ u otro establecimiento de salud, con el objetivo de evaluar criterios clínicos, epidemiológicos y
+ laboratoriales para efectuar u orientar un diagnóstico que permita identificar un caso sospechoso
+ o probable de una enfermedad u otro evento sujeto a notificación obligatoria y plantear medidas
+ preventivas y de control frente al caso en la institución.
+
+ En el ítem HISTORIA CLÍNICA, anote:
+     APP100 (Correspondiente a ESTABLECIMIENTO DE SALUD)
+
+ En el ítem DIAGNÓSTICO MOTIVO DE CONSULTA Y/O ACTIVIDAD DE SALUD, anote:
+     En el 1º casillero: Vigilancia en los servicios de salud
+
+ En el ítem LAB, anote:
+     En el 1º casillero: 462
+     En el 2º casillero: N° de interconsultas
+
+ En el ítem CÓDIGO, anote: Código CPMS
+     En el 1º casillero: C0061
+
+              D.N.I.
+                                                                                                                                                                      TIPO DE          VALOR
+                            FINANC.   DISTRITO DE PROCEDENCIA
+                                                                              PERIMETRO    EVALUACION   ESTA- SER-                                                  DIAGNÓSTICO         LAB
+                                                                                                                              DIAGNÓSTICO MOTIVO DE CONSULTA                                         CÓDIGO
+ DIA     HISTORIA CLINICA                                       EDAD   SEXO    CEFALICO- ANTROPOMETRICA BLEC VICIO
+                                                                                                                                   Y/O ACTIVIDAD DE SALUD                                           CIE/CPMSS
+                                                                              ABDOMINAL   HEMOGLOBINA
+
+       GESTANTE/PUERPERA    ETNIA        CENTRO POBLADO                                                                                                             P   D   R     1º    2º     3º
+
+
+NOMBRES Y APELLIDOS PACIENTE:
+
+
+(*)FECHA DE NACIMIENTO: _____/____/______                          FECHA ULTIMO RESULTADO DE Hb: _____/____/_____         FECHA DE ULTIMA REGLA: ____/____/______
+
+
+                                                                   A            PC         PESO           N     N    1. Vigilancia en los servicios de salud        P   D   R     462    2           C0061
+                                                                        M
+             APP100                                                M           Pab        TALLA           C     C    2.                                             P   D   R
+
+                                                                   D     F    Ppreg         Hb            R     R    3.                                             P   D   R
+
+
+
+
+                                                                                                                                                                                                                8
+  Manual de registro y codificación de las actividades de vigilancia
+  epidemiológica e inteligencia sanitaria
+
+
+
+ SEGUIMIENTO DE CASO NOTIFICADO
+
+ Proceso de monitoreo continuo de un caso de una enfermedad u otro evento sujeto a vigilancia
+ epidemiológica previamente notificado, realizado durante su evolución para analizar su
+ comportamiento y severidad.
+
+ Esta actividad comprende la actualización de los formatos relacionados al proceso que serán
+ enviados al nivel superior, según la normativa vigente.
+
+ En el ítem HISTORIA CLÍNICA, anote:
+     APP100 (Correspondiente a ESTABLECIMIENTO DE SALUD)
+
+ En el ítem DIAGNÓSTICO MOTIVO DE CONSULTA Y/O ACTIVIDAD DE SALUD, anote:
+     En el 1º casillero: Vigilancia epidemiológica
+
+ En el ítem LAB, anote:
+     En el 1º casillero: 454
+     En el 2º casillero: N° de visitas realizadas
+
+ En el ítem CÓDIGO, anote: Código CPMS
+     En el 1º casillero: C0041
+
+              D.N.I.
+                                                                                                                                                                      TIPO DE          VALOR
+                            FINANC.   DISTRITO DE PROCEDENCIA
+                                                                              PERIMETRO    EVALUACION   ESTA- SER-                                                  DIAGNÓSTICO         LAB
+                                                                                                                              DIAGNÓSTICO MOTIVO DE CONSULTA                                         CÓDIGO
+ DIA     HISTORIA CLINICA                                       EDAD   SEXO    CEFALICO- ANTROPOMETRICA BLEC VICIO
+                                                                                                                                   Y/O ACTIVIDAD DE SALUD                                           CIE/CPMSS
+                                                                              ABDOMINAL   HEMOGLOBINA
+
+       GESTANTE/PUERPERA    ETNIA        CENTRO POBLADO                                                                                                             P   D   R     1º    2º     3º
+
+
+NOMBRES Y APELLIDOS PACIENTE:
+
+
+(*)FECHA DE NACIMIENTO: _____/____/______                          FECHA ULTIMO RESULTADO DE Hb: _____/____/_____         FECHA DE ULTIMA REGLA: ____/____/______
+
+
+                                                                   A            PC         PESO           N     N    1. Vigilancia epidemiológica                   P   D   R     454 20             C0041
+                                                                        M
+             APP100                                                M           Pab        TALLA           C     C    2.                                             P   D   R
+
+                                                                   D     F    Ppreg         Hb            R     R    3.                                             P   D   R
+
+
+
+
+                                                                                                                                                                                                                9
+  Manual de registro y codificación de las actividades de vigilancia
+  epidemiológica e inteligencia sanitaria
+
+
+
+ VISITA EXTRAMURAL PARA AMPLIAR LA INVESTIGACIÓN DE CASO
+
+ Actividad extramural desarrollada en domicilios, lugares de trabajo, colegios, guarderías entre
+ otros, para ampliar la investigación epidemiológica de un caso notificado de una enfermedad u
+ otro evento sujeto a vigilancia epidemiológica que represente un riesgo para la salud de la
+ población.
+
+ Esta actividad está a cargo del responsable de epidemiología o quien haga sus veces y es
+ realizada por personal de salud entrenado. Comprende la actualización de los formatos de la
+ notificación u otros con relación al proceso de investigación y, en caso de identificar nuevos
+ casos, se debe proceder a a notificación según la normativa vigente.
+
+ En el ítem HISTORIA CLÍNICA, anote:
+     APP108 (Correspondiente a COMUNIDAD)
+
+ En el ítem DIAGNÓSTICO MOTIVO DE CONSULTA Y/O ACTIVIDAD DE SALUD, anote:
+     En el 1º casillero: Vigilancia epidemiológica
+
+ En el ítem LAB, anote:
+     En el 1º casillero: 455
+     En el 2º casillero: N° de casos investigados
+
+ En el ítem CÓDIGO, anote: Código CPMS
+     En el 1º casillero: C0041
+
+              D.N.I.
+                                                                                                                                                                      TIPO DE          VALOR
+                            FINANC.   DISTRITO DE PROCEDENCIA
+                                                                              PERIMETRO    EVALUACION   ESTA- SER-                                                  DIAGNÓSTICO         LAB
+                                                                                                                              DIAGNÓSTICO MOTIVO DE CONSULTA                                         CÓDIGO
+ DIA     HISTORIA CLINICA                                       EDAD   SEXO    CEFALICO- ANTROPOMETRICA BLEC VICIO
+                                                                                                                                   Y/O ACTIVIDAD DE SALUD                                           CIE/CPMSS
+                                                                              ABDOMINAL   HEMOGLOBINA
+
+       GESTANTE/PUERPERA    ETNIA        CENTRO POBLADO                                                                                                             P   D   R     1º    2º     3º
+
+
+NOMBRES Y APELLIDOS PACIENTE:
+
+
+(*)FECHA DE NACIMIENTO: _____/____/______                          FECHA ULTIMO RESULTADO DE Hb: _____/____/_____         FECHA DE ULTIMA REGLA: ____/____/______
+
+
+                                                                   A            PC         PESO           N     N    1. Vigilancia epidemiológica                   P   D   R     455                C0041
+                                              Juanjui                   M
+             APP108                                                M           Pab        TALLA           C     C    2.                                             P   D   R
+
+                                              Juanjuí              D     F    Ppreg         Hb            R     R    3.                                             P   D   R
+
+
+
+
+                                                                                                                                                                                                                10
+  Manual de registro y codificación de las actividades de vigilancia
+  epidemiológica e inteligencia sanitaria
+
+
+
+ BÚSQUEDA ACTIVA COMUNITARIA (BAC)
+
+ Estrategia de indagación o rastreo intencionado de casos sospechosos o probables que pueden
+ estar ocurriendo o pudieron haberse presentado en la comunidad y que por diversos motivos no
+ hayan consultado un establecimiento de salud.
+
+ Esta actividad consiste en la visita casa por casa de un sector seleccionado, en el marco de las
+ actividades colectivas ante la presentación de un caso sospechoso o confirmado o ante el silencio
+ epidemiológico o como estrategia de intensificación de la vigilancia.
+
+ Es realizada por el personal de salud entrenado y está a cargo del responsable de epidemiología o
+ quien haga sus veces. Además, incluye el llenado de los formatos relacionados al proceso que se
+ enviarán al nivel superior, según normativa vigente.
+
+ En el ítem HISTORIA CLÍNICA, anote:
+     APP108 (Correspondiente a COMUNIDAD)
+
+ En el ítem DIAGNÓSTICO MOTIVO DE CONSULTA Y/O ACTIVIDAD DE SALUD, anote:
+
+          En el 1º casillero: Vigilancia epidemiológica
+
+ En el ítem LAB, anote:
+     En el 1º casillero:
+          En el 1° valor LAB: 456
+          En el 2° valor LAB: N° de casas visitadas
+
+ En el ítem CÓDIGO, anote: Código CPMS
+     En el 1º casillero: C0041
+
+
+
+
+              D.N.I.
+                                                                                                                                                                      TIPO DE          VALOR
+                            FINANC.   DISTRITO DE PROCEDENCIA
+                                                                              PERIMETRO    EVALUACION   ESTA- SER-                                                  DIAGNÓSTICO         LAB
+                                                                                                                              DIAGNÓSTICO MOTIVO DE CONSULTA                                         CÓDIGO
+ DIA     HISTORIA CLINICA                                       EDAD   SEXO    CEFALICO- ANTROPOMETRICA BLEC VICIO
+                                                                                                                                   Y/O ACTIVIDAD DE SALUD                                           CIE/CPMSS
+                                                                              ABDOMINAL   HEMOGLOBINA
+
+       GESTANTE/PUERPERA    ETNIA        CENTRO POBLADO                                                                                                             P   D   R     1º    2º     3º
+
+
+NOMBRES Y APELLIDOS PACIENTE:
+
+
+(*)FECHA DE NACIMIENTO: _____/____/______                          FECHA ULTIMO RESULTADO DE Hb: _____/____/_____         FECHA DE ULTIMA REGLA: ____/____/______
+
+
+                                                                   A            PC         PESO           N     N    1. Vigilancia epidemiológica                   P   D   R     456 80             C0041
+                                               Junín                    M
+             APP108                                                M           Pab        TALLA           C     C    2.                                             P   D   R
+
+                                               Junín               D     F    Ppreg         Hb            R     R    3.                                             P   D   R
+
+
+
+
+                                                                                                                                                                                                                11
+  Manual de registro y codificación de las actividades de vigilancia
+  epidemiológica e inteligencia sanitaria
+
+
+
+ MONITOREO RÁPIDO DE VACUNADOS (MRV)
+
+ Proceso que permite la identificación oportuna, rápida y simplificada de la población pendiente
+ de vacunar en un área o sector específico, con el objetivo de abordar las barreras a la vacunación
+ y lograr coberturas homogéneas. Esta actividad está a cargo del responsable de epidemiología o
+ quien haga sus veces.
+
+ En el ítem HISTORIA CLÍNICA, anote:
+     APP108 (Correspondiente a COMUNIDAD)
+
+ En el ítem DIAGNÓSTICO MOTIVO DE CONSULTA Y/O ACTIVIDAD DE SALUD, anote:
+     En el 1º casillero: Vigilancia epidemiológica
+
+ En el ítem LAB, anote:
+     En el 1º casillero:
+          En el 1° valor LAB: 457
+          En el 2° valor LAB: N° de personas entrevistadas.
+
+ En el ítem CÓDIGO, anote: Código CPMS
+     En el 1º casillero: C0041
+
+              D.N.I.
+                                                                                                                                                                      TIPO DE          VALOR
+                            FINANC.   DISTRITO DE PROCEDENCIA
+                                                                              PERIMETRO    EVALUACION   ESTA- SER-                                                  DIAGNÓSTICO         LAB
+                                                                                                                              DIAGNÓSTICO MOTIVO DE CONSULTA                                         CÓDIGO
+ DIA     HISTORIA CLINICA                                       EDAD   SEXO    CEFALICO- ANTROPOMETRICA BLEC VICIO
+                                                                                                                                   Y/O ACTIVIDAD DE SALUD                                           CIE/CPMSS
+                                                                              ABDOMINAL   HEMOGLOBINA
+
+       GESTANTE/PUERPERA    ETNIA        CENTRO POBLADO                                                                                                             P   D   R     1º    2º     3º
+
+
+NOMBRES Y APELLIDOS PACIENTE:
+
+
+(*)FECHA DE NACIMIENTO: _____/____/______                          FECHA ULTIMO RESULTADO DE Hb: _____/____/_____         FECHA DE ULTIMA REGLA: ____/____/______
+
+
+                                                                   A            PC         PESO           N     N    1. Vigilancia epidemiológica                   P   D   R     457 50             C0041
+                                               Junín                    M
+             APP108                                                M           Pab        TALLA           C     C    2.                                             P   D   R
+
+                                               Junín               D     F    Ppreg         Hb            R     R    3.                                             P   D   R
+
+
+
+
+                                                                                                                                                                                                                12
+  Manual de registro y codificación de las actividades de vigilancia
+  epidemiológica e inteligencia sanitaria
+
+
+
+ SEGUIMIENTO DE CONTACTO DE CASO NOTIFICADO
+
+ Proceso continuo de seguimiento y recopilación de información de los contactos identificados
+ durante el período de transmisibilidad de un caso notificado. Se realiza durante un período
+ específico, establecido en base a la naturaleza y las características epidemiológicas de la
+ enfermedad, con el objetivo de identificar de forma oportuna nuevos casos e implementar
+ medidas de prevención y control que permitan cortar la cadena de transmisión.
+
+ Esta actividad incluye el llenado de los formatos relacionados al proceso que se remitirán al nivel
+ superior, según normativa vigente.
+
+ En el ítem HISTORIA CLÍNICA, anote:
+     APP108 (Correspondiente a COMUNIDAD)
+
+ En el ítem DIAGNÓSTICO MOTIVO DE CONSULTA Y/O ACTIVIDAD DE SALUD, anote:
+     En el 1º casillero: Seguimiento de contacto
+
+ En el ítem LAB, anote:
+     En el 1º casillero: 463
+     En el 2º casillero: N° de contactos monitoreados
+
+ En el ítem CÓDIGO, anote: Código CPMS
+     En el 1º casillero: 99199.10
+
+              D.N.I.
+                                                                                                                                                                      TIPO DE          VALOR
+                            FINANC.   DISTRITO DE PROCEDENCIA
+                                                                              PERIMETRO    EVALUACION   ESTA- SER-                                                  DIAGNÓSTICO         LAB
+                                                                                                                              DIAGNÓSTICO MOTIVO DE CONSULTA                                         CÓDIGO
+ DIA     HISTORIA CLINICA                                       EDAD   SEXO    CEFALICO- ANTROPOMETRICA BLEC VICIO
+                                                                                                                                   Y/O ACTIVIDAD DE SALUD                                           CIE/CPMSS
+                                                                              ABDOMINAL   HEMOGLOBINA
+
+       GESTANTE/PUERPERA    ETNIA        CENTRO POBLADO                                                                                                             P   D   R     1º    2º     3º
+
+
+NOMBRES Y APELLIDOS PACIENTE:
+
+
+(*)FECHA DE NACIMIENTO: _____/____/______                          FECHA ULTIMO RESULTADO DE Hb: _____/____/_____         FECHA DE ULTIMA REGLA: ____/____/______
+
+
+                                                                   A            PC         PESO           N     N    1. Seguimiento de contacto                     P   D   R     463               99199.10
+                                                                        M
+             APP108                                                M           Pab        TALLA           C     C    2.                                             P   D   R
+
+                                                                   D     F    Ppreg         Hb            R     R    3.                                             P   D   R
+
+
+
+
+                                                                                                                                                                                                                13
+  Manual de registro y codificación de las actividades de vigilancia
+  epidemiológica e inteligencia sanitaria
+
+
+
+ NOTIFICACIÓN DE BROTES U OTROS EVISAP
+
+ Es la comunicación oficial y obligatoria que realiza el responsable de la vigilancia epidemiológica,
+ o quien haga sus veces, tras detectar o recibir y verificar un reporte de incremento o aparición
+ inusual de casos de una enfermedad en un área geográfica delimitada, durante un periodo de
+ tiempo y afectando un numero determinado de personas, en el cual el o los casos tienen un nexo
+ epidemiológico .
+
+ Todo brote o emergencia sanitaria debe ser notificado al siguiente nivel de la Red de Vigilancia y
+ de manera inmediata, después de haber sido identificado.
+
+ En el ítem HISTORIA CLÍNICA, anote:
+     APP100 (Correspondiente a ESTABLECIMIENTO DE SALUD)
+
+ En el ítem DIAGNÓSTICO MOTIVO DE CONSULTA Y/O ACTIVIDAD DE SALUD, anote:
+     En el 1º casillero: Investigación de brotes
+
+ En el ítem LAB, anote:
+     En el 1º casillero: 464
+     En el 2º casillero: Registrar N° de brotes u otros EVISAP notificados
+
+ En el ítem CÓDIGO, anote: Código CPMS
+     En el 1º casillero: C0081
+
+              D.N.I.
+                                                                                                                                                                      TIPO DE          VALOR
+                            FINANC.   DISTRITO DE PROCEDENCIA
+                                                                              PERIMETRO    EVALUACION   ESTA- SER-                                                  DIAGNÓSTICO         LAB
+                                                                                                                              DIAGNÓSTICO MOTIVO DE CONSULTA                                         CÓDIGO
+ DIA     HISTORIA CLINICA                                       EDAD   SEXO    CEFALICO- ANTROPOMETRICA BLEC VICIO
+                                                                                                                                   Y/O ACTIVIDAD DE SALUD                                           CIE/CPMSS
+                                                                              ABDOMINAL   HEMOGLOBINA
+
+       GESTANTE/PUERPERA    ETNIA        CENTRO POBLADO                                                                                                             P   D   R     1º    2º     3º
+
+
+NOMBRES Y APELLIDOS PACIENTE:
+
+
+(*)FECHA DE NACIMIENTO: _____/____/______                          FECHA ULTIMO RESULTADO DE Hb: _____/____/_____         FECHA DE ULTIMA REGLA: ____/____/______
+
+
+                                                                   A            PC         PESO           N     N    1. Investigación de brotes                     P   D   R     464    1           C0081
+                                               Junín                    M
+             APP100                                                M           Pab        TALLA           C     C    2.                                             P   D   R
+
+                                               Junín               D     F    Ppreg         Hb            R     R    3.                                             P   D   R
+
+
+
+
+                                                                                                                                                                                                                14
+  Manual de registro y codificación de las actividades de vigilancia
+  epidemiológica e inteligencia sanitaria
+
+
+
+ INVESTIGACIÓN DE BROTE
+
+ Proceso sistemático realizado ante la notificación inicial de un brote con la finalidad de confirmar
+ de manera oportuna la existencia de un brote, determinar sus posibles causas y mecanismos de
+ transmisión para implementar las medidas efectivas de prevención y control que permitan
+ mitigar los efectos negativos sobre la salud de la población.
+
+ La actividad puede ser desarrollada por el equipo local de salud o el equipo de respuesta rápida
+ de forma intramural en los establecimientos de salud o extramural en domicilios, lugares de
+ trabajo, colegios, guarderías entre otros.
+
+ En el ítem HISTORIA CLÍNICA, anote:
+     APP108 (Correspondiente a COMUNIDAD)
+     APP93 (Correspondiente a COLEGIOS)
+     APP139 (Correspondiente a ACTIVIDADES EN CENTROS PENITENCIARIOS)
+     APP101 (Correspondiente a OTRAS ORGANIZACIONES NO MENCIONADAS)
+
+ En el ítem DIAGNÓSTICO MOTIVO DE CONSULTA Y/O ACTIVIDAD DE SALUD, anote:
+     En el 1º casillero: Investigación de brotes
+
+ En el ítem LAB, anote:
+     En el 1º casillero: 465
+     En el 2º casillero: Registrar N° de casos investigados
+
+ En el ítem CÓDIGO, anote: Código CPMS
+     En el 1º casillero: C0081
+
+              D.N.I.
+                                                                                                                                                                      TIPO DE          VALOR
+                            FINANC.   DISTRITO DE PROCEDENCIA
+                                                                              PERIMETRO    EVALUACION   ESTA- SER-                                                  DIAGNÓSTICO         LAB
+                                                                                                                              DIAGNÓSTICO MOTIVO DE CONSULTA                                         CÓDIGO
+ DIA     HISTORIA CLINICA                                       EDAD   SEXO    CEFALICO- ANTROPOMETRICA BLEC VICIO
+                                                                                                                                   Y/O ACTIVIDAD DE SALUD                                           CIE/CPMSS
+                                                                              ABDOMINAL   HEMOGLOBINA
+
+       GESTANTE/PUERPERA    ETNIA        CENTRO POBLADO                                                                                                             P   D   R     1º    2º     3º
+
+
+NOMBRES Y APELLIDOS PACIENTE:
+
+
+(*)FECHA DE NACIMIENTO: _____/____/______                          FECHA ULTIMO RESULTADO DE Hb: _____/____/_____         FECHA DE ULTIMA REGLA: ____/____/______
+
+
+                                                                   A            PC         PESO           N     N    1. Investigación de brotes                     P   D   R     465 20             C0081
+                                               Junín                    M
+             APP93                                                 M           Pab        TALLA           C     C    2.                                             P   D   R
+
+                                               Junín               D     F    Ppreg         Hb            R     R    3.                                             P   D   R
+
+
+
+
+                                                                                                                                                                                                                15
+  Manual de registro y codificación de las actividades de vigilancia
+  epidemiológica e inteligencia sanitaria
+
+
+
+ CAPACITACIÓN EN VIGILANCIA EPIDEMIOLÓGICA
+
+ Actividad, presencial o virtual, orientada a reforzar las competencias y habilidades del personal
+ de salud o, a ampliar conocimientos sobre salud pública y promover prácticas saludables en la
+ población para mejorar la salud individual y colectiva.
+
+ En el ítem HISTORIA CLÍNICA, anote:
+     APP100 (Correspondiente a ESTABLECIMIENTO DE SALUD)
+     APP108 (Correspondiente a COMUNIDAD)
+     APP93 (Correspondiente a COLEGIOS)
+
+ En el ítem DIAGNÓSTICO MOTIVO DE CONSULTA Y/O ACTIVIDAD DE SALUD, anote:
+     En el 1º casillero: Sesión educativa
+
+ En el ítem LAB, anote:
+     En el 1º casillero: 467
+     En el 2º casillero: Registrar N° de capacitados
+
+ En el ítem CÓDIGO, anote: Código CPMS
+     En el 1º casillero: C0009
+
+
+
+
+              D.N.I.
+                                                                                                                                                                      TIPO DE          VALOR
+                            FINANC.   DISTRITO DE PROCEDENCIA
+                                                                              PERIMETRO    EVALUACION   ESTA- SER-                                                  DIAGNÓSTICO         LAB
+                                                                                                                              DIAGNÓSTICO MOTIVO DE CONSULTA                                         CÓDIGO
+ DIA     HISTORIA CLINICA                                       EDAD   SEXO    CEFALICO- ANTROPOMETRICA BLEC VICIO
+                                                                                                                                   Y/O ACTIVIDAD DE SALUD                                           CIE/CPMSS
+                                                                              ABDOMINAL   HEMOGLOBINA
+
+       GESTANTE/PUERPERA    ETNIA        CENTRO POBLADO                                                                                                             P   D   R     1º    2º     3º
+
+
+NOMBRES Y APELLIDOS PACIENTE:
+
+
+(*)FECHA DE NACIMIENTO: _____/____/______                          FECHA ULTIMO RESULTADO DE Hb: _____/____/_____         FECHA DE ULTIMA REGLA: ____/____/______
+
+
+                                                                   A            PC         PESO           N     N    1. Sesión educativa                            P   D   R     467 50             C0009
+                                               Piura                    M
+             APP100                                                M           Pab        TALLA           C     C    2.                                             P   D   R
+
+                                               Piura               D     F    Ppreg         Hb            R     R    3.                                             P   D   R
+
+
+
+
+                                                                                                                                                                                                                16
+  Manual de registro y codificación de las actividades de vigilancia
+  epidemiológica e inteligencia sanitaria
+
+
+
+ COORDINACIÓN CON ACTORES SOCIALES PARA EL ANÁLISIS DE SITUACIÓN LOCAL
+
+ Conjunto de actividades desarrolladas dentro del proceso de análisis de situación de salud en las
+ que participan actores sociales. El actor social es el sujeto individual (persona) o colectivo
+ (organización, institución u otra, formal o informal) que detecta la capacidad de intervenir o
+ influir en forma significativa en una población o situación o con recursos de poder estratégicos en
+ procesos de construcción comunitaria.
+
+ El actor social puede participar en las siguientes actividades del proceso de análisis de situación
+ de salud:
+
+          Análisis del entorno, de los determinantes sociales y de los problemas de salud
+          Priorización de los problemas con impacto sanitario y los territorios vulnerables (incluye
+          análisis integrado)
+          Propuesta de líneas de acción para resolver los problemas con impacto sanitario priorizados
+
+ Estas actividades se pueden desarrollar como entrevistas individuales, entrevistas grupales,
+ grupos focales y talleres.
+
+ En el ítem HISTORIA CLÍNICA, anote:
+     APP150 (Correspondiente a ACTIVIDADES CON AUTORIDADES)
+     APP138 (Correspondiente a AGENTE COMUNITARIO EN SALUD)
+
+ En el ítem DIAGNÓSTICO MOTIVO DE CONSULTA Y/O ACTIVIDAD DE SALUD, anote:
+
+          En el 1º casillero: Análisis de la situación de salud; identificación de necesidades de salud de
+          la población con participación de la comunidad
+
+ En el ítem LAB, anote:
+     En el 1º casillero: Registrar N° de participantes
+
+ En el ítem CÓDIGO, anote: Código CPMS
+     En el 1º casillero: C0071
+
+
+              D.N.I.
+                                                                                                                                                                                 TIPO DE          VALOR
+                            FINANC.   DISTRITO DE PROCEDENCIA
+                                                                              PERIMETRO    EVALUACION   ESTA- SER-                                                             DIAGNÓSTICO         LAB
+                                                                                                                              DIAGNÓSTICO MOTIVO DE CONSULTA                                                    CÓDIGO
+ DIA     HISTORIA CLINICA                                       EDAD   SEXO    CEFALICO- ANTROPOMETRICA BLEC VICIO
+                                                                                                                                   Y/O ACTIVIDAD DE SALUD                                                      CIE/CPMSS
+                                                                              ABDOMINAL   HEMOGLOBINA
+
+       GESTANTE/PUERPERA    ETNIA        CENTRO POBLADO                                                                                                                        P   D   R     1º    2º     3º
+
+
+NOMBRES Y APELLIDOS PACIENTE:
+
+
+(*)FECHA DE NACIMIENTO: _____/____/______                          FECHA ULTIMO RESULTADO DE Hb: _____/____/_____         FECHA DE ULTIMA REGLA: ____/____/______
+
+                                                                                                                        Análisis de la situación de salud; identificación de
+                                                                   A            PC         PESO           N     N    1. necesidades de salud de la población con               P   D   R     10                 C0071
+                                               Junín                    M                                               participación de la comunidad
+
+             APP138                                                M           Pab        TALLA           C     C    2.                                                        P   D   R
+
+                                               Junín               D     F    Ppreg         Hb            R     R    3.                                                        P   D   R
+
+
+
+
+                                                                                                                                                                                                                           17
+  Ministerio de Salud
+ Av. Salaverry 801 - Lima
+    Jesús María - Perú
+ Telef: (511) 315 - 6600
+   www.gob.pe/minsa
+webmaster@minsa.gob.pe
+
